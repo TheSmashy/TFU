@@ -9,7 +9,10 @@
 The TFU‑E1 is a compact EDC flashlight built from the rugged Convoy S2+ host and hand‑tuned for serious users who need dependable light.  Built and tested in the U.S., it’s offered in two versions to suit different color temperature preferences:
 
 - **Mk I (3500 K):** Uses a warm‑white emitter for natural color rendering and comfortable low‑light use.
+- *This warm CCT emitter is good for rain, fog, snow, and dust.  Also, warmer light has a reduced signature.*  
+  
 - **Mk II (5000 K):** Features a neutral‑white emitter for balanced color reproduction and increased brightness.
+- *This neutral CCT is good for technical work, inspection, and more natural color resolution.*  
 
 Both versions share the same high‑quality components and are assembled with attention to reliability, function and field use.
 

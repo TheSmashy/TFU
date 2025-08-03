@@ -2,6 +2,8 @@
 
 ![TFU Logo](TFU-LOGO.png)
 
+TFU builds high-performance, hand-assembled flashlights for real-world use — tested, hardened, and field-ready.
+
 **TFU** is a hard‑use custom flashlight brand. Each light is hand‑made in the USA using high‑quality Convoy components and tuned by hand for reliability, function and real‑world durability. Our mission is to provide serious users—adventurers, first responders, and field professionals—with dependable lighting tools they can trust in any situation.
 
 ## About
@@ -11,6 +13,13 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 - **Reliability** – consistent output and long‑term durability.
 - **Function** – intuitive controls and useful beam profiles.
 - **Field use** – rugged construction to withstand demanding environments.
+
+## Current Builds
+
+| Model | Role | Status |
+|-------|------|--------|
+| [TFU-E1](hardware/TFU-E1.md) | EDC Light | ✅ Complete |
+| [TFU-F1](hardware/TFU-F1.md) | Field / Work | 🧪 In Testing |
 
 ## Directory structure
 
@@ -44,4 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or custom orders, reach out via email at [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) or open an issue on this repository.
+
+>TFU: Real gear. Real hands. Real-world ready.
 

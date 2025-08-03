@@ -8,8 +8,8 @@
 
 ## Overview
 
-- *Mark I* – low signature, high CRI, enhanced visibility
-- *Mark II* – warm white, visual clarity, high CRI, true color
+- **Mark I:** 3500K – low signature, warm-neutral tint, enhanced visibility
+- **Mark II:** 5000K – clean white, excellent clarity, vibrant color rendering
 
 ## Mission Profile
 
@@ -50,13 +50,16 @@ Easy to carry, long endurance, rugged 18350 light with a useful beam. CRI over l
 
 ## Bill of Materials (BOM)
 
-- Host: Tan Convoy S2+
-- Black 18350 tube
-- Black steel pocket clip
-- B35AM on 16mm MCPCB (3500K or 5000K)
-- 17mm 6V 2A boost driver
-- 20mm 20 degree bead TIR
+- **Host:** Tan Convoy S2+
+- **Battery Tube:** Black 18350
+- **Clip:** Black steel pocket clip with custom hardware
+- **Emitter:** B35AM on 16mm MCPCB (3500K or 5000K)
+- **Driver:** 17mm 6V 2A boost
+- **Optic:** 20mm 20° bead TIR
 
+> **Version:** TFU-E1 Mk I  
+> **Last Updated:** 2025-08-03
 ---
 Built by hand in the U.S.  
-TFU Project: [github.com/TheSmashy/TFU](https://github.com/TheSmashy/TFU)
+For full documentation and updates, visit:  
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)

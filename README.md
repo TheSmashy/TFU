@@ -43,5 +43,5 @@ Please keep our emphasis on reliability and field‑ready performance in mind wh
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
+For questions or custom orders, reach out via email at [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) or open an issue on this repository.
 
-For questions or custom orders, open an issue or contact the maintainers through the repository discussions.

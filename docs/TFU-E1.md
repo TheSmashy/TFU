@@ -1,6 +1,6 @@
 # Welcome to Your TFU-E1
 
-![TFU Logo](../TFU-LOGO.pngo)
+![TFU Logo](../TFU-LOGO.png)
 
 **Welcome to TFU – Real gear for hard use**
 
@@ -8,12 +8,12 @@
 
 ## Overview
 
-- **Mark I** – low signature, high CRI, enhanced visibility
-- **Mark II** – warm white, visual clarity, high CRI, true color
+- *Mark I* – low signature, high CRI, enhanced visibility
+- *Mark II* – warm white, visual clarity, high CRI, true color
 
 ## Mission Profile
 
-Easy to carry, long endurance, rugged 18350 light with a useful beam.  CRI over lumens.
+Easy to carry, long endurance, rugged 18350 light with a useful beam. CRI over lumens.
 
 ## Custom/Boutique Highlights
 

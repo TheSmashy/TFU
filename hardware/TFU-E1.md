@@ -14,6 +14,8 @@ The TFU‑E1 is a compact EDC flashlight built from the rugged Convoy S2+ host 
 
 Both versions share the same high‑quality components and are assembled with attention to reliability, function and field use.
 
+![TFU-E1 hero shot](../Assets/Hero-Shot-01.jpg)
+
 ## Specifications
 
 - **Cell size:** 18350

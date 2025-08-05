@@ -29,8 +29,8 @@ This repository houses the firmware, hardware designs, and documentation that su
 .
 ├── docs/            # Brand and technical documentation
 ├── hardware/        # Mechanical designs and specifications
-├── firmware/        # Firmware and driver code for light control
 ├── assets/          # Images, logos, and other static assets
+├── script/          # Scripts used to test lights
 ├── tests/           # Tests and validation scripts
 └── README.md        # Project overview (this file)
 ```

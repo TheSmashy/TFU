@@ -29,7 +29,7 @@ Both versions share the same high‑quality components and are assembled with at
 - **Dimensions:** 86 mm length × 24.1 mm diameter
 - **Clip:** Black steel tail clip
 - **Hardening:** Loctite 242, CS109 thermal adhesive
-- **Water protection:** IPX8
+- **Water protection:** [IPX8](../Assets/TFU-E1-Dunk-Test.jpg)
 - **Impact resistance:** 1 m drop tested
 - **Electrical mod:** Tail spring bypass (22 AWG)
 

@@ -10,7 +10,7 @@ Compact everyday carry lights built for reliability and convenience.
 
 Lights designed for field work with extended runtime and rugged construction.
 
-- Models in this series are currently in development. Stay tuned!
+- [TFU-F3](TFU-F3.md) - Quad 519A mule based on S16 host with 6 V 8 A buck.
 
 ## T Series – Tactical
 

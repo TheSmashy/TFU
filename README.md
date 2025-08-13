@@ -20,7 +20,7 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 |-------|------|--------|
 | [TFU-E1](hardware/TFU-E1.md) | EDC Light | ✅ Complete |
 | [TFU-F1](hardware/TFU-F1.md) | Field / Work | 🧪 In Testing |
-| [TFU-F3](hardware/TFU=F3.md) | Field / Mule | ✅ Complete |
+| [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 
 ## Directory structure
 

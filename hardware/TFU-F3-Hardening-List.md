@@ -16,4 +16,4 @@
 - [x] Confirm o-ring placement and compression at bezel  
 - [x] Torque bezel to snug fit without over-tightening  
 - [x] Test switch action and mode changes post-assembly  
-- [x] Conduct initial waterproof dunk test (optional but recommended)
+- [x] Conduct initial waterproof dunk test (every light gets a dunk, just not for 15 minutes)

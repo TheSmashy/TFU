@@ -22,6 +22,10 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 | [TFU-F1](hardware/TFU-F1.md) | Field / Work | 🧪 In Testing |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 
+## Warranty
+Built to last, and I stand by it — **lifetime warranty** on workmanship and materials.  
+Details (and helicopter stories) here: [WARRANTY.md](WARRANTY.md)
+
 ## Directory structure
 
 This repository houses the firmware, hardware designs, and documentation that support the TFU brand. A typical layout looks like this:

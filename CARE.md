@@ -25,4 +25,4 @@ Your TFU light is built to last. With a little care, it will serve you for decad
 ---
 
 **Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com)  
-**Last Updated:** YYYY-MM-DD
+**Last Updated:** 2025-08-15

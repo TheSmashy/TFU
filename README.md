@@ -22,9 +22,10 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 | [TFU-F1](hardware/TFU-F1.md) | Field / Work | 🧪 In Testing |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 
-## Warranty
-Built to last, and I stand by it — **lifetime warranty** on workmanship and materials.  
-Details (and helicopter stories) here: [WARRANTY.md](WARRANTY.md)
+## Warranty and Care
+Stuff breaks, stories happen — I’ll stand behind the build.  
+- [WARRANTY.md](WARRANTY.md): Lifetime coverage on workmanship & materials  
+- [CARE.md](CARE.md): Keep your light clean, lubed, and running strong
 
 ## Charging
 Please read my thoughts on Charging here: [Charging.md](Charging.md)

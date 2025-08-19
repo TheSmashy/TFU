@@ -36,6 +36,17 @@ Mission‑focused lights designed for controlled output, momentary activation, a
 
 ---
 
+## Cell Options for TFU-T1
+
+**Assumptions:** 8A on “100%”, ~1.6A on “20%”; buck ~90% efficient; nominal 3.6V; conservative real-world derates for sag/thermal.
+
+| Option               | Cell        | Capacity | Cont. Discharge | Est. Runtime @ 100% (8A) | Est. Runtime @ 20% (~1.6A) | Runtime Profile                                   | Best For                      |
+|----------------------|-------------|----------|------------------|--------------------------|----------------------------|---------------------------------------------------|-------------------------------|
+| **Duty / Hardcore**  | Samsung 25R | 2500 mAh | 20A              | ~18–20 min               | ~85–95 min                 | Shorter runtime, very strong regulation, minimal sag | Tactical / duty (max punch)   |
+| **Heavy EDC**        | Samsung 30Q | 3000 mAh | 15A              | ~22–24 min               | ~105–115 min               | Longer runtime, slight sag at sustained high draw | EDC with extra runtime        |
+| **No Cell (-$10)**   | N/A         | N/A      | N/A              | User-supplied            | User-supplied              | Flexible for buyers with existing cells           | BYO cell                      |
+
+---
 ## Status
 
 Currently in development (prototype stage). Pending:

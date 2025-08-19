@@ -17,6 +17,6 @@ Lights designed for field work with extended runtime and rugged construction.
 
 ## T Series – Tactical
 
-Tactical lights with mission‑focused features such as momentary switches and strike bezels.
+- [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light, in testing and evauluation.
 
 - Models in this series are currently in development. Stay tuned!

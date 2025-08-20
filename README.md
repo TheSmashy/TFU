@@ -21,7 +21,7 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 | [TFU-E1](hardware/TFU-E1.md) | EDC Light | ✅ Complete |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 
-See the [Hardware Series Index](hardware/Hardware-Series-Index.md) for in-development and planned models.
+See the [Hardware README](hardware/README.md) for in-development and planned models.
 
 ## Warranty and Care
 Stuff breaks, stories happen — I’ll stand behind the build.  

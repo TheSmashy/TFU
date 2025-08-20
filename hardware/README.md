@@ -17,5 +17,12 @@ Lights designed for field work with extended runtime and rugged construction.
 
 ## T Series – Tactical
 
-- [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light, in testing and evauluation.
+- [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light, in testing and evaluation.
 
+## B Series – Beacon
+
+Dedicated distress and signaling lights designed for maximum visibility and runtime.
+
+- [TFU-B1](TFU-B1-B2.md) – “Beacon Blue” prototype. Osram Blue, 7135×5 driver, in testing.
+- [TFU-B2](TFU-B1-B2.md) – “Beacon Red” Mk I Mod 0 planned. Osram Red, 7135×5 driver.
+```

@@ -36,7 +36,7 @@ _Primary mission:_ Easy-to-carry, long-endurance, rugged 18350 EDC with a practi
 
 ## Driver & UI
 
-- **Driver:** 6V boost, Mode Group 10  
+- **Driver:** 6V 2A boost, Mode Group 10  
 - **Modes:** 1% → 10% → 35% → 100%  
 - **Memory:** Off (always starts at 1%)  
 - **Switch:** Reverse clicky; full press ON/OFF, tap to cycle modes

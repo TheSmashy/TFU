@@ -2,65 +2,55 @@
 
 ![TFU Logo](../TFU-LOGO.png)
 
-**Welcome to TFU – Real gear for hard use**
+**Welcome to TFU – Real Gear for Hard Use**
 
-**TFU-F3 – Field / Flood Utility**
+---
+
+**Model:** TFU-F3 (Field / Flood Utility)  
+
+**Contact Support:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) | Reddit DM: u/thesmashy  
+**Warranty:** Lifetime—details [here](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+
+---
 
 ## Overview
 
-Quad-emitter mule configuration for maximum flood and situational awareness. Designed for sustained high-CRI output in open or enclosed work areas where beam discipline is not required. Built for real-world use with hardened mechanicals and thermal path.
+Quad-emitter mule configuration for maximum flood and situational awareness. Designed for sustained high-CRI output in work areas. Not for covert/tactical—this is a wall-of-light tool!
 
-## Mission Profile
+## At a Glance
 
-Field utility light with sustained output, massive wall of light, and accurate color rendering. Purpose-built for inspection, camp/task lighting, and worksite use. Not intended for covert or tactical applications.
+- **Emitter:** Nichia 519A Quad, 4500K, high CRI
+- **Driver:** 6V 8A buck, Mode Group 10
+- **Cell:** 21700 (recommend Molicel P45B)
+- **Optic:** Mule/no optic—maximum wall-of-light
 
-## Specifications
+| Mode  | % Output | Lumens | Runtime (est., P45B) |
+|-------|----------|--------|----------------------|
+| Low   | 1%       | ~40    | 150–170h             |
+| Med1  | 10%      | ~400   | 15–17h               |
+| Med2  | 35%      | ~1400  | 4.5–5.5h             |
+| High  | 100%     | ~4000  | 35–45min             |
 
-- **Emitter:** Nichia 519A Quad
-- **CCT:** 4500K – balanced tint, excellent CRI, reduced eye strain
-- **Driver:** 6V 8A buck
-- **Cell:** 21700
-- **Recommended Cell:** Molicel P45B (45A CD, 4500mAh)
+*Estimates vary by cell condition and use.*
+*Heat regulation is goiing to be an issue on 100%*
 
-| Mode | % Output | Estimated Lumens | Estimated Runtime (P45B cell) |
-|------|----------|------------------|--------------------------------|
-| Low  | 1%       | ~40 lm           | ~150–170 hours                 |
-| Med1 | 10%      | ~400 lm          | ~15–17 hours                   |
-| Med2 | 35%      | ~1400 lm         | ~4.5–5.5 hours                  |
-| High | 100%     | ~4000 lm         | ~35–45 minutes                  |
+## Quick Start
+- Open tailcap, remove DC Fix disk blocking battery and spring
+- From OFF, full press = ON (starts at 1%)
+- Tap to cycle modes: 1% → 10% → 35% → 100%
+- Full click OFF to shut down (always starts at 1%)
+- Lockout: unscrew tailcap 1/4 turn
 
-> *Lumens and runtimes are estimates and will vary with cell condition, ambient temperature, and mode cycling.*
+## Build Quality
 
-## Driver and UI
-
-- **Driver:** 6V 8A Buck, configured to Mode Group 10
-- **Mode Order:** 1% → 10% → 35% → 100%
-- **Memory:** Off (always starts at 1%)
-- **Operation:** Reverse clicky switch, short tap to change modes
-
-## Custom/Boutique Highlights
-
-- Tail spring bypass for "instant on" feel and maximum current delivery
-- Loctite 242 on retaining rings and hardware
-- MX-4 thermal paste and CS109 adhesive on MCPCB for hardened thermal path
-- CS109 adhesive on driver for stability under sustained load
-- Hand assembled and tuned in the U.S.
-- Fully waterproofed and drop-tested
-
-## Bill of Materials (BOM)
-
-- **Host:** Convoy S16
-- **Battery Tube:** Stock 21700
-- **Clip:** Black steel deep-carry
-- **Emitter:** Nichia 519A Quad (4500K) on 20mm MCPCB
-- **Driver:** 22mm 6V 8A buck
-- **Optic:** Mule (no optic, just AR coated lens)
-
-> **Version:** TFU-F3  
-> **Last Updated:** 2025-08-13
+- Tail spring bypass, max current, instant ON
+- Loctite 242 on all hardware, MX-4 and CS109 on MCPCB/driver
+- Waterproof and drop-tested
+- Hand-assembled and tuned in the U.S.A.
 
 ---
-Built by hand in the U.S.  
-For full documentation and updates, visit:  
-🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)
-[Waranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+
+[Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+
+---
+Built by hand in the U.S.A. | Last updated: 2025-08-13

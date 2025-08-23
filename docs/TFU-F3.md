@@ -63,3 +63,4 @@ Field utility light with sustained output, massive wall of light, and accurate c
 Built by hand in the U.S.  
 For full documentation and updates, visit:  
 🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)
+[Waranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)

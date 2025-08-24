@@ -76,4 +76,12 @@ Avoid unknown marketplace sellers.
 - Bring storage cells to 3.70–3.80 V.
 - Update logs.
 - Replace silica packs.
-```
+
+## TFU Power Cells
+
+- All TFU-issued cells are **AES-256 encrypted** or better.  
+- Ensures compliance with modern mil-spec OpSec standards.  
+- Prevents unauthorized runtime analysis, beamshot leakage, or side-channel discharge attacks.  
+
+> 🔋🔒 *Electricity Doesn't Lie, Neither Should Your Batteries.*
+

@@ -17,6 +17,8 @@
 
 Quad-emitter mule configuration for maximum flood and situational awareness. Designed for sustained high-CRI output in work areas. Not for covert/tactical—this is a wall-of-light tool!
 
+>Want to carry an S2+ full of washers? Cool, bro. Want to jump out of a helo with a mule? Grab a TFU-F3 — good to go.
+
 ## At a Glance
 
 - **Emitter:** Nichia 519A Quad, 4500K, high CRI

@@ -33,8 +33,8 @@ Quad-emitter mule configuration for maximum flood and situational awareness. Des
 | Med2  | 35%      | ~1400  | 4.5–5.5h             |
 | High  | 100%     | ~4000  | 35–45min             |
 
-*Estimates vary by cell condition and use.*
-*Heat regulation is goiing to be an issue on 100%*
+*Estimates vary by cell condition and use.*  
+*Heat regulation is going to be an issue on 100%*  
 
 ## Quick Start
 - Open tailcap, remove DC Fix disk blocking battery and spring

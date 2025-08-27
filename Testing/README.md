@@ -10,7 +10,8 @@ Goal: generate repeatable, comparable data for builds and driver swaps.
 - **Temp Probe:** DS18B20 with thermal pad, mounted to flashlight surface  
 - **Logger:** Raspberry Pi Zero W running Python logger → InfluxDB + Grafana  
 - **Mount:** GorillaPod tripod with fixed clamp, ~1m from sensor  
-- **Environment:** Indoor, controlled (ambient 20–22 °C, no airflow)
+- **Environment:** Indoor, controlled (ambient 20–22 °C, no airflow)  
+Photo of typical [rig.](https://github.com/TheSmashy/TFU/blob/main/Testing/Rig/Thermal-Test-Rig-01.jpg)  
 
 ---
 

@@ -40,31 +40,29 @@ The TFU-F3 is a high-output field/work light built on the robust Convoy S16 plat
 - **Impact resistance:** 1 m drop tested  
 - **Electrical mod:** Tail spring bypass (22 AWG)  
 
-## Low Voltage Protection (LVP) Behavior – TFU-F3
+## Low Voltage Protection (LVP) Behavior — TFU-F3
 
-The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)**.  
-This prevents cell over-discharge and ensures continued safe operation in the field.
+The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent cell over-discharge and keep the light usable in the field.
 
-- **Trigger point:** ~3.2V cell voltage  
-- **Behavior:**  
-  - When attempting to engage **Level 4 (100%)**, the light will blink once, then automatically step back to **Level 3 (35%)**.  
-  - This is not a fault condition. It is the driver signaling that the cell voltage is below the threshold for sustained maximum output.  
-- **Result:** The light remains operational at reduced levels rather than cutting off completely, extending usable runtime while protecting the cell.  
+- **Trigger:** ~**3.2 V under load** (cell may read higher at rest).
+- **Behavior:**
+  - Attempting **High (100%)** causes **one blink → automatic return to Med2 (35%)**.  
+    *Not a fault; the driver is gating turbo due to low voltage.*
+  - As voltage continues to fall, **35% will no longer sustain** and will step/refuse.
+  - **10% remains stable** down toward ~**3.0 V under load**.
+  - When the light **drops out of 10%**, the cell is effectively **~3.0 V** → **discontinue use**.
 
-### Sub-Threshold Behavior (TFU-F3)
-
-- **3.2 V (approx):** Attempting 100% triggers a **blink → hold at 35%** (LVP gate).
-- **<3.2 V and falling:** **35% will eventually step down** as voltage sags under load.
-- **10% remains stable** and is the recommended “finish the task” mode.
-- **1%** may remain usable for extended minutes; expect eventual cutoff without flicker.
+### Sub-Threshold Operation (3.2 V → ~3.0 V)
+- **3.2 V (approx):** **Blink → hold at 35%** (LVP gate on 100%).  
+- **<3.2 V and falling:** **35% becomes unstable**; **10% = finish-the-task** mode.  
+- **~3.0 V under load:** **10% drops out** (or becomes unreliable). **Stop and swap/recharge.**
 
 **Operator Guidance**
 - Treat the first **blink → 35%** as **SWAP SOON**.
-- If you must continue, drop to **10%** for the most stable final runtime.
-- **Do not deep-discharge**: stop if recovered OCV is ~3.0 V; avoid resting below ~3.0 V.
+- To stretch the last slice, **drop to 10%**; use **1%** only for map/egress.
+- **Do not deep-discharge**: remove the cell if **10% drops out** or if recovered open-circuit voltage settles near **~3.0 V** after 10 minutes rest.
 
-**Status:** Behavior observed in field; exact cutoff voltage pending full characterization.
-
+**Status:** Field-verified behavior (3.2 V gate; ~3.0 V 10% dropout) to protect the cell and maintain safe operation.
 
 ## Role & Deployment
 

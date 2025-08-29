@@ -59,6 +59,17 @@ This prevents cell over-discharge and ensures continued safe operation in the fi
 - Behavior is most often observed during extended patrols or after leaving a cell in the light down to storage voltage.  
 - Do not bypass LVP. It is integral to safe operation and preserves both the driver and 18650 cells.
 
+### Below-Threshold Operation (3.2 V → ~3.0 V)
+
+Once the cell sags to ~3.2 V, **LVP prevents 100%** and the light will **blink then hold at 35%**. From **~3.2 V down toward ~3.0 V**, the light generally remains usable at **1% / 10% / 35%**, but **runtime is limited** and voltage recovery will vary with cell health and temperature.
+
+**Operator guidance**
+- Treat **blink → 35%** as **“swap soon”**.
+- You may continue at **1–10–35%** to finish a task, but **don’t expect sustained output**.
+- **Do not run the cell flat.** Swap or recharge before the cell rests below ~3.0 V. Deep discharge accelerates wear.
+
+> Note: Exact cutoff/step behavior below ~3.0 V depends on this driver’s firmware and cell sag. Field testing pending.
+
 ## Build Quality
 
 - Tail spring bypass, max current, instant ON

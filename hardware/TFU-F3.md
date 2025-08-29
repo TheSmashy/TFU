@@ -60,6 +60,34 @@ This prevents cell over-discharge and ensures continued safe operation in the fi
 
 The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 4500 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.
 
+### LVP Characterization – Quick Test
+
+**Goal:** Determine behavior between 3.2 V and driver cutoff.
+
+**Setup**
+- Cell: P45B at ~3.25 V open-circuit (rested).
+- Meter across cell; log voltage every 30–60s.
+- Ambient noted; fan off (realistic thermal).
+- Modes tested in order: 35% → 10% → 1%.
+
+**Procedure**
+1. Insert cell (~3.2 V under load). Select **35%**; note any blinks/step.
+2. Log time-to-**~3.0 V under load** and any auto step-down/cutoff.
+3. Switch to **10%**, repeat logging until cutoff or ~2.9 V under load.
+4. Switch to **1%**, repeat, then remove cell. Record **recovered OCV** after 10 min.
+
+**Record**
+| Mode | Start V (load) | Time to 3.0 V | Behavior (blink/step/cut) | End V (load) | Recovered OCV (10 min) |
+|------|-----------------|----------------|---------------------------|--------------|------------------------|
+| 35%  |                 |                |                           |              |                        |
+| 10%  |                 |                |                           |              |                        |
+| 1%   |                 |                |                           |              |                        |
+
+**Pass/Fail (Operator)**
+- Pass: Holds 35% without oscillation; 10%/1% remain stable; clean cutoff (no flicker).
+- Fail: Flicker, brown-outs, or recovery OCV < ~3.0 V (don’t run that low in field use).
+
+
 ## Runtime & Thermal Performance
 
 ![TFU-F3 runtime graph placeholder](../Assets/TFU-F3-Runtime-Graph.jpg)  

@@ -51,42 +51,24 @@ This prevents cell over-discharge and ensures continued safe operation in the fi
   - This is not a fault condition. It is the driver signaling that the cell voltage is below the threshold for sustained maximum output.  
 - **Result:** The light remains operational at reduced levels rather than cutting off completely, extending usable runtime while protecting the cell.  
 
-### Field Notes
-- If you encounter blink + fallback, **swap or recharge the cell**.  
-- Behavior is most often observed during extended patrols or after leaving a cell in the light down to storage voltage.  
-- Do not bypass LVP. It is integral to safe operation and preserves both the driver and 18650 cells.
+### Sub-Threshold Behavior (TFU-F3)
+
+- **3.2 V (approx):** Attempting 100% triggers a **blink → hold at 35%** (LVP gate).
+- **<3.2 V and falling:** **35% will eventually step down** as voltage sags under load.
+- **10% remains stable** and is the recommended “finish the task” mode.
+- **1%** may remain usable for extended minutes; expect eventual cutoff without flicker.
+
+**Operator Guidance**
+- Treat the first **blink → 35%** as **SWAP SOON**.
+- If you must continue, drop to **10%** for the most stable final runtime.
+- **Do not deep-discharge**: stop if recovered OCV is ~3.0 V; avoid resting below ~3.0 V.
+
+**Status:** Behavior observed in field; exact cutoff voltage pending full characterization.
+
 
 ## Role & Deployment
 
 The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 4500 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.
-
-### LVP Characterization – Quick Test
-
-**Goal:** Determine behavior between 3.2 V and driver cutoff.
-
-**Setup**
-- Cell: P45B at ~3.25 V open-circuit (rested).
-- Meter across cell; log voltage every 30–60s.
-- Ambient noted; fan off (realistic thermal).
-- Modes tested in order: 35% → 10% → 1%.
-
-**Procedure**
-1. Insert cell (~3.2 V under load). Select **35%**; note any blinks/step.
-2. Log time-to-**~3.0 V under load** and any auto step-down/cutoff.
-3. Switch to **10%**, repeat logging until cutoff or ~2.9 V under load.
-4. Switch to **1%**, repeat, then remove cell. Record **recovered OCV** after 10 min.
-
-**Record**
-| Mode | Start V (load) | Time to 3.0 V | Behavior (blink/step/cut) | End V (load) | Recovered OCV (10 min) |
-|------|-----------------|----------------|---------------------------|--------------|------------------------|
-| 35%  |                 |                |                           |              |                        |
-| 10%  |                 |                |                           |              |                        |
-| 1%   |                 |                |                           |              |                        |
-
-**Pass/Fail (Operator)**
-- Pass: Holds 35% without oscillation; 10%/1% remain stable; clean cutoff (no flicker).
-- Fail: Flicker, brown-outs, or recovery OCV < ~3.0 V (don’t run that low in field use).
-
 
 ## Runtime & Thermal Performance
 

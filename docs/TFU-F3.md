@@ -82,4 +82,4 @@ Once the cell sags to ~3.2 V, **LVP prevents 100%** and the light will **blink t
 [Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
 
 ---
-Built by hand in the U.S.A. | Last updated: 2025-08-13
+Built by hand in the U.S.A. | Last updated: 2025-08-29

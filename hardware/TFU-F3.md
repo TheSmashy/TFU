@@ -40,6 +40,22 @@ The TFU-F3 is a high-output field/work light built on the robust Convoy S16 plat
 - **Impact resistance:** 1 m drop tested  
 - **Electrical mod:** Tail spring bypass (22 AWG)  
 
+## Low Voltage Protection (LVP) Behavior – TFU-F3
+
+The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)**.  
+This prevents cell over-discharge and ensures continued safe operation in the field.
+
+- **Trigger point:** ~3.2V cell voltage  
+- **Behavior:**  
+  - When attempting to engage **Level 4 (100%)**, the light will blink once, then automatically step back to **Level 3 (35%)**.  
+  - This is not a fault condition. It is the driver signaling that the cell voltage is below the threshold for sustained maximum output.  
+- **Result:** The light remains operational at reduced levels rather than cutting off completely, extending usable runtime while protecting the cell.  
+
+### Field Notes
+- If you encounter blink + fallback, **swap or recharge the cell**.  
+- Behavior is most often observed during extended patrols or after leaving a cell in the light down to storage voltage.  
+- Do not bypass LVP. It is integral to safe operation and preserves both the driver and 18650 cells.
+
 ## Role & Deployment
 
 The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 4500 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.

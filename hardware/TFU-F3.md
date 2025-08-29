@@ -64,6 +64,17 @@ The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 
 **Status:** Field-verified behavior (3.2 V gate; ~3.0 V 10% dropout) to protect the cell and maintain safe operation.
 
+### Voltage Bands (under load) — Quick Reference
+
+| Cell V (load) | Expected Behavior | Operator Action |
+|---:|---|---|
+| **≥ 3.6 V** | All modes available; 100% generally sustained (thermal permitting). | Run as needed. |
+| **3.2–3.6 V** | **100% gated** (blink → 35%); **35% stable**; 10% very stable. | Treat as **SWAP SOON**; use 35%/10%. |
+| **3.0–3.2 V** | **35% may step/refuse**; **10% stable**; 1% extended. | **Finish at 10%**; monitor closely. |
+| **< 3.0 V** | **10% drops out / unreliable**; protection near cutoff. | **Discontinue use**; swap/recharge. |
+
+*Note:* “Under load” voltage will read lower than open-circuit. Re-check OCV ~10 minutes after removal; if it settles near **~3.0 V**, consider the cell field-dead for that cycle.
+
 ## Role & Deployment
 
 The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 4500 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.

@@ -62,6 +62,9 @@ Stuff breaks, stories happen — I’ll stand behind the build.
 - [WARRANTY.md](WARRANTY.md): Lifetime coverage on workmanship & materials  
 - [CARE.md](CARE.md): Keep your light clean, lubed, and running strong  
 
+## Operations
+For field use guidance and do’s/don’ts, see [Operations.md](Operations.md).
+
 ---
 
 ## Charging

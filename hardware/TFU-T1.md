@@ -63,4 +63,6 @@ Mission-focused lights designed for controlled output, momentary activation, and
 **TFU-T1** — First tactical model in the TFU lineup.  
 Planned disposition: single variant in **6500K**.
 
+**Objective:** Build a compact duty light with forward clicky control, simplified modes, and SFT40 candela — hardened to survive real-world carry and deployment.
+
 > Tactical, compact, SureFire-grade ruggedness — TFU’s first purpose-built duty light.

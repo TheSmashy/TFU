@@ -8,7 +8,7 @@ Your TFU light is built to last. With a little care, it will serve you for decad
 - **Threads & O-rings:** A light wipe-down with a cloth is usually enough. If dirty, use a dry toothbrush or cotton swab.
 
 ## Lubrication
-- Apply a **thin film of silicone grease** to O-rings when they appear dry or after cleaning.  
+- Apply a **thin film of silicone grease** to O-rings when they appear dry or after cleaning.  We recommend Super Lube 21030 Synthetic Multi-Purpose Grease.    
 - Do not use petroleum-based lubricants — they can degrade rubber.
 
 ## Batteries

@@ -75,4 +75,6 @@ Please read my thoughts on Charging here: [Charging.md](Charging.md)
 ## Contact
 For questions or custom orders, reach out via email at [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) or open an issue on this repository.
 
-> TFU: Real gear. Real hands. Real-world ready.
+> TFU: Real gear. Real hands. Real-world ready.  
+
+>TFU lights are hardened, tested tools for when good isn’t enough — when you need better, you need the best. You don’t have to spend Cloud Defensive or SureFire money. A washed-up operator found inner peace building lights from Convoy parts, kitted out like they’re meant for the tip of the spear.  

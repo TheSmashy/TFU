@@ -17,6 +17,7 @@ This section contains technical notes, hardening lists, and supporting documents
 ## E Series – Everyday Carry (EDC)
 Compact everyday carry lights built for reliability and convenience.
 
+- [TFU-E0](TFU-E0.md) - 14500 Sized EDC light, easy carry, duel fuel.  Available with 519A or SST-20-DR.
 - [TFU-E1](TFU-E1.md) – Compact Convoy S2+ based EDC model. [Hardening notes.](TFU-E1-Hardening-List.md) 
 - [TFU-E2](TFU-E2.md) – Triple 219BT S2 build, optimized for high-CRI output and thermal balance. 
 
@@ -38,6 +39,8 @@ Distress and signaling lights designed for maximum visibility and runtime.
 - [TFU-B1](TFU-B1-B2.md) – “Beacon Blue” prototype. Osram Blue, 7135×5 driver. 
 - [TFU-B2](TFU-B1-B2.md) – “Beacon Red” Mk I Mod 0. Osram Red, 7135×5 driver. 
 
+## Shop Standards  
+[Standard TFU Shop Standards.](ShopStandards.md)
 
 Questions, suggestions, or want to collaborate?  
 Open an issue or [contact support](mailto:TFU-Lights@wmode.anonaddy.com).

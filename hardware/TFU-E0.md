@@ -1,3 +1,4 @@
+
 # TFU-E0 Pocket Series (Concept Hardware Sheet)
 
 ## Overview
@@ -16,21 +17,20 @@ A “gateway” light into the TFU brand: small enough to pocket, simple enough 
 ---
 
 ## Optics & Output
-- **Optic:** Upgraded TIR (15° bead or matte)
-- **Glass:** AR-coated lens
+- **Optic:** Upgraded 17 mm TIR, **30° bead** (default)
 - **Output (estimates):** 600–800 lm peak depending on emitter choice
-- **Beam Profile:** Smooth hotspot, wide usable spill
+- **Beam Profile:** Defined hotspot with usable spill (no “room flood” effect)
 
 ---
 
 ## Emitter Options
 1. **Nichia 519A 4500K CRI90**
    - High-CRI, balanced tint for everyday utility
-   - Ideal for reading, inspection, indoor/outdoor tasks
+   - Works cleanly with 30° bead TIR
 
 2. **Luminus SST-20-DR 660nm (Deep Red)**
    - Specialized for signaling, preserving night vision
-   - Fire/Signal kit compatibility
+   - Small die pairs well with 30° bead TIR
 
 ---
 
@@ -63,7 +63,7 @@ A “gateway” light into the TFU brand: small enough to pocket, simple enough 
 
 ## Next Steps (Build & Test)
 - Source bulk Acebeam cells → validate compatibility
-- Test TIR upgrades (bead vs matte)
+- Test TIR upgrades (30° bead confirmed, matte variant TBD)
 - Run emitter swaps (519A 4500K, SST-20-DR 660nm)
 - Spring bypass prototype
 - Capture runtime/thermal data
@@ -72,4 +72,7 @@ A “gateway” light into the TFU brand: small enough to pocket, simple enough 
 ---
 
 *This document is a living concept sheet. Specs, options, and design may change as testing and hardening progress.*
+
+>Version 0.1A
+>11-09-2025
 ```

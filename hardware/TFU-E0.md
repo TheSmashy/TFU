@@ -9,7 +9,7 @@ A “gateway” light into the TFU brand: small enough to pocket, simple enough 
 
 ## Host & Form Factor
 - **Base:** Convoy T5 host
-- **Cell:** 16340/18350, USB-C rechargeable (Acebeam protected recommended)
+- **Cell:** 14500, USB-C rechargeable (Acebeam protected recommended)
 - **Form:** Slim pocket EDC, one-hand operation
 - **UI:** Tail clicky, simple mode set
 

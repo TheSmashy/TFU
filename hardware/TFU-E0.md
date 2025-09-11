@@ -43,7 +43,7 @@ A “gateway” light into the TFU brand: small enough to pocket, simple enough 
 ---
 
 ## Power System
-- **Cells:** Acebeam USB-C rechargeable 16340/18350 (bulk-sourced)
+- **Cells:** Acebeam USB-C rechargeable 14500 (bulk-sourced)
 - **Charging:** USB-C direct, safe, standardized
 - **Runtime:** Optimized for practical EDC cycles (multi-hour low, strong high)
 

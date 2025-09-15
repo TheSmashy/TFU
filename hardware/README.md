@@ -36,8 +36,8 @@ Mission-focused lights with features for field/tactical use.
 ## TFU-Signal Series
 Distress and signaling lights designed for maximum visibility and runtime.
 
-- [TFU-B1](TFU-B1-B2.md) – “Beacon Blue” prototype. Osram Blue, 7135×5 driver. 
-- [TFU-B2](TFU-B1-B2.md) – “Beacon Red” Mk I Mod 0. Osram Red, 7135×5 driver. 
+- [TFU-B1](TFU-B1-B2.md) – “TFU-Blue Beacon” prototype. Osram Blue, 7135×5 driver. 
+- [TFU-B2](TFU-B1-B2.md) – “TFU-Red Signal” Mk I Mod 0. Osram Red, 7135×5 driver. 
 
 ## Shop Standards  
 [Standard TFU Shop Standards.](ShopStandards.md)

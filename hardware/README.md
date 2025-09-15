@@ -33,7 +33,7 @@ Mission-focused lights with features for field/tactical use.
 
 - [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light. 
 
-## B Series – Beacon
+## TFU-Signal Series
 Distress and signaling lights designed for maximum visibility and runtime.
 
 - [TFU-B1](TFU-B1-B2.md) – “Beacon Blue” prototype. Osram Blue, 7135×5 driver. 

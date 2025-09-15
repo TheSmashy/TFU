@@ -57,6 +57,15 @@ See the [Hardware README](hardware/README.md) for in-development and planned mod
 
 ---
 
+## FU Hardening Service  
+Send me a light you like. I’ll pot/harden it: thermal paste where it belongs, threads tightened, copper wrap, spring tune, Loctite, the works.  
+Cost: Around $10 + $5 return shipping (CONUS).  
+Expect scuffs: I test every light before it leaves.  
+Result: a proven, hardened tool — not shelf jewelry.  
+Details in [TFU Hardening Service Catalog.](docs/HardeningService.md)
+
+---
+
 ## Warranty and Care
 Stuff breaks, stories happen — I’ll stand behind the build.  
 - [WARRANTY.md](WARRANTY.md): Lifetime coverage on workmanship & materials  

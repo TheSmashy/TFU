@@ -39,6 +39,11 @@ Distress and signaling lights designed for maximum visibility and runtime.
 - [TFU-B1](TFU-B1-B2.md) – “TFU-Blue Beacon” prototype. Osram Blue, 7135×5 driver. 
 - [TFU-B2](TFU-B1-B2.md) – “TFU-Red Signal” Mk I Mod 0. Osram Red, 7135×5 driver. 
 
+## W Series – Weapon Lights  
+Mission-focused lights with features for weapon mounted use.
+
+- [TFU-W1](TFU-W1.md) – Convoy S6-based weapon light.  Single mode (100%), 18350 cell, lightweight and durable for urban/CQB.   
+
 ## Shop Standards  
 [Standard TFU Shop Standards.](ShopStandards.md)
 

@@ -1,80 +1,48 @@
-# TFU-B1/B2 Beacon Series (In Development)
+# TFU-Signal Series (Concept Sheet)
 
-## Series: Beacon (B Series)
-
-Dedicated distress and signaling lights designed for maximum visibility, long runtime, and hardened reliability. Built for conditions where "being seen" is the mission.
-
----
-
-## Prototype Configurations
-
-### TFU-B1 “Beacon Blue”
-- **Host:** Shipping light (Convoy-style base, experimental)
-- **Emitter:** Osram Blue (high-intensity)
-- **Driver:** 7135×5 linear driver (~1.75A)
-- **Modes:** Strobe / SOS / High / Med / Low
-- **Optics:** 10° Flat TIR (narrow beam)
-- **Cell:** Samsung 35E (3500mAh, high-capacity)
-- **Switch/UI:** Tail switch with direct access to mode cycle
-- **Accessories:** Clip-on diffuser, electrical tape for securing light to poles or fixed surfaces
-
-### TFU-B2 “Beacon Red” (Planned)
-- **Host:** Same platform as B1 (experimental)
-- **Emitter:** Osram Red (deep red)
-- **Driver:** 7135×5 linear driver (~1.75A)
-- **Modes:** Strobe / SOS / High / Med / Low
-- **Optics:** 10° Flat TIR
-- **Cell:** Samsung 35E (planned)
-- **Switch/UI:** Tail switch with direct access to mode cycle
-- **Accessories:** Diffuser planned; mounting strategy same as B1
+## Overview
+The **TFU-Signal Series** are sterile S2+ builds designed for field marking and covert signaling.  
+Built with deniability in mind: no markings, no branding, just tough pocket tools with unmistakable beams.  
 
 ---
 
-## Beacon Identity
+## Variants
+1. **TFU-Blue Beacon**
+   - **Host:** Sterile black S2+ (no Convoy logo)
+   - **Emitter:** Osram Blue on copper DTP
+   - **Driver:** 7135×6 (~2.1 A, Biscotti, beacon mode enabled)
+   - **Optic:** 17 mm Matte TIR (diffused for softer spill, safe beaconing)
+   - **Cell:** Samsung 35E (optional bundle)
+   - **Use Case:** Utility marking, search/rescue signals, non-lethal disorientation
 
-- **High Visibility Colors:** Blue for piercing, eye-catching contrast; Red for universal distress/night-vision compatibility.
-- **Extended Runtime:** 35E cell matched to low-current driver for day+ operation.
-- **Simple, Direct UI:** Multiple modes available, but mission is SOS/strobe for emergency visibility.
-- **Portability & Mounting:** Compact host, diffuser, and ability to secure light to poles/objects expands use cases.
-- **Hardened:** TFU standards applied — thermal paste, thread lubrication, driver/MCPCB secured, retaining rings torqued and Loctited.
-
----
-
-## Test & Evaluation Notes
-
-- **Runtime:** Continuous SOS runtime with 35E cell, confirm minimum 24h.
-- **Beam Profile:** Evaluate visibility at distance and through haze/fog.
-- **Durability:** Drop and water submersion tests; confirm waterproofing.
-- **Usability:** Stress test SOS, diffuser use, and mounting tape in dark/cold/wet conditions.
-
----
-
-## Availability
-
-- **Cells Included:** Available with Samsung 35E cells, plus optional spare cells.
-- **Field Cases:** Cells offered in single or double rugged cases suitable for field use (not standard battery sleeves).
-- **Host Status:** Host type remains experimental as we refine for the best tool at the lowest cost with uncompromising quality.
+2. **TFU-Red Signal**
+   - **Host:** Sterile grey S2+ (no Convoy logo)
+   - **Emitter:** Osram Red (deep, high-output) on copper DTP
+   - **Driver:** 7135×6 (~2.1 A, Biscotti)
+   - **Optic:** 17 mm Flat TIR (tight, clean signal beam)
+   - **Cell:** Samsung 35E (optional bundle)
+   - **Use Case:** Covert signaling, night vision preservation, long-range marking
 
 ---
 
-## Status
-
-- **TFU-B1 (Blue):** Prototype complete, pending TFU hardening.
-- **TFU-B2 (Red):** Mk I Mod 0 planned, sourcing emitter/host.
-
----
-
-## Planned Designations
-
-- **TFU-B1 “Beacon Blue” — Mk I Mod 0**
-- **TFU-B2 “Beacon Red” — Mk I Mod 0**
-
-Future expansion may include:
-- **TFU-B3 (Amber/Orange)** for roadside/emergency vehicle signaling.
+## Hardening & Assembly
+- **Thermal Path:** MX-4 on shelf, screws locked with Loctite 242
+- **Driver Retention:** CS109 bedding, brass ring tightened with 242
+- **Spring Bypass:** 22–24 AWG wire, efficient contact at 2.1 A
+- **Lens & Optic:** Cleaned, optional DC-fix for diffusion (Blue only)
+- **QC:** Beam test, runtime verification, heat check
 
 ---
 
-## Mission Statement
+## Mission Fit
+- **Field-Ready:** Sterile, rugged, low-profile builds with no commercial branding
+- **Signal-First:** Bright monochromatic beams for marking, signaling, and tactical use
+- **Package:** Option to include Samsung 35E cell for turnkey deployment
+- **Ethos:** Tools, not toys. Sterile lights built for hard use.
 
-The Beacon series provides **dedicated, trusted distress lighting** for outdoor, marine, roadside, and emergency use. Built with TFU’s philosophy of durability, simplicity, and mission-first design.
-```
+---
+
+*This sheet is pre-build. Specs and details may shift as runtime and optic tests confirm performance.*
+
+>Version 0.1  
+>15-09-2025

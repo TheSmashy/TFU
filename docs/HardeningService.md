@@ -1,6 +1,6 @@
 # TFU Hardening Service
 
-## Tier One – Hardening ($10 + $4 return shipping - CONUS)
+## Tier One – Hardening ($10 + $5 return shipping - CONUS)
 - Reseat MCPCB with MX-4 or equivalent  
 - Secure driver & thermal path (pot/adhesive as needed)  
 - Copper wrap for snug fit & heat transfer  

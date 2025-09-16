@@ -19,7 +19,7 @@ Compact everyday carry lights built for reliability and convenience.
 
 - [TFU-E0](TFU-E0.md) - 14500 Sized EDC light, easy carry, duel fuel.  Available with 519A or SST-20-DR.
 - [TFU-E1](TFU-E1.md) – Compact Convoy S2+ based EDC model. [Hardening notes.](TFU-E1-Hardening-List.md) 
-- [TFU-E2](TFU-E2.md) – Triple 219BT S2 build, optimized for high-CRI output and thermal balance. 
+- [TFU-E2](TFU-E2.md) – Triple 219BT S2 build, optimized for high-CRI output and thermal balance. [Hardening notes.](TFU-E2-Hardening-List.md)
 
 ## F Series – Field
 Lights designed for field work with extended runtime and rugged construction.

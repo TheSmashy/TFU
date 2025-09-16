@@ -2,9 +2,7 @@
 
 ![TFU Logo](TFU-LOGO.png)
 
-TFU builds high-performance, hand-assembled flashlights for real-world use — tested, hardened, and field-ready.
-
-**TFU** is a hard-use custom flashlight brand. Each light is hand-made in the USA using high-quality Convoy components and tuned by hand for reliability, function, and real-world durability. Our mission is to provide serious users — adventurers, first responders, and field professionals — with dependable lighting tools they can trust in any situation.
+**TFU** builds hand-assembled, hard-use flashlights for real-world work. Each light is made in the USA from high-quality Convoy components, tuned for reliability, thermal performance, and electrical precision. Built for adventurers, responders, and professionals who can’t afford to guess.  
 
 ---
 

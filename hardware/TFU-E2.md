@@ -36,20 +36,22 @@ Ideal for:
 - EDC enthusiasts  
 - Low-signature, high-fidelity environments  
 
-## Runtime and OTF Lumens (Calculated)
+## TFU-E2 Runtime & Output (30Q, 5A Buck, 3×219BT + Carclo 10511)
 
-| Mode     | OTF lumens (typical) | Practical runtime (30Q) |
-| -------- | -------------------: | ----------------------: |
-| **1%**   |           \~10–15 lm |                40–60+ h |
-| **10%**  |         \~130–160 lm |               \~6–6.5 h |
-| **35%**  |         \~475–525 lm |             \~1.5–1.9 h |
-| **100%** |     \~1,300–1,500 lm |             \~30–40 min |
+| Mode | Calculated OTF Lumens | Calculated Runtime | Measured OTF Lumens | Measured Runtime |
+|------|-----------------------|--------------------|---------------------|------------------|
+| 1%   | ~10–15 lm             | 40–60+ h           | TBD                 | TBD              |
+| 10%  | ~130–160 lm           | ~6–6.5 h           | TBD                 | TBD              |
+| 35%  | ~475–525 lm           | ~1.5–1.9 h         | TBD                 | TBD              |
+| 100% | ~1,300–1,500 lm       | ~30–40 min         | TBD                 | TBD              |
+
+*Calculated values are based on nominal 219BT emitter performance, 5A buck efficiency assumptions, and Samsung 30Q discharge characteristics.  
+Measured values will be logged with lux + thermal data via Pi test rig (InfluxDB → Grafana).*
 
 ## Runtime & Thermal Performance
 
 ![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-Runtime-Graph.jpg)  
 *Placeholder — runtime and thermal data will be added after TEST-O-MATIC-PI benchmarking.*
-
 
 **Test parameters (planned):**  
 - Cells: Samsung 30Q (mk0A), Vapcell M11v2 (mk0B)  

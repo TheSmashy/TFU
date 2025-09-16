@@ -71,7 +71,7 @@ The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 ### Field Notes
 - If you encounter blink + fallback, **swap or recharge the cell**.  
 - Behavior is most often observed during extended patrols or after leaving a cell in the light down to storage voltage.  
-- Do not bypass LVP. It is integral to safe operation and preserves both the driver and 18650 cells.
+- Do not bypass LVP. It is integral to safe operation and preserves both the driver and 21700 cells.
 
 ## Build Quality
 

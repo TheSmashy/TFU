@@ -79,6 +79,10 @@ Please read my thoughts on Charging here: [Charging.md](Charging.md)
 
 ---
 
+## Reviews
+Please check feedback and reviews here: [Reviews.md](reviews.md)
+
+---
 ## Contact
 For questions or custom orders, reach out via email at [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) or open an issue on this repository.
 

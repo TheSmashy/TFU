@@ -18,7 +18,6 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 - **Driver:** 5 A Buck (12-group UI)  
 - **Emitter:** Triple Nichia 219BT (4500 K, 90 CRI)  
 - **User interface:** Mode group 10 (1 % → 10 % → 35 % → 100 %), memory off  
-- **Runtime:** Estimated 30+ min at 100 %, extended runtime at 10–35 % (pending full test)  
 - **Optic:** Carclo 10511 (narrow clear spot, beam confirmed excellent)  
 - **Weight:** *TBD* g (dry)  
 - **Dimensions:** 118 mm length × 24 mm head diameter  
@@ -37,10 +36,20 @@ Ideal for:
 - EDC enthusiasts  
 - Low-signature, high-fidelity environments  
 
+## Runtime and OTF Lumens (Calculated)
+
+| Mode     | OTF lumens (typical) | Practical runtime (30Q) |
+| -------- | -------------------: | ----------------------: |
+| **1%**   |           \~10–15 lm |                40–60+ h |
+| **10%**  |         \~130–160 lm |               \~6–6.5 h |
+| **35%**  |         \~475–525 lm |             \~1.5–1.9 h |
+| **100%** |     \~1,300–1,500 lm |             \~30–40 min |
+
 ## Runtime & Thermal Performance
 
 ![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-Runtime-Graph.jpg)  
 *Placeholder — runtime and thermal data will be added after TEST-O-MATIC-PI benchmarking.*
+
 
 **Test parameters (planned):**  
 - Cells: Samsung 30Q (mk0A), Vapcell M11v2 (mk0B)  

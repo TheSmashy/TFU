@@ -21,7 +21,7 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 - **Optic:** Carclo 10511 (narrow clear spot, beam confirmed excellent)  
 - **Weight:** *TBD* g (dry)  
 - **Dimensions:** 118 mm length × 24 mm head diameter  
-- **Clip:** Black steel deep-carry (TFU modified hardware, lowride option)  
+- **Clip:** Black steel S21A clip 
 - **Hardening:** MX-4 thermal interface, CS109 adhesive, copper thermal spacer stack  
 - **Water protection:** IPX8 expected  
 - **Impact resistance:** 1 m drop tested  
@@ -35,6 +35,22 @@ Ideal for:
 - Tradespeople and technicians  
 - EDC enthusiasts  
 - Low-signature, high-fidelity environments  
+
+## Clip Specification – TFU-E2 Doctrine
+
+The TFU-E2 is **field-ready by design**. Clip selection is not aesthetic — it is functional.
+
+- **Required Clip:** Convoy S21A stainless clip, black oxide finish.  
+- **Rationale:**  
+  - **Wide stance** → stability under stress, prevents torsion.  
+  - **Robust spring tension** → secure retention without bending.  
+  - **Deep carry profile** → reduced signature and enhanced comfort.  
+- **Rejected Options:**  
+  - Standard Convoy S2 / M1 clips → narrow stance, less retention, prone to shift.  
+  - Boutique aftermarket clips → unnecessary complexity, non-mission aligned.  
+
+> **Doctrine:** The clip is part of the tool. Simpler is stronger. Rugged beats fancy.
+
 
 ## TFU-E2 Runtime & Output (30Q, 5A Buck, 3×219BT + Carclo 10511)
 

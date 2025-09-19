@@ -22,7 +22,8 @@ Single-emitter B35AM build optimized for high-CRI, neutral-white utility. Balanc
 ## At a Glance
 
 - **Emitter:** Nichia B35AM, 5000K, high CRI  
-- **Driver:** 6V 2A boost, Mode Group 10  
+- **Driver:** 6V 2A boost, Mode Group 10 (1–10–35–100%)  
+- **Switch:** Forward clicky with mode memory  
 - **Cell:** 18650 (recommend Molicel M35A)  
 - **Optic:** OP reflector, glass lens  
 
@@ -37,29 +38,27 @@ Single-emitter B35AM build optimized for high-CRI, neutral-white utility. Balanc
 *Turbo (100%) is best used in bursts; ~35% is the real sustained work mode.*
 
 ## Quick Start
-- Open tailcap, remove DC Fix disk blocking battery and spring  
-- From OFF, full press = ON (starts at 1%)  
+- Unscrew tailcap, remove DC Fix disk blocking battery and spring  
+- Insert charged 18650, positive end toward the head  
+- **Forward clicky with memory:**  
+  - Half-press = momentary ON  
+  - Full click = constant ON  
+  - Light resumes in last-used mode (memory enabled)  
 - Tap to cycle modes: 1% → 10% → 35% → 100%  
-- Full click OFF to shut down (always starts at 1%)  
 - Lockout: unscrew tailcap 1/4 turn  
 
 ## Low Voltage Protection (LVP) Behavior — TFU-F2
 
-The TFU-F2 driver includes built-in **Low Voltage Protection (LVP)** to prevent cell over-discharge and keep the light usable in the field.
+The TFU-F2 driver includes built-in **Low Voltage Protection (LVP)** to prevent cell over-discharge.
 
-- **Trigger:** ~**3.2 V under load** (cell may read higher at rest).  
-- **Behavior:**  
-  - Attempting **100%** causes **one blink → automatic return to 35%**.  
-  - As voltage continues to fall, **35% becomes unstable**.  
-  - **10% remains stable** toward ~**3.0 V under load**.  
-  - When **10% drops out**, the cell is effectively **~3.0 V** → **discontinue use**.
+- **Warning:** At ~**3.0 V under load**, the light will **flash 3×** to signal low voltage.  
+- **Cutoff:** At ~**2.8 V**, the driver will shut the light off completely.  
+- After rest, the cell may rebound above these values — do not continue use.  
 
-### Operator Guidance
-- First **blink + fallback to 35%** = **swap soon**.  
-- To stretch runtime, drop to **10%**; use **1%** for maps/egress only.  
-- Do not deep-discharge: pull the cell if **10% drops out** or if rested voltage is ~**3.0 V**.
-
-**Status:** Field-verified behavior (3.2 V gate; ~3.0 V dropout) for safe, repeatable operation.
+**Operator Guidance**  
+- First **3× flash** = **SWAP SOON**.  
+- Always recharge/swap the cell before hitting cutoff.  
+- Do not attempt to bypass LVP. It preserves both the driver and your cells.
 
 ---
 

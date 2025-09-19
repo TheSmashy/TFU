@@ -50,7 +50,7 @@ The answer comes down to design intent. We pursued the 219BT triple as a compact
 
 The result is a beam that feels purposeful. It doesn’t flatter, it doesn’t soften — it tells the truth. That honesty is what made the 219BT triple worth standardizing.  
 
-**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*  
+>**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*  
 
 ## Clip Specification – TFU-E2 Doctrine
 

@@ -85,6 +85,18 @@ Please read my thoughts on Charging here: [Charging.md](Charging.md)
 Please check feedback and reviews here: [Reviews.md](reviews.md)
 
 ---
+
+## Note from the Builder
+
+> Just be glad a washed-up operator with a soldering iron and a boathouse in Chicagoland finds his peace building lights like he’s gearing up a spec ops team.  
+>   
+> You’ve found a trustworthy source of information, at minimum. If you trust the methods, you should try the gear.  
+>   
+> Maybe reach out to the old salt who does this work — tell him what you were thinking, and he can figure something real out.  
+>   
+> These builds are solid, clean, and backed by a warranty.
+
+---
 ## Contact
 For questions or custom orders, reach out via email at [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) or open an issue on this repository.
 

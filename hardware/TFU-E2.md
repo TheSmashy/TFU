@@ -36,6 +36,22 @@ Ideal for:
 - EDC enthusiasts  
 - Low-signature, high-fidelity environments  
 
+## Why 219BT Triple?
+
+At first glance, you might ask: *why run a 219BT triple at 5A when a single 519A at 5000–4500K already performs so well?*  
+
+The answer comes down to design intent. We pursued the 219BT triple as a compact, low-power EDC path — and testing showed it was far more than “enough.”  
+
+- **Efficient power curve:** A 5A triple provides endurance across real-world EDC modes without overwhelming heat.  
+- **Beam quality:** The 219BT 4500K 90CRI punches above its weight. Compared to other TFU-standard emitters:  
+  - 219B 4500K → rosier tint, pleasing but niche.  
+  - 519A 4500K → creamy, soft white, excellent generalist.  
+  - 219BT 4500K → deliberate, honest, serious white that renders detail cleanly without oversaturation.  
+
+The result is a beam that feels purposeful. It doesn’t flatter, it doesn’t soften — it tells the truth. That honesty is what made the 219BT triple worth standardizing.  
+
+**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*  
+
 ## Clip Specification – TFU-E2 Doctrine
 
 The TFU-E2 is **field-ready by design**. Clip selection is not aesthetic — it is functional.

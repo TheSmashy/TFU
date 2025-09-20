@@ -92,8 +92,47 @@ Measured values will be logged with lux + thermal data via Pi test rig (InfluxDB
 - Distance to lux sensor: *TBD* m  
 - Logging interval: *TBD* seconds  
 
-## Tuning and Options
+# TFU-E2 Hardening Notes
 
-All TFU-E2 builds feature precision thermal stacking using punched copper foil, tuned driver behavior, and sealed pill cavity construction. Custom emitter bins, optic swaps (10508/10507), or body color variants may be available in future runs. Contact TFU for interest in additional E2 units or EDC kits.
+**Model:** TFU-E2 (Triple 219BT, Carclo 10511)  
+**Driver:** Convoy 5 A linear (Loctite + glue seated)  
+**Spacer:** MTN 7 mm copper, drilled and fitted  
+**Optic:** Carclo 10511 with transparent 1 mm o-ring  
+
+---
+
+## Mechanical Stack Integrity
+
+- **Driver Retention:** The 5 A Convoy driver is seated with thermal adhesive and Loctite on the retaining ring. This prevents micro-movement and ensures sustained electrical contact under recoil, shock, or repeated thermal cycles.  
+- **Optic & O-Ring:** A transparent 1 mm o-ring locks the Carclo 10511 optic into the host without light signature after power-off. Maintains compression across the emitter stack.  
+- **Spacer Fitment:** MTN 7 mm copper spacer drilled to spec for wire routing. Provides both height correction and additional thermal mass.  
+
+---
+
+## Thermal Path
+
+- **MX-4 (MCPCB):** Applied between the MCPCB and spacer to ensure maximum thermal conductivity. MX-4 is non-curing, stable, and electrically non-conductive.  
+- **CS109 (Spacer):** Conductive adhesive used between spacer and pill to bond mechanically and electrically. Creates a unified thermal/electrical path that resists vibration and loosening.  
+- **MCPCB Seating:** The Nichia 219BT triple MCPCB is clamped and compressed against copper with zero air gap, guaranteeing fast heat transfer into the body.  
+
+---
+
+## Electrical Reliability
+
+- **Emitter Board:** 219BT triple (parallel) with reflowed solder joints under flux. Verified polarity and continuity pre-assembly.  
+- **Switch:** Convoy reverse-clicky with spring bypass for reduced resistance. Dodgy Kai switch removed. Tail upgrade ensures consistent current delivery under 5 A draw.  
+- **Ground Path:** Spacer and pill bonded with CS109; driver secured with adhesive + Loctite. Eliminates high-resistance ground points.  
+
+---
+
+## Why Harden?
+
+TFU lights are not “show pieces.” They are built as **tools for hard use**. Hardening eliminates weak links:  
+- No floating drivers  
+- No rocking MCPCBs  
+- No optic shift under compression  
+- No thermal bottlenecks  
+
+Every step — from adhesive choice to o-ring transparency — is designed to make the E2 a light you can *trust in the field*.  
 
 ---

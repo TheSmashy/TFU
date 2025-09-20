@@ -1,4 +1,4 @@
-# TFU-E2 Pill Prep & Spacer Mounting – Provisional Steps
+# TFU-E2 Pill Prep & Spacer Mounting
 
 **Applies to:** TFU-E2 builds using MTN 7.2 mm copper spacer and drilled pill  
 **Status:** In development – to be validated during TFU-E2-Dev-01

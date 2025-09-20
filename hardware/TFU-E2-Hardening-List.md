@@ -64,12 +64,12 @@
 
 ---
 
-## 🧪 Notes (To be confirmed)
+## Notes 
 
 - Spacer sits flat without need for sanding
 - Lead holes align precisely with Carclo 10511 triple MCPCB
 - Spacer fitment compatible with Convoy S2/S2+ and Kai S2 pill dimensions
-- 21×1 mm o-ring fits under glass with bezel fully seated
+- 21×1 mm o-ring fits under with bezel fully seated
 
 ---
 

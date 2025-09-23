@@ -18,7 +18,7 @@
 
 ### Spring Bypasses
 - Use short, neat silicone wire (22–24 AWG typical).  
-- Cut wire to length (≈10 mm typical for T5/T3 class).  
+- Cut wire to length (≈10-15 mm).  
 - Ensure no excess length presses into switch or driver cavity.  
 - Verify bypass clears retaining rings.  
 

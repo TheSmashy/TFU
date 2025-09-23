@@ -14,7 +14,7 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 ## Specifications 
 
 - **Cell size:** 18650  
-- **Recommended cell:** Samsung 30Q (baseline) or Molicel M35A (runtime focus)  
+- **Recommended cell:** Samsung 30Q   
 - **Driver:** 5 A Buck (12-group UI)  
 - **Emitter:** Triple Nichia 219BT (4500 K, 90 CRI)  
 - **User interface:** Mode group 10 (1 % → 10 % → 35 % → 100 %), memory off  
@@ -50,10 +50,10 @@ The answer comes down to design intent. We pursued the 219BT triple as a compact
 
 The result is a beam that feels purposeful. It doesn’t flatter, it doesn’t soften — it tells the truth. That honesty is what made the 219BT triple worth standardizing.  
 
->**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*  
+>**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*
 
+![TFU-E2 Bezel](../Assets/TFU-E2-Bezel.jpg)
 
-![TFU Clip](../Assets/TFU-E2-Clip.jpg)
 ## Clip Specification – TFU-E2 Doctrine
 
 The TFU-E2 is **field-ready by design**. Clip selection is not aesthetic — it is functional.
@@ -69,6 +69,7 @@ The TFU-E2 is **field-ready by design**. Clip selection is not aesthetic — it 
 
 > **Doctrine:** The clip is part of the tool. Simpler is stronger. Rugged beats fancy.
 
+![TFU Clip](../Assets/TFU-E2-Clip.jpg)
 
 ## TFU-E2 Runtime & Output (30Q, 5A Buck, 3×219BT + Carclo 10511)
 
@@ -86,7 +87,6 @@ Measured values will be logged with lux + thermal data via Pi test rig (InfluxDB
 
 ![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-100-15-Min-Test.jpg)  
 
-
 **Test parameters:**  
 - Cells: Samsung 30Q
 - Mode: 100 % (Mode Group 2)  
@@ -100,6 +100,8 @@ Measured values will be logged with lux + thermal data via Pi test rig (InfluxDB
 **Driver:** Convoy 5 A linear (Loctite + glue seated)  
 **Spacer:** MTN 7 mm copper, drilled and fitted  
 **Optic:** Carclo 10511 with transparent 1 mm o-ring  
+
+![TFU-E2 Core](../Assets/TFU-E2-Core-Build.jpg)
 
 ---
 

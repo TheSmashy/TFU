@@ -84,8 +84,8 @@ Measured values will be logged with lux + thermal data via Pi test rig (InfluxDB
 
 ## Runtime & Thermal Performance
 
-![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-Runtime-Graph.jpg)  
-*Placeholder — runtime and thermal data will be added after TEST-O-MATIC-PI benchmarking.*
+![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-100-15-Min-Test.jpg)  
+
 
 **Test parameters (planned):**  
 - Cells: Samsung 30Q (mk0A), Vapcell M11v2 (mk0B)  

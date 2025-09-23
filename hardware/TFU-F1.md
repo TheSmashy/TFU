@@ -34,7 +34,7 @@ TFU-F1 is a **mission-grade field/inspection light** tuned for **stable regulate
 - **Hardening:** MX-4 TIM under MCPCB; **CS109** driver perimeter glue; **Loctite 242** on retaining rings & clip screws  
 - **Water protection:** IPX8 expected (post-build seal check)  
 - **Impact resistance:** 1 m drop tested  
-- **Dimensions / weight:** *TBD* (platform variance)
+- **Dimensions / weight:** 124mm x 26mm, 78g (dry)
 
 > **Field-Verified** — LVP gating at ~3.2 V (under load); 10% “finish-the-task” stability toward ~3.0 V.
 
@@ -42,15 +42,14 @@ TFU-F1 is a **mission-grade field/inspection light** tuned for **stable regulate
 
 ## Bill of Materials (BOM)
 - Convoy S21G host (21700)  
-- Nichia 519A 4500K on 20/22 mm MCPCB (platform-appropriate)  
+- Nichia 519A 4500K on 20 mm MCPCB  
 - 5 A buck driver (12-group UI)  
-- 15° bead TIR optic (S21G format) + gasket as required  
+- 15° bead TIR optic (S21G format)  
 - Silicone wire: **20 AWG** (LED), **22 AWG** (tail bypass)  
 - Thermal interface: **MX-4**  
 - Adhesive: **CS109** (driver edge bond)  
 - Threadlocker: **Loctite 242**  
 - O-ring lube: **Super Lube**  
-- Optional: copper shim/stack for added thermal mass (lapped)
 
 ---
 

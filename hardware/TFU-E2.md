@@ -52,6 +52,8 @@ The result is a beam that feels purposeful. It doesn’t flatter, it doesn’t s
 
 >**Doctrine:** *Builds should not only work — they should reveal the truth of the light.*  
 
+
+![TFU Clip](../Assets/TFU-E2-Clip.jpg)
 ## Clip Specification – TFU-E2 Doctrine
 
 The TFU-E2 is **field-ready by design**. Clip selection is not aesthetic — it is functional.

@@ -137,6 +137,45 @@ TFU lights are not “show pieces.” They are built as **tools for hard use**. 
 - No optic shift under compression  
 - No thermal bottlenecks  
 
+---
+
+
 Every step — from adhesive choice to o-ring transparency — is designed to make the E2 a light you can *trust in the field*.  
 
 ---
+
+
+# TFU-E2 Mk I Mod 1
+
+**Host:** Grey sterile S2 host (no branding, no markings)  
+**Optic/Spacer:** MTN aluminum spacer with Kai flat TIR (throw-biased beam)  
+**Emitter:** High-CRI Nichia (219BT / 519A optioned)  
+**Driver/UI:** 5 A buck driver, **Mode Group 5** – *1% / 20% / 100%* – memory **ON**  
+**Switch:** Forward clicky, mechanical  
+**Cell:** 18650 (Samsung 30Q recommended)  
+
+---
+
+## Overview
+The **E2 Mk I Mod 1** is the stripped-down, forward-clicky variant of the E2 line.  
+- **Sterile grey host** – clean, unbranded, ready for field or lab.  
+- **Flat TIR optic** – tighter hotspot, more reach than bead, without reflector artifacts.  
+- **Three-mode UI** – no filler levels: low for admin, mid for work, high for punch.  
+- **Forward clicky** – momentary control, fast response.  
+
+This is the “budget but mean” take on the E2: lighter in hand, tuned for honesty, and built to get work done without rattles or gimmicks.  
+
+---
+
+## Mode Group
+- **1%** – map reading, admin, long runtime  
+- **20%** – room lighting, sustained work use  
+- **100%** – maximum output, short bursts  
+
+---
+
+## Notes
+- Thermal mass is less than a full Convoy S2+, so **100% is burst only** unless tailstanding as a lantern.  
+- Flat TIR gives a sharper beam profile outdoors; indoors it may feel harsher than bead.  
+- Recommended for users who want a **sterile tool** with honest beam and fast UI, not a collector’s showpiece.  
+

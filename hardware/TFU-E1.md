@@ -1,6 +1,6 @@
 # TFU‑E1
 
-**Series:** E (Everyday Carry)
+**Series:** E (Everyday/ EDC)
 
 **Host:** Convoy S2+
 
@@ -16,7 +16,7 @@ Both versions share the same high‑quality components and are assembled with at
 
 ![TFU-E1 hero shot](../Assets/Hero-Shot-01.jpg)
 
-## Product Shot  
+
 
 ![TFU-E1](../Assets/TFU-E1-Product-Shot.jpg)  
 
@@ -43,3 +43,14 @@ Both versions share the same high‑quality components and are assembled with at
 ### Tuning and Options
 
 Each TFU‑E1 is hand tuned.  Output levels, beam characteristics, and firmware options (e.g., Biscotti or Andúril) can be customized to fit your application.  Reach out via the contact information in the README if you have specific requirements or would like to order a custom build.
+
+## Thermal Behavior  
+
+- **Test**: 15-minute continuous run at 100% from cold start, still air.  
+- **Ambient**: ~18–19 °C (yellow trace).  
+- **Probe**: surface/ head near bezel.  
+- **Result**: Peak 36.8 °C surface temp (ΔT ≈ +18 °C over ambient). No step-down or throttle; remained hand-holdable.  
+- **Cooldown**: returned to ambient over ~45 min after power-off.  
+
+![TFU-E1-Thermal-04.jpg](../Assets/TFU-E1-Thermal-04.jpg)
+*TFU-E1 Mk I — 15-min @ 100%: peak 36.8 °C; ambient ~18.5 °C.*

@@ -21,7 +21,7 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 - **Optic:** Carclo 10511 (narrow clear spot, beam confirmed excellent)  
 - **Weight:** *TBD* g (dry)  
 - **Dimensions:** 118 mm length × 24 mm head diameter  
-- **Clip:** Black steel S2+1A clip 
+- **Clip:** Black steel S21A clip 
 - **Hardening:** MX-4 thermal interface, CS109 adhesive, copper thermal spacer stack  
 - **Water protection:** IPX8 expected  
 - **Impact resistance:** 1 m drop tested  

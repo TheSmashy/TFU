@@ -4,7 +4,7 @@
 **Host:** Convoy S2 (including sterile hosts observed in early builds)  
 **Colorway:** Black and grey  
 
-The TFU-E2 is a compact, high-CRI triple emitter light built on the proven Convoy S2 platform. Designed for everyday carry and practical utility, the E2 prioritizes beam quality, color accuracy, and controlled output over raw lumens. All builds are hand-assembled, thermally tuned, and electrically hardened to meet TFU standards.
+The TFU-E2 is a compact, high-CRI triple emitter light built on the proven Convoy S2+ platform. Designed for everyday carry and practical utility, the E2 prioritizes beam quality, color accuracy, and controlled output over raw lumens. All builds are hand-assembled, thermally tuned, and electrically hardened to meet TFU standards.
 
 **Status:** In Development  
 _Provisional spec — subject to refinement pending full runtime and thermal testing._
@@ -21,7 +21,7 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 - **Optic:** Carclo 10511 (narrow clear spot, beam confirmed excellent)  
 - **Weight:** *TBD* g (dry)  
 - **Dimensions:** 118 mm length × 24 mm head diameter  
-- **Clip:** Black steel S21A clip 
+- **Clip:** Black steel S2+1A clip 
 - **Hardening:** MX-4 thermal interface, CS109 adhesive, copper thermal spacer stack  
 - **Water protection:** IPX8 expected  
 - **Impact resistance:** 1 m drop tested  
@@ -29,7 +29,7 @@ _Provisional spec — subject to refinement pending full runtime and thermal tes
 
 ## Role & Deployment
 
-The TFU-E2 is designed for **EDC, inspection, and close-range task lighting** where beam fidelity and neutral color temperature are key. With its 4500 K triple-emitter array and regulated 5 A buck driver, the E2 delivers a clean, color-accurate beam suitable for both indoor and outdoor use. The low-profile S2 host offers a slim profile without compromising output, while the option to swap between 18650 and 18350 formats gives flexibility between runtime and compactness.
+The TFU-E2 is designed for **EDC, inspection, and close-range task lighting** where beam fidelity and neutral color temperature are key. With its 4500 K triple-emitter array and regulated 5 A buck driver, the E2 delivers a clean, color-accurate beam suitable for both indoor and outdoor use. The low-profile S2+ host offers a slim profile without compromising output, while the option to swap between 18650 and 18350 formats gives flexibility between runtime and compactness.
 
 Ideal for:
 - Tradespeople and technicians  
@@ -147,7 +147,7 @@ Every step — from adhesive choice to o-ring transparency — is designed to ma
 
 # TFU-E2 Mk I Mod 1
 
-**Host:** Grey sterile S2 host (no branding, no markings)  
+**Host:** Grey sterile S2+ host (no branding, no markings)  
 **Optic/Spacer:** MTN aluminum spacer with Kai flat TIR (throw-biased beam)  
 **Emitter:** High-CRI Nichia 219BT  
 **Driver/UI:** 5 A buck driver, **Mode Group 5** – *1% / 20% / 100%* – memory **ON**  

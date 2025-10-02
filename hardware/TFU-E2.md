@@ -46,7 +46,7 @@ The answer comes down to design intent. We pursued the 219BT triple as a compact
 - **Beam quality:** The 219BT 4500K 90CRI punches above its weight. Compared to other TFU-standard emitters:  
   - 219B 4500K → rosier tint, pleasing but niche.  
   - 519A 4500K → creamy, soft white, excellent generalist.  
-  - 219BT 4500K → deliberate, honest, serious white that renders detail cleanly without oversaturation.  
+  - [219BT 4500K](../Assets/TFU-E2-219BT-4500K-5m-Garage.jpg) → deliberate, honest, serious white that renders detail cleanly without oversaturation.  
 
 The result is a beam that feels purposeful. It doesn’t flatter, it doesn’t soften — it tells the truth. That honesty is what made the 219BT triple worth standardizing.  
 

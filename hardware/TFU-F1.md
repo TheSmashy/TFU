@@ -143,8 +143,3 @@ The **TFU-F1** is a **mission-grade field/inspection light** tuned for **stable 
 **Changelog**  
 - v1: Initial release with documented LVP and acceptance tests
 
----
-
-## Commit Message (Suggested)
-
-> `Add TFU-F1 S21G v1 hardware page with lumen/runtime table and LVP behavior`

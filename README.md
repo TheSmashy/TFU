@@ -53,7 +53,7 @@ A TFU light should earn trust beside an IFAK and a multitool — not beside a de
 | [TFU-E1](hardware/TFU-E1.md) | EDC Light | ✅ Complete |
 | [TFU-E2](hardware/TFU-E2.md) | EDC Light | ✅ Complete |
 | [TFU-F1](hardware/TFU-F1.md) | Field Series | ✅ Complete |
-| [TRU-F2](hardware/TFU-F2.md) | Field Series | Development |
+| [TFU-F2](hardware/TFU-F2.md) | Field Series | Development |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 
 See the [Hardware README](hardware/README.md) for in-development and planned models.
@@ -71,21 +71,21 @@ Details in [TFU Hardening Service Catalog.](docs/HardeningService.md)
 
 ## Warranty and Care
 Stuff breaks, stories happen — I’ll stand behind the build.  
-- [WARRANTY.md](WARRANTY.md): Lifetime coverage on workmanship & materials  
-- [CARE.md](CARE.md): Keep your light clean, lubed, and running strong  
+- [WARRANTY.md](ops/WARRANTY.md): Lifetime coverage on workmanship & materials  
+- [CARE.md](ops/CARE.md): Keep your light clean, lubed, and running strong  
 
 ## Operations
-For field use guidance and do’s/don’ts, see [Operations.md](Operations.md).
+For field use guidance and do’s/don’ts, see [Operations.md](ops/Operations.md).
 
 ---
 
 ## Charging
-Please read my thoughts on Charging here: [Charging.md](Charging.md)
+Please read my thoughts on Charging here: [Charging.md](ops/Charging.md)
 
 ---
 
 ## Reviews
-Please check feedback and reviews here: [Reviews.md](reviews.md)
+Please check feedback and reviews here: [Reviews.md](ops/reviews.md)
 
 ---
 

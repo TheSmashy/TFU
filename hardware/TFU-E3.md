@@ -22,6 +22,7 @@ Built on TFU’s *field-ready EDC* ethos, the E3 emphasizes:
 
 The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a **pocket-sized powerhouse** for technicians, engineers, and operators who want perfect color rendering without bulk.
 
+![TFU-E3 Desk](../Assets/TFU-E3-Desk.jpg)  
 ---
 
 ## Assembly Notes
@@ -51,6 +52,8 @@ The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a 
 ### Final Torque & Cure
 - Allow Loctite and CS-109 to set overnight before runtime testing.
 
+![TFU-E3 Bench](../Assets/TFU-E3-Bench.jpg)  
+
 ---
 
 ## QC Checklist
@@ -74,6 +77,8 @@ The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a 
 - **Runtime:** ≈ 30 min regulated on Vapcell H10.  
 - **Thermal limit:** 55–60 °C head temp (stable).  
 - **Cell:** Vapcell H10 recommended; 10 A class, unprotected 14500 (flat or button top).
+
+![TFU-E3 Beam](../Assets/TFU-E3-519A-4500K-2M-Garage.jpg)  
 
 ---
 

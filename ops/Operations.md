@@ -1,7 +1,7 @@
 # TFU Operations Manual
 
 Operational guidance for TFU field and EDC lights.  
-For care, charging, and storage information, see [Care.md](Care.md).
+For care, charging, and storage information, see [CARE.md](CARE.md).
 
 ---
 

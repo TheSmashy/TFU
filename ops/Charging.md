@@ -83,5 +83,5 @@ Avoid unknown marketplace sellers.
 - Ensures compliance with modern mil-spec OpSec standards.  
 - Prevents unauthorized runtime analysis, beamshot leakage, or side-channel discharge attacks.  
 
-> 🔋🔒 *Electricity Doesn't Lie, Neither Should Your Batteries.*
+> *Electricity Doesn't Lie, Neither Should Your Batteries.*
 

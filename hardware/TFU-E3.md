@@ -22,7 +22,7 @@ Built on TFU’s *field-ready EDC* ethos, the E3 emphasizes:
 
 The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a **pocket-sized powerhouse** for technicians, engineers, and operators who want perfect color rendering without bulk.
 
-![TFU-E3 Desk](../Assets/TFU-E3-Desk.jpg)  
+![TFU-E3 Hero](../Assets/TFU-E3-Hero.jpg)  
 ---
 
 ## Assembly Notes
@@ -78,7 +78,21 @@ The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a 
 - **Thermal limit:** 55–60 °C head temp (stable).  
 - **Cell:** Vapcell H10 recommended; 10 A class, unprotected 14500 (flat or button top).
 
+### Estimated Output and Runtime
+
+| Mode           | Output (lm)                   | Est. Runtime (Vapcell H10 @ 25 °C) | Notes                                         |
+|----------------|-------------------------------|------------------------------------|-----------------------------------------------|
+| **Low (1%)**   | ≈ 10 lm                       | ≈ 20 hr +                          | Ultra-low inspection / map mode               |
+| **Med 1 (10%)**| ≈ 120 lm                      | ≈ 3 hr +                           | Excellent indoor / task output                |
+| **Med 2 (35%)**| ≈ 400 lm                      | ≈ 80 – 90 min                      | Continuous work use; minimal thermal rise     |
+| **High (100%)**| ≈ 1150 lm (peak) → ≈ 900 lm (sustained) | ≈ 30 min regulated → 50 min total with falloff | Regulated until cell ≈ 3.4 V; gradual taper |
+| **Thermal limit** | —  | Head stabilizes 55–60 °C  | No stepdown flicker; constant regulation  |
+
+
+
+
 ![TFU-E3 Beam](../Assets/TFU-E3-519A-4500K-2M-Garage.jpg)  
+![TFU-E3 Beam](../Assets/TFU-E3-519A-4500K-5M-Garage.jpg)  
 
 ---
 

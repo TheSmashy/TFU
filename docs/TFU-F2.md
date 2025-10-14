@@ -9,7 +9,7 @@
 **Model:** TFU-F2 (Field / Utility Light)  
 
 **Contact Support:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) | Reddit DM: u/thesmashy  
-**Warranty:** Lifetime—details [here](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+**Warranty:** Lifetime—details [here](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)
 
 ---
 

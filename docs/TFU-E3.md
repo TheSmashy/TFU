@@ -43,7 +43,7 @@ Designed for sustained regulation, thermal control, and everyday durability.
 
 - **Driver:** 5 A buck (17 mm)  
 - **Mode Group:** 10 (1 → 10 → 35 → 100 %)  
-- **Memory:** Off (always starts at 1 %)  
+- **Memory:** On (resumes last mode)  
 - **Switch:** Reverse clicky; full press for ON/OFF, half-tap to cycle  
 
 **Quick Start:**  

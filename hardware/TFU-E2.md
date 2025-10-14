@@ -1,7 +1,7 @@
 # TFU-E2 — Triple 219BT EDC
 
 **Series:** E (Everyday / EDC)  
-**Host:** Convoy S2 / S2+ (including sterile hosts from early builds)  
+**Host:** Convoy S2+ (including sterile hosts from early builds)  
 **Colorway:** Black  
 **Status:** Production  
 **Revision:** 1.0  
@@ -132,7 +132,8 @@ Measured results logged via Pi rig → InfluxDB → Grafana.*
 - **MCPCB Seating:** Triple board clamped flush with zero air gap for direct heat flow to host.  
 
 ### Electrical Reliability
-- **Emitter Board:** 219BT triple (parallel) reflowed under flux, polarity verified.  
+- **Emitter Board:** 219BT triple (parallel) reflowed under flux, polarity verified.
+- **Driver**: 5A buck with 22 AWG bypass for reduced resistance.
 - **Switch:** Convoy reverse clicky + 22 AWG bypass for reduced resistance.  
 - **Ground Path:** Spacer bonded to pill; driver secured with adhesive and Loctite for low-impedance continuity.  
 

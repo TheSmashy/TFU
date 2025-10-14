@@ -63,7 +63,7 @@ The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a 
 | Tailcap V-drop @ max | ≤ 0.08 V | Stable, no flicker |
 | Thermal check (60 – 90 s) | Even head warmth | Tail remains cool |
 | Flicker / impact test | None | Survives gentle tap |
-| Mode sequence | 0.1 → 1 → 20 → 100 (± Turbo) | Memory off |
+| Mode sequence | 1 → 10 → 35 → 100%  | Memory on |
 | Thread engagement | Smooth, clean | Torque marks applied |
 | Beam quality | Centered, no artifacts | Optic secure |
 
@@ -124,6 +124,10 @@ The E3 bridges the gap between the desk-friendly E2 and the work-grade F1 — a 
 
 ---
 
+For user-facing overview and specs, see [TFU-E3 Docs](../docs/TFU-E3.md).
+
+---
+
 ## Build Philosophy Summary
 
 > **Pocket-Sized Triple, Full-Sized Performance.**
@@ -134,3 +138,13 @@ Aluminum where it matters, copper where it counts, and solder where the current 
 Built for the field, carried for life.
 
 ---
+
+**Version:** TFU-E3 Mk I  
+**Revision:** 1.0  
+**Last Updated:** 2025-10-14  
+
+Built by hand in the U.S.A.  
+For full documentation, warranty, and updates, visit:  
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+**Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) \| Reddit: u/thesmashy

@@ -149,8 +149,7 @@ Hardening ensures reliability under abuse:
 - No optic shift under compression  
 - No thermal bottlenecks  
 
-Every adhesive, spacer, and O-ring choice supports one goal:  
-**a light you can trust in the field.**
+Every adhesive, spacer, and O-ring choice supports one goal: **a light you can trust in the field.**   
 
 ---
 

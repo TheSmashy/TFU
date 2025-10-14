@@ -2,7 +2,7 @@
 
 **Model:** TFU-E3  
 **Series:** E (Everyday / EDC)  
-**Status:** Production Candidate  
+**Status:** Production   
 **Revision:** 1.0  
 
 ---

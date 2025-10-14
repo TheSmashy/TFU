@@ -78,7 +78,7 @@ Lockout: unscrew tailcap ¼ turn for safe carry.
 Built by hand in the U.S.A.  
 For full documentation, warranty, and updates, visit:  
 🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
-🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
 **Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) \| Reddit: u/thesmashy
 
 ---

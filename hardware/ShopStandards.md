@@ -30,7 +30,7 @@
 ### QC Pass
 - **Beam Test:** white wall at 2 m.  
 - **Lux Check:** phone app baseline acceptable.  
-- **Thermal Check:** 60 s runtime at max mode.  
+- **Thermal Check:** 60 s runtime at max mode.  Give her a smell.  
 - **Visual Inspection:** no beam artifacts, wires tucked, threads clean.  
 
 ---
@@ -43,7 +43,7 @@
 - **Rosin Flux Pen** – Clean solder flow for bypasses and driver work.  
 - **Isopropyl wipes / Kimwipes** – Cleaning and inspection.  
 
-**Optional / Nice-to-have:**  
+**Optional / Nice-to-have (But I have them):**  
 - **Kapton tape** – Insulation, emitter dome protection.  
 - **Contact cleaner spray** – Switch and thread refresh.  
 
@@ -55,5 +55,5 @@
 
 ---
 
-> Version 0.1  
-> 11-09-2025
+> Version 0.2  
+> 16-10-2025

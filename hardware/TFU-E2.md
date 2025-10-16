@@ -31,7 +31,7 @@ Every E2 is **hand-assembled, thermally tuned, and electrically hardened** to me
 | **UI** | Mode Group 10 → 1 % / 10 % / 35 % / 100 %, memory off |
 | **Clip** | Convoy S21A black steel deep-carry |
 | **Dimensions** | 118 mm L × 24 mm Ø |
-| **Weight** | *TBD* g (dry) |
+| **Weight** | 98.27 g (dry) |
 | **Hardening** | MX-4 TIM, CS109 adhesive, 7 mm Cu spacer, Loctite 242 |
 | **Protection** | IPX8 expected / 1 m impact-tested |
 | **Electrical Mods** | Tail spring bypass (22 AWG) / tight ground path tolerance |

@@ -155,7 +155,7 @@ Every adhesive, spacer, and O-ring choice supports one goal: **a light you can t
 ---
 
 **Version:** TFU-E2 Rev 1.0  
-**Last Updated:** 2025-10-14  
+**Last Updated:** 2025-10-16  
 
 Built by hand in the U.S.A.  
 🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  

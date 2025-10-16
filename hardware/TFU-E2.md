@@ -31,7 +31,7 @@ Every E2 is **hand-assembled, thermally tuned, and electrically hardened** to me
 | **UI** | Mode Group 10 → 1 % / 10 % / 35 % / 100 %, memory off |
 | **Clip** | Convoy S21A black steel deep-carry |
 | **Dimensions** | 118 mm L × 24 mm Ø |
-| **Weight** | 98.27 g (dry) |
+| **Weight** | 98.27g (dry) |
 | **Hardening** | MX-4 TIM, CS109 adhesive, 7 mm Cu spacer, Loctite 242 |
 | **Protection** | IPX8 expected / 1 m impact-tested |
 | **Electrical Mods** | Tail spring bypass (22 AWG) / tight ground path tolerance |
@@ -99,7 +99,8 @@ The E2’s clip is a **mission component**, not decoration.
 *Values derived from 219BT nominal data and 30Q discharge curve.  
 Measured results logged via Pi rig → InfluxDB → Grafana.*
 
-![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-100-15-Min-Test.jpg)
+![TFU-E2 runtime graph placeholder](../Assets/TFU-E2-100-15-Min-Test.jpg)   
+*Notice slow ramp up to max temp: copper spacer gives thermal headroom*  
 
 **Test parameters:**  
 - Cell: Samsung 30Q  

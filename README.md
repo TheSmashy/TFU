@@ -50,14 +50,17 @@ A TFU light should earn trust beside an IFAK and a multitool — not beside a de
 
 | Model | Role | Status |
 |-------|------|--------|
+| [TFU-E0](hardware/TFU-E0.md) | EDC Light | Development |
 | [TFU-E1](hardware/TFU-E1.md) | EDC Light | ✅ Complete |
 | [TFU-E2](hardware/TFU-E2.md) | EDC Light | ✅ Complete |
 | [TFU-E3](hardware/TFU-E3.md) | EDC Light | ✅ Complete |
 | [TFU-F1](hardware/TFU-F1.md) | Field Series | ✅ Complete |
 | [TFU-F2](hardware/TFU-F2.md) | Field Series | Development |
-| [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
+| [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete - New model in Dev |
+| [TFU-T1](hardware/TFU-T1.md) | Tactical | Development |
+| [TFU-T2](hardware/TFU-T2.md) | Tactiacl | Development |
 
-See the [Hardware README](hardware/README.md) for in-development and planned models.
+See the [Hardware README](hardware/README.md) for more in-development and planned models.
 
 ---
 

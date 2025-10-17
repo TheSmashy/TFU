@@ -32,7 +32,8 @@ Lights designed for field work with extended runtime and rugged construction.
 ## T Series – Tactical
 Mission-focused lights with features for field/tactical use.
 
-- [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light. 
+- [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light.
+- [TFU-T2](TFU-T2.md) - Convoy T2-based 519A 5A buck 14500 tactical light.
 
 ## B Series - Signal Series
 Distress and signaling lights designed for maximum visibility and runtime.

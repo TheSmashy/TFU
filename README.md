@@ -76,7 +76,8 @@ Details in [TFU Hardening Service Catalog.](docs/HardeningService.md)
 ## Warranty and Care
 Stuff breaks, stories happen — I’ll stand behind the build.  
 - [WARRANTY.md](ops/WARRANTY.md): Lifetime coverage on workmanship & materials  
-- [CARE.md](ops/CARE.md): Keep your light clean, lubed, and running strong  
+- [CARE.md](ops/CARE.md): Keep your light clean, lubed, and running strong
+- [SPARES.md](ops/SPARES.md):  TFU's spare part policy.  Yes we include goodies, yes sometimes it's just an o-ring.  
 
 ## Operations
 For field use guidance and do’s/don’ts, see [Operations.md](ops/Operations.md).

@@ -26,7 +26,7 @@ Compact everyday carry lights built for reliability and convenience.
 Lights designed for field work with extended runtime and rugged construction.
 
 - [TFU-F1](TFU-F1.md) – 21700 field model with 519A + 15° bead TIR. 
-- [TFU-F2](TFU-F2.md) – Convoy M1-based utility build with B35AM + 2A boost driver. 
+- [TFU-F2](TFU-F2.md) – Convoy M21B-based utility build with B35AM + 2A boost driver. 
 - [TFU-F3](TFU-F3.md) – Quad 519A mule (S16 host, 6V 8A buck). [Hardening notes.](TFU-F3-Hardening-List.md) 
 
 ## T Series – Tactical
@@ -40,6 +40,12 @@ Distress and signaling lights designed for maximum visibility and runtime.
 
 - [TFU-B1](TFU-B1-B2.md) – “TFU-Blue Beacon” prototype. Osram Blue, 7135×5 driver. 
 - [TFU-B2](TFU-B1-B2.md) – “TFU-Red Signal” Mk I Mod 0. Osram Red, 7135×5 driver. 
+
+## P Series — P60 Platform Lights
+P60 drop-ins.  A modern heart for legacy SureFire and Solarforce lights.  
+
+- [TFU-P1](./TFU-P1.md) - 219C 4000 K, 7135×5 single-mode, simple and dependable.
+- **TFU-P2** *(in development)* - 519A 5000 K, 7135×6 regulated driver, crisp color rendering and field-service output.  
 
 ## W Series – Weapon Lights
 Tuned for reliability, simplicity, and durability under recoil for weapon-mounted use.  

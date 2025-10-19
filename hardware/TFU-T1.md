@@ -1,68 +1,106 @@
-# TFU-T1 (In Development)
+# TFU-T1
 
-## Series: Tactical (T Series)
-
-Mission-focused lights designed for controlled output, momentary activation, and high-candela throw.
+**Series:** Tactical (T-Series) — compact duty light built for single-hand discipline, high candela, and zero bullshit.
 
 ---
 
-## Prototype Configuration
+## TL;DR
+
+Small, brutal, and reliable. Forward-clicky control, three-mode UI, and a throwy SFT40 for ID and signaling at distance.  
+Built to be used — not admired on a shelf.
+
+---
+
+## Prototype Spec (current baseline)
 
 - **Host:** Convoy M2  
-- **Emitter:** Luminus SFT40, 6500K  
-- **Driver:** 8A Buck Driver  
-- **Optics:** Smooth Reflector (M2 stock)  
-- **Switch:** Forward Clicky (momentary capable)  
-- **Mode Group:** 5 (1% – 20% – 100%)  
-- **Cells:** Samsung 25R (duty) / Samsung 30Q (extended runtime)  
+- **Emitter:** Luminus SFT40, 6500 K  
+- **Driver:** 8 A buck driver (regulated)  
+- **Optics:** Smooth reflector (stock M2)  
+- **Switch:** Forward clicky (momentary + latch)  
+- **Mode Group:** Group 5 — **1 % / 20 % / 100 %** (no strobe)  
+- **Cells:** Samsung 25R (recommended for duty) or Samsung 30Q (runtime tradeoff)
 
 ---
 
-## Tactical Identity
+## Purpose & Identity
 
-- **Throw Priority:** SFT40 delivers a tight, high-candela beam for distance ID and signaling.  
-- **Direct UI:** 3 modes only, no strobe/disco. Built for muscle memory.  
-- **Momentary Discipline:** Forward clicky enables light discipline and controlled activation.  
-- **Rugged Host:** M2 with crenulated bezel, compact size fits pistol mag pouches for discreet or rapid carry.  
+TFU-T1 is a compact duty/tactical tool focused on one thing: **controlled, high-candela output** when you need to identify or signal at range.  
+No gimmicks. No ramps. Muscle-memory UI and a head designed to throw.
 
----
-
-## Test & Evaluation Notes
-
-- **Thermal / Regulation:** Log output curves at 8A with Pi rig.  
-- **Beam Profile:** Compare throw vs. flood against TFU-F2 (M1/B35AM) to clarify tactical role.  
-- **User Drills:** One-hand operation, momentary press discipline, confirm no mode-skip under stress.  
-- **Cells:** 25R for max punch; 30Q as alternate for missions needing longer runtime.  
+**Key traits:**
+- **Throw-first:** SFT40 produces a tight hotspot for distance ID.  
+- **Simple UI:** Three predictable states — immediate, repeatable behavior under stress.  
+- **Momentary discipline:** Forward clicky gives instant momentary without accidental changes.  
+- **Serviceable:** Built to be repairable and hardened (MX-4, Loctite, spring bypass options).
 
 ---
 
-## Cell Options
+## Thermal & Performance Notes
 
-**Assumptions:** 8A draw on 100%, ~1.6A at 20%; buck ~90% efficient; nominal 3.6V; derated for sag/thermal.
+- At **100 % (8 A)** expect high junction temps; verify with logged runs. Use proper copper star/pill and thermal paste.  
+- **20 %** is the default carry level — usable for navigation and short tasks with manageable thermal rise.  
+- Recommend thermal telemetry during validation: MCPCB thermocouple + body surface probe. Record until steady-state or driver step-down.
 
-| Role                | Cell        | Capacity | Cont. Discharge | Runtime @ 100% (8A) | Runtime @ 20% (1.6A) | Notes                                              |
-|---------------------|-------------|----------|-----------------|---------------------|----------------------|---------------------------------------------------|
-| **Duty / Hardcore** | Samsung 25R | 2500 mAh | 20A             | ~18–20 min          | ~85–95 min           | Strong regulation, minimal sag. Tactical choice.  |
-| **Heavy EDC**       | Samsung 30Q | 3000 mAh | 15A             | ~22–24 min          | ~105–115 min         | Longer runtime, slight sag at sustained max.      |
-| **No Cell**         | N/A         | N/A      | N/A             | User-supplied       | User-supplied        | For buyers with existing compatible cells.        |
+---
+
+## Cell Guidance
+
+| Role | Cell | Why |
+|------|------|-----|
+| **Duty / Punch** | Samsung 25R | Best punch with low sag for repeated high-candela bursts. Standard issue. |
+| **Extended Runtime** | Samsung 30Q | More capacity, slightly more sag at full tilt — good for runtime-heavy roles. |
+| **User Supplied** | Any 18650 | Supported. Mark compatibility clearly on packaging if no cell shipped. |
+
+**Runtime estimates:** ~18–25 min @100 % (depends on cell & cooling), 80–110 min @20 %.
+
+---
+
+## Test & Evaluation Plan
+
+1. **Driver verification:** Confirm mode steps and memory on bench with dummy load.  
+2. **Current check:** Measure amps at 1 %, 20 %, and 100 % with fresh cell.  
+3. **Thermal run:** 100 % for 45 s; record temps every 10 s. Repeat 5 cycles of 45 s on / 90 s off.  
+4. **Long run:** 20 % continuous for 60+ min to validate regulation curve.  
+5. **Beam & candela:** Indoor/outdoor beamshots, lux readings, candela calc.  
+6. **Stress UI:** One-hand drills, rapid click sequences, confirm no mode skip under stress.
+
+Log all data to CSV in `/data/TFU-T1/`.
+
+---
+
+## Build & Hardening Notes
+
+- **Thermal path:** Copper star (and copper pill if available). Thin MX-4 layer, no air gaps.  
+- **Bypass:** 22 AWG spring bypass recommended on production units.  
+- **Retention:** Loctite 242 on retaining rings, torque verified.  
+- **Switch:** Shaved or ported boot improves feel and dust resistance.  
+- **QC Label:** Inside box lid — “TFU QC PASS – BUILT IN U.S.”  
+- **User Card:** “Default: 20 % / Burst: 100 % (limit 45 s)” included in packaging.
+
+---
+
+## User Copy
+
+> **TFU-T1** — Compact tactical duty light. Forward-click discipline, SFT40 throw, three-mode simplicity.  
+> Built to be carried. Built to work.
 
 ---
 
 ## Status
 
-**Development Prototype.** Pending:  
-
-- Runtime graphs  
-- Beamshots and candela measurement  
-- Hardening notes (Loctite, CS109, MX-4, bypasses)  
+**Prototype.** Pending runtime graphs, beamshot validation, and final hardening checklist.  
+Planned production: single 6500 K variant.  
+User options: forward clicky (standard), reverse clicky (optional, by request).
 
 ---
 
-## Planned Designation
+## Design Decisions (pre-release)
 
-**TFU-T1** — First tactical model in the TFU lineup.  
-Planned disposition: single variant in **6500K**.
+- Keep 8 A full-drive for duty spec or cap to 6 A for longer sustained use?  
+- Standardize forward clicky; offer reverse as alternate SKU only.  
+- Default cell recommendation: Samsung 25R for duty carry.
 
-**Objective:** Build a compact duty light with forward clicky control, simplified modes, and SFT40 candela — hardened to survive real-world carry and deployment.
+---
 
-> Tactical, compact, SureFire-grade ruggedness — TFU’s first purpose-built duty light.
+*TFU-T1 — first in the Tactical Series. Field-grade, simple, and brutally effective.*

@@ -20,9 +20,9 @@ Different TFU series use different host diameters. O-rings are matched according
 
 | Size Category | Used On | Nominal Outer Diameter | Notes |
 |:---------------|:--------|:------------------------|:------|
-| **S2+ size** | E-series (E1–E2), some early prototypes | 24 mm | Standard Convoy S2+/S2 body seals. |
-| **S21G / S26 size** | F-series (F1–F3) | 27 mm | Slightly thicker; provides better compression on larger 21700 hosts. |
-| **T-series size** | T2 tactical light | 22 mm | Compact seal optimized for tail actuation and frequent disassembly. |
+| **S2+ size** | E-series (E1–E2), some early prototypes | 21 mm | Standard Convoy S2+/S2 body seals. |
+| **S21G / S26 size** | F-series (F1–F3) | 23 mm | Slightly thicker; provides better compression on larger 21700 hosts. |
+| **T-series size** | T2 tactical light | 16 mm | Compact seal optimized for tail actuation and frequent disassembly. |
 
 > **Note:** O-rings are greased prior to shipment. Replace with the same class as host diameter; incorrect sizing can cause thread binding or leaks.
 

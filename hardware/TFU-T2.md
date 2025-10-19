@@ -57,6 +57,21 @@ Built to deliver maximum lumen density in minimal volume with neutral-white accu
 
 ---
 
+### Tactical Mode Rationale  
+
+The TFU-T2 is configured for deliberate control in high-stress or low-light environments. **Group 10 (20 % / 100 %) with memory ON** balances runtime discipline and immediate power:  
+
+- **20 % mode** provides stable, thermally safe output for navigation, map reading, and general work.  
+- **100 % mode** delivers full 5 A drive for short-burst use — blinding output on demand, without mode cycling.  
+- **Memory ON** allows the light to be pre-staged in either mode, ensuring predictable activation when seconds matter.  
+
+At full 5 A drive the T2 body will reach **uncomfortable surface temperatures within 60–90 seconds.**  
+For operator safety and emitter longevity, TFU recommends limiting continuous operation at 100 % to **45 seconds max**, followed by at least **90 seconds of cooldown.**  
+
+This configuration supports both **low-visibility discipline** and **rapid escalation**, matching TFU’s field-ready design ethos: *no wasted clicks, no confusion, just light when you need it.*
+
+---
+
 ## TFU Evaluation
 
 > A miniaturized TFU-E1 disguised as a casual light.  

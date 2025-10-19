@@ -10,11 +10,10 @@
 - Stock M2 SFT40 6500 K (from Simon)  
 - Samsung 25R (fresh, tested cell)  
 - MX-4 thermal paste  
-- Copper star (20 mm or matching MCPCB) and copper pill (if M2 accepts)  
 - Thermal adhesive (CS109 style or equivalent) — small amount for driver potting  
 - Loctite 242 (thread locker)  
 - Super Lube (or equivalent silicone o-ring grease)  
-- Spring bypass kit (copper braid / solder wick, flux, solder)  
+- Spring bypass kit (22 AWG, flux, solder)  
 - Shaving tools for switch boot (razor, Dremel with small file, or sanding stick)  
 - Black tail clip (replacement)  
 - Heat-shrink, flux, soldering iron, 22–26 AWG wire for bypass if needed  
@@ -33,15 +32,14 @@
 ---
 
 ## Thermal & Mechanical Hardening
-1. **Copper star & pill:** mount 519A on copper star (if not already). If M2 accepts, use a copper pill. Ensure flatness and full seating.  
-2. **MX-4:** apply a thin, even smear of MX-4 to star underside and mating surface of pill/shelf (no blobs).  
-3. **Seat MCPCB/pill:** re-seat board/pill; verify full contact and no gaps.  
-4. **Driver thermal adhesive:** place a small bead of thermal adhesive on the driver body where it contacts pill or head shelf (only if driver design allows and it won’t short pads). Allow cure per adhesive spec.  
-5. **Spring bypass:** install copper-braid spring bypass — solder to tail spring and tailcap contact. Verify low-ohm continuity (<0.2 Ω preferable). Cover solder with heat-shrink.  
-6. **Switch boot shave:** shave or port the forward clicky boot for smoother action and dust relief. Verify tactile feel and momentary action after shaving.  
-7. **Replace clip:** remove stainless clip, install black tail clip if desired. Check for clearance and no thread interference.  
-8. **Retention ring:** reassemble head; apply Loctite 242 to retaining ring threads (thin coat). Torque to spec (or consistent firm hand torque). Wipe excess.  
-9. **O-rings & lubrication:** degrease and re-grease all tube and head O-rings with Super Lube. Replace o-rings if nicks are present.
+1. **MX-4:** apply a thin, even smear of MX-4 to star underside and mating surface of pill/shelf (no blobs).  
+2. **Seat MCPCB/pill:** re-seat board/pill; verify full contact and no gaps.  
+3. **Driver thermal adhesive:** place a small bead of thermal adhesive on the driver body where it contacts pill or head shelf (only if driver design allows and it won’t short pads). Allow cure per adhesive spec.  
+4. **Spring bypass:** install spring bypass — solder to tail spring and tailcap contact. Verify low-ohm continuity (<0.2 Ω preferable).  
+5. **Switch boot shave:** shave or port the forward clicky boot for smoother action and dust relief. Verify tactile feel and momentary action after shaving.  
+6. **Replace clip:** remove stainless clip, install black tail clip. Check for clearance and no thread interference.  
+7. **Retention ring:** reassemble head; apply Loctite 242 to retaining ring threads (thin coat). Torque to spec (or consistent firm hand torque). Wipe excess.  
+8. **O-rings & lubrication:** degrease and re-grease all tube and head O-rings with Super Lube. Replace o-rings if nicks are present.
 
 ---
 

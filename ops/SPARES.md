@@ -23,7 +23,7 @@ Every TFU light includes:
 | **TFU-E1** | (1) Body O-ring | Boost driver, sealed head — no user-serviceable parts required. |
 | **TFU-E2** | (1) Body O-ring<br>(1) Kai reverse clicky w/ bypass<br>(1) Kai 3-in-1 TIR (flat optic) | Switch and optic variability justify full spare set. |
 | **TFU-E3** | (2) T-series O-rings (body + tail) | Compact 14500 build — includes additional seal. |
-| **TFU-F1** | (1) Body O-ring<br>(1) Stock OP reflector | Enables revert from bead optic to reflector setup. |
+| **TFU-F1** | (1) Body O-ring<br>(1) Stock OP reflector<br>(1) Optional 30° matte TIR optic | Enables swap between 15° bead (standard), 30° matte (wide), or reflector configuration for beam preference. |  
 | **TFU-F2** | (1) Body O-ring | Standard field build — minimal service parts. |
 | **TFU-F3** | (1) Body O-ring | Field mule — no optic swap, all function. |
 | **TFU-T1** | (1) Body O-ring<br>(1) Shaved boot (forward clicky) | Maintains switch performance under hard use. |

@@ -27,7 +27,7 @@ The **TFU-F1** is a **mission-grade field/inspection light** tuned for **stable 
 | **Cell Size**    | 21700 |
 | **Recommended Cell** | **Molicel P45B** (performance) <br> _Alternatives:_ P42A (cooler), P50B (runtime bias) |
 | **Driver**       | **5 A buck** (12-group UI) — regulated |
-| **Emitter**      | **Nichia 519A 4500K** (high CRI) |
+| **Emitter**      | **Nichia 519A 5000K** (high CRI) |
 | **Optic**        | **15° bead TIR** (inspection / patrol) |
 | **User Interface** | **Group 10**: 1% → 10% → 35% → 100% (memory off) |
 | **Electrical Path** | 20 AWG LED leads; 22 AWG tail spring bypass |
@@ -35,6 +35,12 @@ The **TFU-F1** is a **mission-grade field/inspection light** tuned for **stable 
 | **LVP Behavior** | **Three steady blinks at 3.0 V under load**, then step to lower mode |
 | **Protection**   | IPX8 expected (post-build seal check); 1 m drop tested |
 | **Dimensions / Weight** | 124 mm × 26 mm; 78 g (dry) |
+
+### Emitter Configuration
+- **Standard Production:** Nichia 519A 5000 K (CRI ≥ 90)
+- **Founder’s Edition:** Nichia 519A 4500 K (legacy, 1 unit built)
+- **Driver:** 5A Buck  
+- **Notes:** The 4500 K variant honors early TFU color temperature targets; all future builds use 5000 K for consistency with the broader TFU color standard.
 
 ### Estimated Output & Runtime (P45B 4500 mAh)
 

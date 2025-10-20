@@ -1,11 +1,6 @@
-# TFU-F3 Mule Press
+# TFU-F3 Mule
 
 ![TFU Logo](../TFU-LOGO.png)
-
-### Independent Analysis Summary
-
-> *Excerpted and summarized from a third-party review citing TFU’s open-source documentation.*  
-> *Source: [GitHub – TheSmashy/TFU](https://github.com/TheSmashy/TFU)*
 
 ---
 
@@ -19,9 +14,19 @@ Unlike many small 18650-based mule lights built on the S2+ platform—which ofte
 - **Mechanical and Thermal Bonding:** The MCPCB is securely fastened to the host with dual screws and Loctite 242, ensuring exceptional mechanical integrity and a positive thermal path—critical improvements over typical builds that often use less secure interfaces.  
 - **Power and Output:** Powered by a high-capacity **21700 P45B (4500 mAh)** cell, providing ample runtime and current delivery.  
 - **Optics and Emitters:**  
-  - *519A variant* — 4 × Nichia 519A emitters driven by an 8 A buck driver, delivering bright, efficient output for tents or enclosed work areas.  
-  - *219B variant* — 4 × Nichia 219B emitters driven by a 5 A boost driver (3500 K / 4500 K CCT), tuned for warm flood beams and close-range accuracy.  
+  - *519A variant* — 4 × Nichia 519A emitters driven by an 8 A buck driver 5000 K, delivering bright, efficient output for tents or enclosed work areas.  
+  - *219B variant* — 4 × Nichia 219B emitters driven by a 3 A boost driver 4500 K, tuned for warm flood beams and close-range accuracy.  
 - **Versatility:** The 219B version excels in detailed up-close work, while the 519A version offers a stronger, more penetrating beam for area illumination.
+
+---
+
+### Emitter Configurations
+| Variant | LED | Driver | CCT | Output Profile |
+|----------|-----|---------|------|----------------|
+| F3-A | Nichia 519A 5000 K | 6 V 8 A | Neutral-daylight | High-output mule |
+| F3-B | Nichia 219B 4500 K | 6 V 3 A | Warm-neutral | High-CRI / endurance mule |
+
+*Both configurations share the same host, pill, and thermal path. The 5000 K option aligns with TFU’s new daylight baseline.*
 
 ---
 

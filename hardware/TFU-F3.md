@@ -2,7 +2,7 @@
 
 **Series:** F (Field)  
 **Host:** Convoy S16  
-**Colorway:** Black and grey  
+**Colorway:** Black
 
 The TFU-F3 is a high-output field/work light built on the robust Convoy S16 platform and configured as a mule for maximum flood and situational awareness. Designed for sustained high-CRI output in open or enclosed work areas where beam discipline is not a priority. Built and tested in the U.S., the F3 is the first Field series model to reach production — F1 and F2 remain in development.
 
@@ -31,8 +31,8 @@ The TFU-F3 is a high-output field/work light built on the robust Convoy S16 plat
 * **Cell size:** 21700  
 * **Recommended cell:** Molicel P45B  
 * **Driver:** 6 V 8 A Buck  
-* **Emitter (Standard):** Nichia 519A Quad (5000 K, 90 CRI)  
-* **Emitter (Alternate):** Nichia 219B 2S2P (4500 K, 95+ CRI) — smoother tint, slightly longer runtime, warmer tone.  
+* **Emitter (Standard Production):** Nichia 519A Quad (5000 K, 90 CRI)  
+* **Emitter (Optional Variant / Bravo):** Nichia 219B Quad 2S2P (4500 K, 95 CRI) – warmer tone, smoother tint, slightly longer runtime.
 * **User interface:** Mode group 10 (1 % → 10 % → 35 % → 100 %), memory off  
 * **Runtime:** Sustained high output without aggressive thermal throttling (see runtime charts)  
 * **Optic:** Carclo quad mule (no optic) for maximum flood  
@@ -85,10 +85,10 @@ The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 
 The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 5000 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.  
 
-### F3 Variants
+### F3 Variants   
 
-* **TFU-F3 (519A, 5000 K):** Core field light — neutral daylight output with high lumen ceiling.  
-* **TFU-F3B (219B, 4500 K):** Warm-tint variant — smoother tint, superior color accuracy, slightly extended runtime; ideal for indoor, inspection, or enclosed-field use.  
+* **TFU-F3 (519A 5000 K)** – Standard production; balanced daylight output, primary sales model.  
+* **TFU-F3 Bravo (219B 4500 K)** – High-CRI warm variant; founder-grade color accuracy, inspection / indoor preference.
 
 ## Runtime & Thermal Performance
 
@@ -106,3 +106,10 @@ The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** w
 ## Tuning and Options
 
 Each TFU-F3 is hand-built and tuned for reliable sustained output. Optics, emitter CCT, and firmware options can be customized to suit your operational needs. Contact TFU for special orders or kit integration.
+
+---
+### CCT Standardization Note (Oct 2025)
+As of October 2025, all **TFU-F3 production lights** are standardized to  
+**Nichia 519A 5000 K (90 CRI)** for daylight-neutral output and consistent visual presentation.  
+**TFU-F3 Bravo (219B 4500 K 95 CRI)** remains the designated high-CRI / warm reference variant.
+

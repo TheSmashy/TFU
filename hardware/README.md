@@ -27,7 +27,8 @@ Lights designed for field work with extended runtime and rugged construction.
 
 - [TFU-F1](TFU-F1.md) – 21700 field model with 519A + 15° bead TIR. 
 - [TFU-F2](TFU-F2.md) – Convoy M21B-based utility build with B35AM + 2A boost driver. 
-- [TFU-F3](TFU-F3.md) – Quad 519A mule (S16 host, 6V 8A buck). [Hardening notes.](TFU-F3-Hardening-List.md) 
+- [TFU-F3](TFU-F3.md) – Quad 519A Directed Mule Flood (S16 host, 6V 8A buck). [Hardening notes.](TFU-F3-Hardening-List.md)
+- [TFU-F3 Bravo](TFU-F3-Brave.md) - Quad 219B SW45K Directed Mule Flood (S16 host, 6V 3A buck).
 
 ## T Series – Tactical
 Mission-focused lights with features for field/tactical use.

@@ -26,6 +26,16 @@ The TFU-F3 is a high-output field/work light built on the robust Convoy S16 plat
 ![TFU-F3 Beam](../Assets/TFU-F3-beam.jpg)  
 *Full mule flood: situational awareness over distance. A wall of light, not a hotspot.*
 
+## Beam Comparisons and Emitter Profiles
+
+| Variant | Description | Image |
+|----------|--------------|-------|
+| **TFU-F3 Legacy** | Quad 519A R8090 4500 K — cooler neutral white, balanced tone. | ![TFU-F3 519A Beam](../Assets/TFU-F3-519A-4500K-2m-Wall.jpg) |
+| **TFU-F3 Bravo** | Quad 219B SK 4500 K — warmer rosy tint, softer rendering. | ![TFU-F3 Bravo Beam](../Assets/TFU-F3-Bravo-2m-Wall.jpg) |
+| **Head Comparison** | Legacy vs Bravo emitter MCPCBs and reflector geometry. | ![TFU-F3 and Bravo LEDs](../Assets/TFU-F3-and-Bravo-LEDs.jpg) |
+| **Directed Mule Demonstration** | Beam directionality without optics — controlled flood behavior. | ![TFU-F3 Directed Mule](../Assets/TFU-F3-Directed-Mule.jpg) |
+
+
 ## Specifications
 
 * **Cell size:** 21700  

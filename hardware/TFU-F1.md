@@ -2,150 +2,151 @@
 
 **Series:** F (Field / Work)  
 **Host:** Convoy S21G (21700)  
-**Colorway:** Black  
+**Colorway:** Black — Boathouse Spec  
 
-**Status:** **Release v1 (Aug 2025)** — Field-verified build  
-_This page is the authoritative tech spec and build guide for TFU-F1 on the S21G platform._
+**Status:** **Release v1 R2 (Oct 2025)** — Field-verified build  
+_Authoritative technical record for the TFU-F1 configuration on the S21G platform._
 
 ![TFU-F1 hero shot placeholder](../Assets/TFU-F1-Hero.jpg)
 
 ---
 
 ## Mission & Philosophy of Use
-The **TFU-F1** is a **mission-grade field/inspection light** tuned for **stable regulated output, high-CRI fidelity, and hard-use reliability**. It prioritizes a **usable beam** and **predictable behavior** over peak spec-sheet lumens.
+The **TFU-F1** is a **mission-grade field and inspection light** built for **endurance, CRI fidelity, and predictable regulation**.  
+Every design choice—optic, driver, and mass bias—serves one goal: **sustained utility under pressure**.
 
-- **Role:** Field tasks, patrol, inspection, close-to-mid range work  
-- **Beam Intent:** Neutral, color-accurate, soft-edged hotspot; minimal artifacts  
-- **Operator Focus:** Simple UI, clean LVP behavior, serviceable hardening  
+- **Role:** Field / worklight / inspection / patrol  
+- **Beam Intent:** Neutral tone, high color accuracy, controlled spill for close-range visibility  
+- **Operator Focus:** Minimal UI friction, hardened electronics, field-serviceable design  
 
 ---
 
-## Core Specifications (v1)
+## Core Specifications (v1 R2)
 
-| Component        | Spec / Notes |
-|-----------------|--------------|
-| **Cell Size**    | 21700 |
-| **Recommended Cell** | **Molicel P45B** (performance) <br> _Alternatives:_ P42A (cooler), P50B (runtime bias) |
-| **Driver**       | **5 A buck** (12-group UI) — regulated |
-| **Emitter**      | **Nichia 519A 5000K** (high CRI) |
-| **Optic**        | **15° bead TIR** (inspection / patrol) |
-| **User Interface** | **Group 10**: 1% → 10% → 35% → 100% (memory off) |
-| **Electrical Path** | 20 AWG LED leads; 22 AWG tail spring bypass |
-| **Hardening**    | MX-4 TIM under MCPCB; **CS109** driver perimeter glue; **Loctite 242** on retaining rings & clip screws |
-| **LVP Behavior** | **Three steady blinks at 3.0 V under load**, then step to lower mode |
-| **Protection**   | IPX8 expected (post-build seal check); 1 m drop tested |
-| **Dimensions / Weight** | 124 mm × 26 mm; 78 g (dry) |
+| Component | Specification / Notes |
+|------------|------------------------|
+| **Cell Type** | 21700 |
+| **Recommended Cell** | **Molicel P45B** — standard and only approved cell |
+| **Driver** | **5 A buck** (12-group UI) — regulated, low-loss |
+| **Emitter** | **Nichia 519A 4500 K** (CRI ≥ 90, sweet bin) |
+| **Optic** | **15° bead TIR** — tight core, tamed spill |
+| **User Interface** | **Group 10:** 1 / 10 / 35 / 100 % · Memory off |
+| **Electrical Path** | 20 AWG LED leads · 22 AWG tail bypass |
+| **Hardening** | MX-4 TIM · CS109 driver edge bond · Loctite 242 on rings & clip |
+| **LVP Behavior** | 3 blinks @ ≈ 3.0 V → auto step-down |
+| **Ingress / Impact** | IPX8 expected · 1 m drop verified |
+| **Dimensions / Weight** | 124 mm × 26 mm · ≈ 78 g dry |
 
-### Emitter Configuration
-- **Standard Production:** Nichia 519A 5000 K (CRI ≥ 90)
-- **Founder’s Edition:** Nichia 519A 4500 K (legacy, 1 unit built)
-- **Driver:** 5A Buck  
-- **Notes:** The 4500 K variant honors early TFU color temperature targets; all future builds use 5000 K for consistency with the broader TFU color standard.
+---
 
-### Estimated Output & Runtime (P45B 4500 mAh)
+## Emitter Configuration
 
-| Mode  | % Output | Lumens (est.) | Runtime (est.) | Notes / Use Case |
-|-------|----------|---------------|----------------|------------------|
-| Low   | 1%       | ~20 lm         | 150–180 h      | Map reading / extended runtime |
-| Med1  | 10%      | ~200 lm        | 18–20 h        | General work / navigation |
-| Med2  | 35%      | ~700 lm        | 5–6 h          | Primary work mode |
-| High  | 100%     | ~1900–2000 lm  | 1.2–1.5 h (step down as needed) | Maximum output – monitor heat |
+- **Standard Production:** Nichia 519A 5000 K  
+- **Legacy / Reference:** Nichia 519A 4500 K (“good-vibe bin,” 1 unit retained)  
+- **Driver:** 5 A buck · Full bypass · Regulated current  
 
-*Estimates vary by cell condition, temperature, and cycling.*
+> The 4500 K variant represents the original TFU color intent — a warmer neutral with natural rendering and soft contrast. Later runs use 5000 K for fleet uniformity.
+
+---
+
+## Estimated Output & Runtime (P45B 4500 mAh)
+
+| Mode | Output % | Lumens (est.) | Runtime (est.) | Field Use |
+|------|-----------|---------------|----------------|-----------|
+| Low | 1 % | ~20 lm | 150 – 180 h | map / admin / dark adapt |
+| Med 1 | 10 % | ~200 lm | 18 – 20 h | general work / nav |
+| Med 2 | 35 % | ~700 lm | 5 – 6 h | primary task mode |
+| High | 100 % | ~1900 lm | 1.2 – 1.5 h (thermal step) | burst illumination |
 
 ---
 
 ## Bill of Materials (BOM)
 
 - Convoy S21G host (21700)  
-- Nichia 519A 4500K on 20 mm MCPCB  
+- Nichia 519A 4500 K on 20 mm DTP MCPCB  
 - 5 A buck driver (12-group UI)  
-- 15° bead TIR optic (S21G format)  
-- Silicone wire: **20 AWG** (LED), **22 AWG** (tail bypass)  
-- Thermal interface: **MX-4**  
-- Adhesive: **CS109** (driver edge bond)  
-- Threadlocker: **Loctite 242**  
-- O-ring lube: **Super Lube**  
+- 15° bead TIR optic  
+- 20 AWG silicone LED leads  
+- 22 AWG tail spring bypass  
+- MX-4 thermal compound  
+- CS109 adhesive (driver edge bond)  
+- Loctite 242 threadlocker  
+- Super Lube for threads / O-rings  
 
 ---
 
 ## Assembly & Hardening Procedure
 
-1. **Disassemble** bezel → optic → MCPCB; remove tail and cell.  
-2. **Driver Swap:** Desolder leads, remove driver ring, install **5 A buck**, apply **CS109** micro-bead at perimeter, reinstall ring with **Loctite 242**.  
-3. **Rewire:** Fit **20 AWG** LED leads (short runs, proper strain relief).  
-4. **Tail Bypass:** **22 AWG** silicone from spring base to contact; ensure full travel.  
-5. **Thermal Seat:** Alcohol clean; thin layer of **MX-4** under MCPCB; clamp even; confirm centering.  
-6. **Optic:** Install **15° bead TIR**; check for debris; verify gasket fit.  
-7. **Threads & Seals:** O-rings lightly lubed; torque rings; **clip screws with 242**.  
-8. **UI Program:** Set **Group 10**, memory **off**.  
-9. **QC:** Continuity check, beam artifact check (1 m wall), switch feel.  
+1. **Disassemble** bezel → optic → MCPCB · remove tail and cell.  
+2. **Driver install:** Fit 5 A buck; apply CS109 micro-bead around edge; Loctite 242 driver ring.  
+3. **Wire-in:** 20 AWG LED runs (short and clean).  
+4. **Bypass:** 22 AWG tail spring wire · confirm travel & switch return.  
+5. **Thermal seat:** Alcohol clean · thin MX-4 layer · center MCPCB · torque evenly.  
+6. **Optic:** Install 15° bead TIR + gasket; verify seal and alignment.  
+7. **Threads / Seals:** Lube O-rings · Loctite clip screws · snug rings.  
+8. **Program UI:** Group 10 · memory off.  
+9. **QC:** Continuity · beam inspection · switch feel · LVP test.  
 
 ---
 
-## Electrical & UI Notes
-
-- **Buck vs. Linear:** Buck regulation maintains target LED current longer, lowers waste heat, and pairs well with high-drain 21700 cells.  
-- **Tailcap Current at 100%:** Expect ~4–5 A from the cell (not equal to LED current due to conversion).  
-- **LVP:** At ~3.0 V under load the driver issues **three steady blinks**, then steps to a lower mode. Treat this as a “swap soon” indicator.  
-- Only take **short measurements** at 100% to avoid unnecessary stress.  
-
----
-
-## Runtime & Thermal Characterization (Planned Graphs)
-
-![TFU-F1 runtime graph placeholder](../Assets/TFU-F1-Runtime-Graph.jpg)
-
-**Test Rig:** TEST-O-MATIC-PI (DS18B20 temp, lux @ fixed distance)  
-**Cells:** P45B primary; P42A/P50B comparison  
-**Modes:** 100% sustained to step; 35% 15-min hold  
-**Ambient:** *TBD* °C; fan-off  
-**Logging Interval:** *TBD* s  
-
-**Record Template:**
-
-| Mode | Start V (load) | V @1 m | V @5 m | Step/Cut Time | End V (load) | Recovered OCV (10 m) | Notes |
-|---|---:|---:|---:|---:|---:|---:|---|
-| 100% | | | | | | | |
-| 35% | | | | | | | |
-| 10% | | | | | | | |
+## Electrical / UI Notes
+- Buck regulation keeps LED current flat for longer and reduces heat.  
+- Expect ≈ 4 – 5 A tail draw on High.  
+- LVP = 3 steady blinks then mode drop; treat as swap signal.  
+- Keep High tests short during bench setup.  
 
 ---
 
-## Acceptance Checklist (5-Minute)
+## Field Runtime / Thermal (Planned Data)
 
-- **UI:** Group 10, memory off; half-press cycles clean  
-- **100% (90 s):** No flicker/whine; smooth thermal step  
-- **35% (5 min):** Flat output; beam clean; body temp reasonable  
-- **LVP Gate:** At ~3.0 V (load), three blinks then step-down  
-- **Tail Current @100%:** ~4–5 A (brief measurement)  
-- **Mechanical:** Rings snug (242), driver edge bonded (CS109), O-rings lubed  
+![Runtime graph placeholder](../Assets/TFU-F1-Runtime-Graph.jpg)
+
+**Rig:** Pi Logger · DS18B20 temp · fixed lux sensor  
+**Cell:** P45B (primary)  
+**Modes:** 100 % → step · 35 % sustain  
+**Ambient:** TBD °C · fan off  
+**Interval:** TBD s  
+
+| Mode | Start V | 1 m V | 5 m V | Step / Cut | End V | OCV (10 m) | Notes |
+|------|:--:|:--:|:--:|:--:|:--:|:--:|:--|
+| 100 % |  |  |  |  |  |  |  |
+| 35 % |  |  |  |  |  |  |  |
+| 10 % |  |  |  |  |  |  |  |
+
+---
+
+## Acceptance Checklist (5 min)
+
+- **UI:** Group 10 · memory off · clean cycle  
+- **100 % (90 s):** no flicker / whine · smooth step  
+- **35 % (5 min):** flat output · temp stable  
+- **LVP:** 3 blinks @ ≈ 3.0 V then step-down  
+- **Tail current:** ≈ 4–5 A (brief measurement)  
+- **Mechanical:** rings snug · CS109 bond · lubed O-rings  
 
 ---
 
 ## Maintenance
 
-- **O-rings:** Light re-lube every 3–6 months  
-- **Lens/Contacts:** IPA/DeoxIT wipe; avoid residue pools  
-- **Cell Care:** Store at 3.7–3.8 V; avoid resting <3.0 V  
-- **Thread Check:** Verify ring torque after heavy vibration  
+- Re-lube O-rings every 3–6 months  
+- Clean lens / contacts with IPA or DeoxIT  
+- Store cells @ 3.7–3.8 V  
+- Verify ring torque after heavy vibration or impact  
 
 ---
 
 ## Operator Notes
 
-- **35% = Work Mode**; **100% = Burst**  
-- **Three steady blinks at ~3.0 V = SWAP SOON**  
-- **10%** is the most stable “finish-the-task” mode near empty  
-- Do not bypass LVP or defeat protections  
+- **35 % = Primary Work Mode** · **100 % = Burst / Signal**  
+- **3 blinks ≈ swap cell soon**  
+- **10 % mode** is the “finish the job” setting on a low pack.  
+- Never bypass LVP or defeat thermal logic.  
 
 ---
 
-## Revisions & Serialization
+## Revisions  
 
-- **TFU-F1 v1 (Aug 2025)** — S21G platform, 5 A buck, 519A 4500K, 15° bead, hardening as above  
-- Unit Label Format: **TFU-F1-###** (sticker inside tube + QR to repo page)
-
-**Changelog**  
-- v1: Initial release with documented LVP and acceptance tests
-
+| Version | Date | Key Changes |
+|----------|------|-------------|
+| v1 (Aug 2025) | Initial release · 5 A buck · 519A 4500 K · bead TIR · hardening defined |
+| v1 R2 (Oct 2025) | Rebuild with sweet-bin 4500 K · verified 5 A buck performance · improved clip hardware · formalized Boathouse Spec |

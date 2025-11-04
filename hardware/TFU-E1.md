@@ -24,7 +24,7 @@ Both versions share the same high‑quality components and are assembled with at
 
 ![TFU-E1 Custom Hardware](../Assets/Custom-Hardware.jpg)  
 
-*TFU-E1 shown with stock Convoy to highlight metal button and custom clip hardware.*
+*TFU-E1 (left) shown beside stock Convoy to highlight TFU’s metal button and custom clip hardware.*
 
 ## Specifications
 

@@ -26,6 +26,17 @@ Both versions share the same high‑quality components and are assembled with at
 
 *TFU-E1 (left) shown beside stock Convoy to highlight TFU’s metal button and custom clip hardware.*
 
+## Beam Performance
+
+Both variants of the TFU-E1 deliver smooth, artifact-free beams with excellent color rendering.  
+Beamshots below were taken at 5 meters in a dark garage to illustrate real-world tint and hotspot behavior.
+
+![TFU-E1-3500K-5m-Garage.jpg](../Assets/TFU-E1-3500K-5m-Garage.jpg)  
+*TFU-E1 Mk I (3500 K) — warm, natural tone ideal for fog, rain, and reduced-visibility conditions.*
+
+![TFU-E1-5000K-5m-Garage.jpg](../Assets/TFU-E1-5000K-5m-Garage.jpg)  
+*TFU-E1 Mk II (5000 K) — neutral white for balanced color rendering and higher perceived brightness.*
+
 ## Specifications
 
 - **Cell size:** 18350

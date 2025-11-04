@@ -29,13 +29,17 @@ Both versions share the same high‑quality components and are assembled with at
 ## Beam Performance
 
 Both variants of the TFU-E1 deliver smooth, artifact-free beams with excellent color rendering.  
-Beamshots below were taken at 5 meters in a dark garage to illustrate real-world tint and hotspot behavior.
+Beamshots below were taken at 5 m in a dark garage to illustrate real-world tint and hotspot behavior under controlled conditions.
 
 ![TFU-E1-3500K-5m-Garage.jpg](../Assets/TFU-E1-3500K-5m-Garage.jpg)  
-*TFU-E1 Mk I (3500 K) — warm, natural tone ideal for fog, rain, and reduced-visibility conditions.*
+*TFU-E1 Mk I — B35AM 3500 K · 20° Bead TIR · 6 V 2 A Boost · 5 m distance  
+ISO 100 · 1/10 s · WB 5000 K · tripod mounted.*  
+*Warm tone provides natural contrast and reduced glare in rain, fog, and low-visibility conditions.*
 
 ![TFU-E1-5000K-5m-Garage.jpg](../Assets/TFU-E1-5000K-5m-Garage.jpg)  
-*TFU-E1 Mk II (5000 K) — neutral white for balanced color rendering and higher perceived brightness.*
+*TFU-E1 Mk II — B35AM 5000 K · 20° Bead TIR · 6 V 2 A Boost · 5 m distance  
+ISO 100 · 1/10 s · WB 5000 K · identical setup for accurate comparison.*  
+*Neutral-white beam delivers higher perceived brightness and more accurate color rendering for technical tasks.*
 
 ## Specifications
 

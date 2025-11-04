@@ -22,6 +22,9 @@ Both versions share the same high‑quality components and are assembled with at
 
 *TFU-E1 shown with black stainless clip. Built on a Convoy S2+ host with Nichia B35AM emitter.*  
 
+![TFU-E1 Custom Hardware](../Assets/Custom-Hardware.jpg)  
+
+*TFU-E1 shown with stock Convoy to highlight metal button and custom clip hardware.*
 
 ## Specifications
 

@@ -1,4 +1,4 @@
-# TFU-T2 — Pocket Banger
+# TFU-T2 — *Pocket Banger*
 
 **Series:** T (Tactical)  
 **Model:** TFU-T2  
@@ -10,15 +10,17 @@
 ---
 
 ## Mission Profile
-Compact, high-output 14500 tactical light designed for controlled environments and EDC deployment.  
-Built to deliver maximum lumen density in minimal volume with neutral-white accuracy and full TFU hardening.
+
+Ultra-compact 14500 tactical light engineered for high-output, low-signature operation.  
+Purpose-built for controlled environments, admin pouches, or EDC deployment where reliability and lumen density outweigh runtime.  
+Neutral-white accuracy, field-ready hardening, and no wasted grams — this is TFU minimalism taken to the edge.
 
 ---
 
 ## Build Specifications
 
 | Component | Detail |
-|------------|---------|
+|---|---|
 | **Host** | Kai sterile T2 clone (black) |
 | **Emitter** | Nichia 519A 5000 K CRI90 on T3 MCPCB |
 | **Optics** | T3 AR-coated glass lens, factory gasket |
@@ -26,59 +28,58 @@ Built to deliver maximum lumen density in minimal volume with neutral-white accu
 | **Mode Group** | Group 10 (20 % / 100 %), Memory ON |
 | **Power Source** | Vapcell H10 (1000 mAh 14500 high-drain) |
 | **Bypass** | 22 AWG silicone wire tail spring bypass |
-| **Thermal Path** | MX-4 on MCPCB, CS109 on driver seating |
+| **Thermal Path** | MX-4 on MCPCB, CS109 bonded driver seat |
 | **Securing** | Loctite 242 on rings, 24 h cure |
-| **Switch** | Reverse clicky, shaved boot (low-profile) |
-| **Finish** | Sterile – no external branding |
+| **Switch** | Reverse clicky, shaved boot for low profile |
+| **Finish** | Sterile — no external markings or branding |
 
 ---
 
 ## Performance
 
 | Parameter | Estimate |
-|------------|-----------|
-| **Turbo (100 %)** | ≈ 850 – 950 lm sustained / 1100 + burst |
-| **Medium (20 %)** | ≈ 200 lm, optimized runtime |
-| **CCT / CRI** | 5000 K neutral white, 90 + CRI |
+|---|---|
+| **Turbo (100 %)** | ≈ 850 – 950 lm sustained / 1100+ burst |
+| **Medium (20 %)** | ≈ 200 lm optimized for runtime |
+| **CCT / CRI** | 5000 K neutral white / CRI 90+ |
 | **Runtime (Vapcell H10)** | ≈ 45 min @ 100 % / ≈ 4.5 h @ 20 % |
-| **Thermal Regulation** | Excellent for class – regulated buck driver |
+| **Thermal Regulation** | Active step-down ≈ 30 s, stable buck control |
 
 ---
 
 ## TFU Assembly Notes
 
-- MCPCB seated with thin MX-4 layer; leads tinned and centered.  
-- Driver installed with four CS109 anchor points, Loctite 242 on retainer.  
-- Spring bypass soldered clean, 22 AWG silicone, no flux residue.  
-- Kapton applied to lead crossovers and driver edge.  
-- Lens and bezel threads lubed with Super Lube.  
-- 24 h cure minimum before final runtime test.  
-- Passed 1 m drop and rain spray tests without failure.  
+- MCPCB seated with **razor-thin MX-4** film; leads tinned, centered, and Kapton-isolated.  
+- Driver anchored with **four CS109 points**, Loctite 242 on retainer ring.  
+- Tail spring **bypassed with 22 AWG silicone**, zero flux residue.  
+- Pill threads lightly wetted with CS109 to improve conduction.  
+- Lens and bezel threads lubed with **Super Lube PTFE**.  
+- 24 h minimum cure before testing.  
+- Passed **1 m drop** and **rain spray** validation.
 
 ---
 
-### Tactical Mode Rationale  
+### Tactical Mode Doctrine
 
-The TFU-T2 is configured for deliberate control in high-stress or low-light environments. **Group 10 (20 % / 100 %) with memory ON** balances runtime discipline and immediate power:  
+The TFU-T2 is tuned for **decisive activation under stress** — no scrolling, no hesitation.  
+**Group 10 (20 % / 100 %) with memory ON** provides disciplined control and immediate escalation:
 
-- **20 % mode** provides stable, thermally safe output for navigation, map reading, and general work.  
-- **100 % mode** delivers full 5 A drive for short-burst use — blinding output on demand, without mode cycling.  
-- **Memory ON** allows the light to be pre-staged in either mode, ensuring predictable activation when seconds matter.  
+- **20 % Mode** — low-visibility navigation, map work, and admin tasks with extended runtime.  
+- **100 % Mode** — instant access to full 5 A drive for search, threat ID, or signal burst.  
+- **Memory ON** — pre-stage for mission intent; light always starts where you left it.
 
-At full 5 A drive the T2 body will reach **uncomfortable surface temperatures within 60–90 seconds.**  
-For operator safety and emitter longevity, TFU recommends limiting continuous operation at 100 % to **45 seconds max**, followed by at least **90 seconds of cooldown.**  
+At 5 A drive, the aluminum chassis becomes **uncomfortably hot within 60–90 s**.  
+For operator safety and emitter longevity, TFU limits continuous turbo to **≤ 45 s**, followed by **≥ 90 s cool-down.**
 
-This configuration supports both **low-visibility discipline** and **rapid escalation**, matching TFU’s field-ready design ethos: *no wasted clicks, no confusion, just light when you need it.*
+This configuration reflects TFU’s core field ethos:  
+> *Low signature. Immediate escalation. Absolute control.*
 
 ---
 
 ## TFU Evaluation
 
-> A miniaturized TFU-E1 disguised as a casual light.  
-> Designed for the pocket but ready for duty.  
-> Neutral tone, compact footprint, zero compromise.
+> *A pocket-sized E1 with an anger problem.*  
+> Tiny footprint, surgical color rendering, and enough punch to clear a room.  
+> Built for those who don’t ask their gear — they command it.
 
-**TFU – Real Gear for Hard Use.**
-
----
-
+**TFU — Real Gear for Hard Use.**

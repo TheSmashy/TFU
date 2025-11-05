@@ -42,6 +42,15 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 ---
 
+## Beamshot  
+
+![TFU-T2 5m Garage Beamshot](../Assets/TFU-T2-5000K-5M-Garage.jpg)
+
+>**Beamshot — TFU-T2 @ 5 m (Garage, 100 %)**  
+>Captured using fixed exposure and white balance for accurate color rendering. The 519A 5000 K emitter delivers a tight, neutral hotspot with smooth spill and true-to-life color fidelity. Even at five meters, the T2 Maintains strong central intensity with balanced peripheral illumination — proof that a 14500-class light can punch far above its size.
+
+---
+
 ## TFU Assembly Notes
 
 - MCPCB seated with **razor-thin MX-4** film; leads tinned, centered, and Kapton-isolated.  

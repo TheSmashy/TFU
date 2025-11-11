@@ -14,6 +14,8 @@ checksum: T2-1125-R1.2-MB8
 
 ---
 
+![TFU-T2 Hero](../Assets/TFU-T2-Hero.jpg)
+
 ## Mission Profile
 
 Ultra-compact 14500 tactical light engineered for high-output, low-signature operation.  

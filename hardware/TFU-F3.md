@@ -6,6 +6,31 @@
 
 The TFU-F3 is a high-output field/work light built on the robust Convoy S16 platform and configured as a mule for maximum flood and situational awareness. Designed for sustained high-CRI output in open or enclosed work areas where beam discipline is not a priority. Built and tested in the U.S., the F3 is the first Field series model to reach production — F1 and F2 remain in development.
 
+# TFU-F3 Series
+
+The TFU-F3 line was a family of 2S2P 21700 “directed mule” lights built as high-output experimental platforms.  
+
+## Variants
+
+- **TFU-F3 (Legacy)**  
+  - 2S2P 519A 4500K  
+  - 6 V 8 A buck driver  
+  - Extremely high output, very high cell drain  
+  - Status: **Discontinued**
+
+- **TFU-F3 Alpha**  
+  - 2S2P 519A 5000K  
+  - 6 V 5 A boost driver  
+  - More controlled thermals, still a specialist tool  
+  - Status: **Active – in dev**
+
+- **TFU-F3 Bravo**  
+  - 2S2P 219B SK 4500K  
+  - 6 V 3 A buck driver  
+  - Cinematic, high-CRI, lower drive current  
+  - Status: **Active – in dev**
+
+
 ## Product Shot
 
 ![TFU-F3 Hero](../Assets/TFU-F3-hero.jpg)  
@@ -20,11 +45,6 @@ The TFU-F3 is a high-output field/work light built on the robust Convoy S16 plat
 
 ![TFU-F3 Internals](../Assets/TFU-F3-internals.jpg)  
 *Quad 519A MCPCB, hardened driver install, and Molicel P45B cell. No shims, no shortcuts—TFU creed applied.*
-
-## Beamshot (Wall of Light)
-
-![TFU-F3 Beam](../Assets/TFU-F3-beam.jpg)  
-*Full mule flood: situational awareness over distance. A wall of light, not a hotspot.*
 
 ## Beam Comparisons and Emitter Profiles
 

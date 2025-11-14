@@ -4,142 +4,163 @@
 **Host:** Convoy S16  
 **Colorway:** Black
 
-The TFU-F3 is a high-output field/work light built on the robust Convoy S16 platform and configured as a mule for maximum flood and situational awareness. Designed for sustained high-CRI output in open or enclosed work areas where beam discipline is not a priority. Built and tested in the U.S., the F3 is the first Field series model to reach production — F1 and F2 remain in development.
+The **TFU-F3** is a high-output field/work light built on the Convoy S16 platform and configured as a *directed mule* for maximum flood and situational awareness. High-CRI output, wide coverage, and rugged construction make it a dependable tool for real field environments — not a desk piece. Built and tested in the U.S.
 
-# TFU-F3 Series
+# TFU-F3 Platform — Directed Mule Lights
 
-The TFU-F3 line was a family of 2S2P 21700 “directed mule” lights built as high-output experimental platforms.  
+The F3 platform uses a **2S2P 21700 architecture** to drive quad-emitter MCPCBs at high current without optics. This creates a controlled, high-angle flood ideal for field tasks, troubleshooting, workspace lighting, and enclosed environments where beam discipline is not required.
 
-## Variants
+Heavy thermal mass + oversized drivers + tuned emitters  
+→ **raw output, stable color, zero surprises.**
 
-- **TFU-F3 (Legacy)**  
-  - 2S2P 519A 4500K  
-  - 6 V 8 A buck driver  
-  - Extremely high output, very high cell drain  
-  - Status: **Discontinued**
+---
 
-- **TFU-F3 Alpha**  
-  - 2S2P 519A 5000K  
-  - 6 V 5 A boost driver  
-  - More controlled thermals, still a specialist tool  
-  - Status: **Active – in dev**
+## TFU-F3 Legacy (Discontinued)
 
-- **TFU-F3 Bravo**  
-  - 2S2P 219B SK 4500K  
-  - 6 V 3 A buck driver  
-  - Cinematic, high-CRI, lower drive current  
-  - Status: **Active – in dev**
+- **Emitters:** Quad Nichia 519A 4500 K (2S2P)  
+- **Driver:** 6 V 8 A buck  
+- **Notes:** Very high current draw, extremely high output; established the F3 thermal/beam architecture.  
+- **Status:** Retired prototype.
 
+---
+
+## TFU-F3 Alpha (Active)
+
+- **Emitters:** Quad Nichia 519A 5000 K (2S2P)  
+- **Driver:** 6 V 5 A boost  
+- **Beam:** Clean daylight-neutral white, high CRI, excellent situational flood.  
+- **Status:** **Available**
+
+---
+
+## TFU-F3 Bravo (Active)
+
+- **Emitters:** Quad Nichia 219B SW45K 4500 K (2S2P)  
+- **Driver:** 6 V 3 A buck  
+- **Beam:** Cinematic tint, ultra-high CRI, warm and immersive.  
+- **Status:** **Available**
+
+---
 
 ## Product Shot
 
 ![TFU-F3 Hero](../Assets/TFU-F3-hero.jpg)  
-*TFU-F3 shown on field kit. Quad 519A mule, built for maximum flood and situational awareness.*
+*TFU-F3 on field kit. Quad mule configuration for maximum flood and situational awareness.*
 
 ## Kit Context
 
 ![TFU-F3 Kit Dump](../Assets/TFU-F3-kitdump.jpg)  
-*TFU-F3 alongside everyday field tools. Not a desk toy—this mule rides with real gear.*
+*Built for real field kits — not shelf duty.*
 
 ## Internals / Build Detail
 
 ![TFU-F3 Internals](../Assets/TFU-F3-internals.jpg)  
-*Quad 519A MCPCB, hardened driver install, and Molicel P45B cell. No shims, no shortcuts—TFU creed applied.*
+*Quad MCPCB, hardened driver install, and Molicel P45B. No shims, no shortcuts — TFU creed.*
+
+---
 
 ## Beam Comparisons and Emitter Profiles
 
 | Variant | Description | Image |
-|----------|--------------|-------|
-| **TFU-F3 Legacy** | Quad 519A R8090 4500 K — cooler neutral white, balanced tone. | ![TFU-F3 519A Beam](../Assets/TFU-F3-519A-4500K-2m-Wall.jpg) |
-| **TFU-F3 Bravo** | Quad 219B SK 4500 K — warmer rosy tint, softer rendering. | ![TFU-F3 Bravo Beam](../Assets/TFU-F3-Bravo-2m-Wall.jpg) |
-| **Head Comparison** | Legacy vs Bravo emitter MCPCBs and reflector geometry. | ![TFU-F3 and Bravo LEDs](../Assets/TFU-F3-and-Bravo-LEDs.jpg) |
-| **Directed Mule Demonstration** | Beam directionality without optics — controlled flood behavior. | ![TFU-F3 Directed Mule](../Assets/TFU-F3-Directed-Mule.jpg) |
+|--------|-------------|-------|
+| **F3 Legacy** | Quad 519A 4500 K — neutral white with balanced tone. | ![TFU-F3 519A Beam](../Assets/TFU-F3-519A-4500K-2m-Wall.jpg) |
+| **F3 Bravo** | Quad 219B SW45K — warm rosy tint, ultra-high CRI. | ![TFU-F3 Bravo Beam](../Assets/TFU-F3-Bravo-2m-Wall.jpg) |
+| **Head Comparison** | Legacy vs Bravo MCPCBs. | ![TFU-F3 and Bravo LEDs](../Assets/TFU-F3-and-Bravo-LEDs.jpg) |
+| **Directed Mule Demo** | Bare-emitter controlled flood. | ![TFU-F3 Directed Mule](../Assets/TFU-F3-Directed-Mule.jpg) |
 
+---
 
 ## Specifications
 
-* **Cell size:** 21700  
-* **Recommended cell:** Molicel P45B  
-* **Driver:** 6 V 8 A Buck  
-* **Emitter (Standard Production):** Nichia 519A Quad (5000 K, 90 CRI)  
-* **Emitter (Optional Variant / Bravo):** Nichia 219B Quad 2S2P (4500 K, 95 CRI) – warmer tone, smoother tint, slightly longer runtime.
-* **User interface:** Mode group 10 (1 % → 10 % → 35 % → 100 %), memory off  
-* **Runtime:** Sustained high output without aggressive thermal throttling (see runtime charts)  
-* **Optic:** Carclo quad mule (no optic) for maximum flood  
-* **Weight:** 120 g (dry)  
-* **Dimensions:** 126 mm length × 33 mm head diameter  
-* **Clip:** Black steel deep-carry  
-* **Hardening:** Loctite 242, CS109 thermal adhesive, MX-4 thermal paste  
-* **Water protection:** IPX8 tested  
-* **Impact resistance:** 1 m drop tested  
-* **Electrical mod:** Tail spring bypass (22 AWG)  
+- **Cell format:** 21700  
+- **Recommended cell:** Molicel P45B  
+- **Standard emitter:** Quad Nichia 519A 5000 K (90 CRI)  
+- **Optional variant:** Quad Nichia 219B SW45K 4500 K (95 CRI)  
+- **Driver options:**  
+  - 6 V 5 A Boost (Alpha)  
+  - 6 V 3 A Buck (Bravo)  
+- **UI:** Mode Group 10 (1 % → 10 % → 35 % → 100 %), memory off  
+- **Optic:** None (directed mule)  
+- **Runtime:** High sustained output; minimal thermal throttling (see runtime charts)  
+- **Weight:** 120 g (dry)  
+- **Dimensions:** 126 mm × 33 mm  
+- **Clip:** Black steel deep-carry  
+- **Hardening:** MX-4, CS109 thermal adhesive, Loctite 242  
+- **Water:** IPX8 tested  
+- **Impact:** 1 m drop tested  
+- **Electrical mod:** 22 AWG tail spring bypass  
 
-## Low Voltage Protection (LVP) Behavior — TFU-F3
+---
 
-The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent cell over-discharge and keep the light usable in the field.
+# Low Voltage Protection (LVP) Behavior — TFU-F3
 
-* **Trigger:** ~**3.2 V under load** (cell may read higher at rest).  
-* **Behavior:**
-  * Attempting **High (100 %)** causes **one blink → automatic return to Med2 (35 %)**.  
-    *Not a fault; the driver is gating turbo due to low voltage.*  
-  * As voltage continues to fall, **35 % will no longer sustain** and will step/refuse.  
-  * **10 % remains stable** down toward ~**3.0 V under load**.  
-  * When the light **drops out of 10 %**, the cell is effectively **~3.0 V** → **discontinue use**.  
+The F3 uses on-driver LVP to prevent over-discharge.
 
-### Sub-Threshold Operation (3.2 V → ~3.0 V)
+### LVP Reaction Points
 
-* **3.2 V (approx):** **Blink → hold at 35 %** (LVP gate on 100 %).  
-* **< 3.2 V and falling:** **35 % becomes unstable**; **10 % = finish-the-task mode**.  
-* **~3.0 V under load:** **10 % drops out** (or becomes unreliable). **Stop and swap/recharge.**
+- **~3.2 V under load:**  
+  - Attempting 100 % causes **1 blink → automatic return to 35 %**.  
+- **Below 3.2 V:**  
+  - **35 % becomes unstable** as voltage falls.  
+  - **10 % remains stable** down to ~3.0 V under load.
+- **~3.0 V under load:**  
+  - **10 % drops out** → **Stop use and swap the cell.**
 
-**Operator Guidance**
+### Operator Guidance
 
-* Treat the first **blink → 35 %** as **SWAP SOON**.  
-* To stretch the last slice, **drop to 10 %**; use **1 %** only for map/egress.  
-* **Do not deep-discharge**: remove the cell if **10 % drops out** or if recovered open-circuit voltage settles near **~3.0 V** after 10 minutes rest.  
+- Treat the first **blink → 35 %** as **SWAP SOON**.  
+- Use **10 %** to finish the task.  
+- If **10 % drops**, the cell is effectively done for the cycle.  
+- After resting 10 mins, if OCV reads **~3.0 V**, stop using it until recharged.
 
-**Status:** Field-verified behavior (3.2 V gate; ~3.0 V 10 % dropout) to protect the cell and maintain safe operation.  
+### Quick Reference (Under Load)
 
-### Voltage Bands (under load) — Quick Reference
+| Voltage | Behavior | Action |
+|--------:|----------|--------|
+| ≥ 3.6 V | All modes normal | Full use |
+| 3.2–3.6 V | 100 % gated; 35 % stable | Swap soon |
+| 3.0–3.2 V | 35 % unstable; 10 % stable | Finish task |
+| < 3.0 V | 10 % drops out | Stop use |
 
-| Cell V (load) | Expected Behavior | Operator Action |
-| ------------: | ------------------------------------------------------------------- | ------------------------------------ |
-|  **≥ 3.6 V** | All modes available; 100 % generally sustained (thermal permitting). | Run as needed. |
-| **3.2–3.6 V** | **100 % gated** (blink → 35 %); **35 % stable**; 10 % very stable. | Treat as **SWAP SOON**; use 35 %/10 %. |
-| **3.0–3.2 V** | **35 % may step/refuse**; **10 % stable**; 1 % extended. | **Finish at 10 %**; monitor closely. |
-|  **< 3.0 V** | **10 % drops out / unreliable**; protection near cutoff. | **Discontinue use**; swap/recharge. |
-
-*Note:* “Under load” voltage will read lower than open-circuit. Re-check OCV ~10 minutes after removal; if it settles near **~3.0 V**, consider the cell field-dead for that cycle.  
+---
 
 ## Role & Deployment
 
-The TFU-F3 is intended for **field tasks, workspace lighting, and inspection** where maximum area coverage and color accuracy are more important than throw or beam discipline. The 5000 K quad mule configuration renders colors accurately and reduces eye strain, making it ideal for prolonged use in dynamic environments. Not intended for low-signature or tactical operations.  
+The TFU-F3 is purpose-built for:
 
-### F3 Variants   
+- Field work  
+- Workspace illumination  
+- Inspection and troubleshooting  
+- Enclosed environments  
+- Tasks requiring high CRI and maximal area lighting
 
-* **TFU-F3 (519A 5000 K)** – Standard production; balanced daylight output, primary sales model.  
-* **TFU-F3 Bravo (219B 4500 K)** – High-CRI warm variant; founder-grade color accuracy, inspection / indoor preference.
+Not intended for stealth or tactical operations.
+
+### F3 Variants
+
+- **F3 (519A 5000 K)** – Standard production; daylight-neutral.  
+- **F3 Bravo (219B 4500 K)** – Warm/rosy high-CRI variant.
+
+---
 
 ## Runtime & Thermal Performance
 
-![TFU-F3 runtime graph placeholder](../Assets/TFU-F3-Runtime-Graph.jpg)  
-*Placeholder — replace with runtime and thermal curve once baseline test is completed.*
+![TFU-F3 runtime graph placeholder](../Assets/TFU-F3-Runtime-Graph.jpg)
 
-**Test parameters:**
-
-* Cell: Molicel P45B, fully charged at 4.20 V  
-* Mode: 100 % (Mode Group 10)  
-* Ambient: *TBD* °C  
-* Distance to lux sensor: *TBD* m  
-* Logging interval: *TBD* seconds  
-
-## Tuning and Options
-
-Each TFU-F3 is hand-built and tuned for reliable sustained output. Optics, emitter CCT, and firmware options can be customized to suit your operational needs. Contact TFU for special orders or kit integration.
+*Placeholder — replace with test results once baseline runs complete.*
 
 ---
-### CCT Standardization Note (Oct 2025)
-As of October 2025, all **TFU-F3 production lights** are standardized to  
-**Nichia 519A 5000 K (90 CRI)** for daylight-neutral output and consistent visual presentation.  
-**TFU-F3 Bravo (219B 4500 K 95 CRI)** remains the designated high-CRI / warm reference variant.
 
+## Tuning & Options
+
+TFU-F3 lights are hand-built and tuned.  
+Custom CCT, emitters, and firmware available upon request for kit integration.
+
+---
+
+### CCT Standardization Note — October 2025
+
+Current TFU-F3 production is standardized to:
+
+- **Nichia 519A 5000 K (90 CRI)** as the default  
+- **219B SW45K 4500 K (95 CRI)** for the Bravo variant

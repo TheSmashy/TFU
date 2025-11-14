@@ -1,64 +1,77 @@
-# TFU-F3 “Bravo” – Directed Mule Flood Light
+# TFU-F3 “Bravo” — Directed Mule Flood Light
 
-**Model:** TFU-F3B-001  
-**Type:** High-CRI Directed Mule / Task Flood Light  
+**Model:** TFU-F3B
 **Series:** F-Series (Field / Flood)  
-**Host:** Convoy S16 — 21700 platform  
-**Release:** Founder’s Edition – October 2025  
+**Host:** Convoy S16 (21700 platform)  
+**Type:** High-CRI Directed Mule / Task Flood  
+**Release:** Founder’s Edition — October 2025  
 
 ---
 
 ## Overview
-The **TFU-F3 Bravo** is the *definitive* TFU flood platform — a 21700-powered, quad-emitter directed mule built for wide-area illumination and perfect color accuracy.  
-It runs a **2S2P Nichia 219B 4500 K array** driven by a **6 V 3 A buck regulator**, using the S16’s aluminum head cavity to naturally direct and blend the beam.  
-This is not a lumen race — it’s controlled, high-CRI floodlighting optimized for realism, stability, and endurance.  
+
+The **TFU-F3 Bravo** is the warm-tint, ultra-high-CRI variant of the F3 platform — a regulated quad-emitter directed mule designed for wide-area, natural flood illumination.  
+It runs a **2S2P Nichia 219B SW45K 4500 K array** on a copper MCPCB, driven by a **6 V 3 A buck driver** for smooth, stable output.  
+The S16 head’s natural cavity produces a forward-biased mule beam: broad, even, and color-true.
+
+This is not a lumen-chasing light — it’s controlled, accurate floodlighting for real work.
 
 ---
 
 ## Hardware Specifications
 
 | Component | Specification |
-|------------|---------------|
-| **Host** | Convoy S16 aluminum body (21700, matte black) |
-| **Emitter** | Quad Nichia 219B SW45K ≈ 4500 K (95 CRI) — 2S2P configuration on 20 mm DTP copper MCPCB |
-| **Optic** | None – open emitter array utilizing head geometry for forward bias (“Directed Mule”) |
-| **Driver** | 6 V 3 A buck converter – constant-current, thermally stabilized |
-| **Lens** | Optional AR-coated glass for debris protection only |
-| **Switch** | Reverse clicky tail cap with 18 AWG spring bypass |
-| **Power** | 1 × 21700 Li-ion (Molicel P45B standard cell) |
-| **Finish** | Black Type III anodize – field utility finish |
-| **Mounting** | Black steel deep carry / custom hardware |
+|----------|---------------|
+| **Host** | Convoy S16 aluminum (21700, matte black) |
+| **Emitters** | Quad Nichia 219B SW45K 4500 K (95 CRI) — 2S2P on 20 mm DTP copper |
+| **Optic** | None — open emitter array (“Directed Mule”) |
+| **Driver** | 6 V 3 A buck (constant current, thermally stable) |
+| **Lens** | AR glass (debris protection only) |
+| **Switch** | Reverse clicky; tail spring bypass (22 AWG) |
+| **Power** | 1× 21700 Li-ion (recommended: Molicel P45B) |
+| **Finish** | Type III hard anodized matte black |
+| **Clip** | Black steel deep-carry |
 
 ---
 
 ## Performance Profile
-- **Drive current:** 3 A regulated (6 V system)  
-- **Emitter configuration:** 2S2P quad array (≈ 0.75 A per die)  
-- **Output (est.):** ≈ 1 000 – 1 200 lm of neutral high-CRI flood  
-- **Color Rendering:** > 95 CRI (Ra), R9 ≈ 85 @ 4500 K  
-- **Runtime:** ≈ 4 – 5 h continuous @ 100 % with P45B  
-- **Thermal Stability:** S16 head mass permits 30 + min sustained high output without step-down  
-- **Beam Pattern:** Uniform wide flood with gentle forward bias from reflective cavity  
-- **Working Range:** 0 – 15 m practical illumination  
+
+- **Drive current:** 3 A regulated  
+- **Array config:** Quad 219B, 2S2P (~0.75 A per die)  
+- **Output (est.):** 1 000–1 200 lm high-CRI flood  
+- **CRI:** > 95 (Ra); strong R9 rendering  
+- **Runtime:** ~4–5 h @ 100% (P45B)  
+- **Thermal behavior:** ~30+ minutes sustained high output before gradual heat-based regulation  
+- **Beam:** Broad, uniform flood with mild forward bias; zero artifacts  
+- **Effective range:** 0–15 m workspace illumination  
 
 ---
 
 ## Character & Purpose
-> “The F3 Bravo doesn’t chase throw — it *owns space.*”
 
-The F3B is the founder’s high-CRI flood standard: a regulated, quad-emitter 6 V platform that turns every surface into a canvas of truth.  
-Built for field operators, technicians, and makers who need long-form runtime and color accuracy without optical gimmicks.  
+> **“The Bravo doesn’t chase throw — it owns the room.”**
+
+The Bravo variant is the F3’s warm-tint reference model:  
+a stable, regulated quad mule that renders surfaces with cinematic accuracy.  
+
+Ideal for:
+
+- field techs  
+- inspection work  
+- makers and engineers  
+- indoor / enclosed environments  
+- any task requiring accurate color and wide, even spill  
 
 ---
 
 ## Runtime & Thermal Data (Placeholder)
 
 | Metric | Description | Status |
-|---------|--------------|---------|
-| **Runtime Graph** | 100 % drive @ 25 °C ambient using Molicel P45B | _Pending Pi Log_ |
-| **Thermal Curve** | DS18B20 sensor on head fin → CSV log | _Pending_ |
-| **Lux Decay** | TSL2591 @ 1 m / 2 s interval | _Pending_ |
-| **Notes** | Add raw CSV + runtime.png post-cure | _To be added_ |
+|--------|-------------|--------|
+| **Runtime Graph** | 100% drive @ 25 °C, P45B | _Pending Pi log_ |
+| **Thermal Curve** | DS18B20 on head fin → CSV | _Pending_ |
+| **Lux Decay** | TSL2591 @ 1 m, 2 s interval | _Pending_ |
+| **Notes** | Add CSV + runtime PNG after baseline test | _Queued_ |
 
 ---
 

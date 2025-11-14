@@ -73,6 +73,39 @@ It is the **primary F3 production model** for technicians, inspectors, field ope
 | **Lux Decay** | TSL2591 @ 1 m / 2 s | _Pending_ |
 | **Notes** | Add CSV + runtime PNG after baseline test | _Queued_ |
 
+## 10% Thermal & Output Stability Test
+
+![TFU-F3 Alpha 10% Thermal Run](../Assets/TFU-F3-Alpha-10per-Thermal-Run.jpg)  
+*TFU-F3 Alpha — 10% runtime test. Stable lux curve and controlled temperature rise.*
+
+### Summary
+Low-power field mode (10%) is intended for extended task work, navigation, and general illumination. The 6 V 5 A boost driver and 2S2P 519A array show highly stable behavior at this level.
+
+### Observations
+- **Temperature:** ~23 °C → ~28 °C over ~12 minutes  
+  - Gentle rise, no oscillation  
+  - Driver maintains high efficiency  
+- **Lux stability:**  
+  - Flat plateau with no visible droop  
+  - No voltage-sag artifacts or stepping  
+- **Ambient:** ~22 °C (stable)
+
+### Interpretation
+At 10%, the Alpha provides **predictable, regulated output** suitable for long-duration use:
+
+- No throttling  
+- No flicker  
+- No step-downs  
+- Emitters remain well below thermal roll-off
+
+This is the **“finish-the-job” mode** — consistent, neutral-white flood lighting even late in a mission or work session.
+
+### Operational Notes
+- Expect **multi-hour runtime** with P45B/P42A.  
+- Ideal for **inspection, bench work, indoor/outdoor navigation**, and low-stress field tasks.  
+- Serves as the Alpha’s baseline stability reference for higher-mode behavior.
+
+
 ---
 
 *TFU Hardware Division © 2025 — Field Tools for People Who Actually Do Things.*

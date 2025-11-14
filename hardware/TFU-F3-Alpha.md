@@ -101,7 +101,7 @@ This is the **“finish-the-job” mode** — consistent, neutral-white flood li
 **Conditions:** Indoor, ~21.5 °C ambient  
 **Mode:** 100% (full power)
 
-![TFU-F3 Alpha 100% 10 Minute Test Run](Assets/TFU-F3-Alpha-100per-Thermal-Run.jpg)
+![TFU-F3 Alpha 100% 10 Minute Test Run](../Assets/TFU-F3-Alpha-100per-Thermal-Run.jpg)
 
 ### Thermal Behavior
 - The light rises quickly into the low–mid 30 °C range within the first few minutes.  

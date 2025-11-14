@@ -64,15 +64,6 @@ It is the **primary F3 production model** for technicians, inspectors, field ope
 
 ---
 
-## Runtime & Thermal Data (Placeholder)
-
-| Metric | Description | Status |
-|--------|-------------|--------|
-| **Runtime Graph** | 100% drive @ 25 °C, P45B | _Pending Pi log_ |
-| **Thermal Curve** | DS18B20 on S16 head → CSV | _Pending_ |
-| **Lux Decay** | TSL2591 @ 1 m / 2 s | _Pending_ |
-| **Notes** | Add CSV + runtime PNG after baseline test | _Queued_ |
-
 ## 10% Thermal & Output Stability Test
 
 ![TFU-F3 Alpha 10% Thermal Run](../Assets/TFU-F3-Alpha-10per-Thermal-Run.jpg)  
@@ -104,6 +95,29 @@ This is the **“finish-the-job” mode** — consistent, neutral-white flood li
 - Expect **multi-hour runtime** with P45B/P42A.  
 - Ideal for **inspection, bench work, indoor/outdoor navigation**, and low-stress field tasks.  
 - Serves as the Alpha’s baseline stability reference for higher-mode behavior.
+
+## 100% Output – 10 Minute Thermal & Lux Test
+
+**Conditions:** Indoor, ~21.5 °C ambient  
+**Mode:** 100% (full power)
+
+![TFU-F3 Alpha 100% 10 Minute Test Run](Assets/TFU-F3-Alpha-100per-Thermal-Run.jpg)
+
+### Thermal Behavior
+- The light rises quickly into the low–mid 30 °C range within the first few minutes.  
+- Surface temperature plateaus around **43–44 °C**, demonstrating controlled, predictable thermal behavior.  
+- No thermal runaway or oscillation observed.  
+- Ambient remained stable at **~21.5 °C** throughout the test.
+
+### Output Stability (Lux)
+- Initial ramp shows a clean, immediate jump to regulated output.  
+- Output holds steady before a gradual thermal-related drop — no sudden dips or driver faults.  
+- Lux output remains strong and fully usable through the entire 10-minute window.  
+- Peak recorded: **~1312 lux**, settling around **~600+ lux** during sustained operation.
+
+### Summary
+The TFU-F3 Alpha demonstrates **excellent thermal manners** and **stable regulated output** at full power.  
+This confirms the intended mission profile: a dependable, hard-use 5 A work light with predictable behavior and no surprises under load.
 
 
 ---

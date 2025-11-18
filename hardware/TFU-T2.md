@@ -1,12 +1,3 @@
----
-title: TFU-T2 — Pocket Banger  
-series: T (Tactical)  
-model: TFU-T2  
-revision: R1.2  
-date: 2025-11-11  
-checksum: T2-1125-R1.2-MB8  
----
-
 # TFU-T2 — *Pocket Banger*
 
 **Series:** T (Tactical)  
@@ -83,9 +74,9 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 Shipping in **Mode Group 8 (1 / 20 / 50 %)** intentionally limits peak output to a safer, more practical envelope while retaining decisive escalation.
 
-- **1 %** — navigational / covert light  
-- **20 %** — admin / map work / close-range tasking  
-- **50 %** — immediate escalation for ID and short bursts  
+- **1 %** — low-impact navigation and quiet movement  
+- **20 %** — admin tasks, map work, and close-range problem-solving  
+- **50 %** — rapid escalation for target ID and short, high-output bursts    
 
 **Group 10 support** remains for advanced users, but requires a high-drain cell (H10) and acceptance of shortened runtime and higher thermal load.
 

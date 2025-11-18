@@ -62,6 +62,8 @@ The TFU-F3 Alpha takes the lessons of the original F3 legacy platform and refine
 
 It is the **primary F3 production model** for technicians, inspectors, field operators, and anyone who needs a dependable work flood with real runtime.
 
+![5m Beamshot](../Assets/TFU-F3-Alpha-5m-Garage.jpg)
+
 ---
 
 ## 10% Thermal & Output Stability Test

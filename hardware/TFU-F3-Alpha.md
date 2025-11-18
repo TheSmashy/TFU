@@ -20,6 +20,13 @@ This is the **daylight-neutral** F3 — the clean white, high-CRI workhorse of t
 
 ---
 
+## Product Shot
+
+![TFU-F3 Hero](../Assets/TFU-F3-hero.jpg)  
+*TFU-F3 on field kit. Quad mule configuration for maximum flood and situational awareness.*
+
+---
+
 ## Hardware Specifications
 
 | Component | Specification |

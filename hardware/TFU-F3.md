@@ -29,7 +29,7 @@ Heavy thermal mass + oversized drivers + tuned emitters
 - **Emitters:** Quad Nichia 519A 5000 K (2S2P)  
 - **Driver:** 6 V 5 A boost  
 - **Beam:** Clean daylight-neutral white, high CRI, excellent situational flood.  
-- **Status:** **Available**
+- **Status:** [**Available**](TFU-F3-Alpha.md)
 
 ---
 
@@ -38,7 +38,7 @@ Heavy thermal mass + oversized drivers + tuned emitters
 - **Emitters:** Quad Nichia 219B SW45K 4500 K (2S2P)  
 - **Driver:** 6 V 3 A buck  
 - **Beam:** Cinematic tint, ultra-high CRI, warm and immersive.  
-- **Status:** **Available**
+- **Status:** [**Available**](TFU-F3-Bravo.md)
 
 ---
 

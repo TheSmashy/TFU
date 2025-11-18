@@ -22,9 +22,9 @@ The platform has since transitioned to the **Convoy M21B (21700)** host, which d
 |------------|---------|
 | **Host** | Convoy M21B (Black) – enhanced thermal path, deep fins |
 | **Emitter** | Nichia B35AM (5000 K) – high CRI, smooth flood, true-color rendering |
-| **Driver** | 6 V 2 A Boost Driver – efficient, regulated, optimized for B35AM |
+| **Driver** | 6 V 2.4 A Boost Driver – efficient, regulated, optimized for B35AM |
 | **Switch** | Forward clicky – optimized for gloved use |
-| **Clip** | Black steel M21B clip – deep carry, durable |
+| **Clip** | Stainless steel M21B clip – deep carry, durable |
 | **Bypass** | 22 AWG silicone wire tail spring bypass |
 | **Thermal** | MX-4 under MCPCB; CS109 thermal bond on driver |
 | **Securing** | Loctite 242 on driver and switch retaining rings |

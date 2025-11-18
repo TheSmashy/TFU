@@ -28,7 +28,7 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 | Component | Detail |
 |------------|--------|
-| **Host** | Kai sterile T2 clone (black) |
+| **Host** | Sterile T2 (black) |
 | **Emitter** | Nichia 519A 5000 K CRI90 on T3 MCPCB |
 | **Optics** | T3 AR-coated glass lens, factory gasket |
 | **Driver** | Convoy 5 A buck driver (programmed to Mode Group 8) |
@@ -47,12 +47,11 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 | Parameter | Estimate |
 |------------|-----------|
-| **High (50 %)** | ≈ 450 – 550 lm (@ ~2.45 A tail draw) |
-| **Medium (20 %)** | ≈ 200 lm optimized for runtime |
-| **Low (1 %)** | Sub-lumen to a few lumens — map reading / covert |
+| **High (50 %)** | ≈  650–750 lm at turn-on (@ ~2.45 A tail draw) |
+| **Medium (20 %)** | ≈ 230-270 lm optimized for runtime |
+| **Low (1 %)** | ~12–20 lm — mmap reading, close work, not “covert” |
 | **CCT / CRI** | 5000 K neutral white / CRI 90+ |
-| **Runtime (F12 1250 mAh)** | ≈ 30 – 32 min @ 50 %  /  ≈ 5.5 – 6 h @ 20 % |
-| **Runtime (F15 1500 mAh)** | ≈ 36 – 38 min @ 50 %  /  ≈ 6.8 – 7.5 h @ 20 % |
+| **Runtime (F12 1250 mAh)** | ≈ 30 – 32 min @ 50 %  /  ≈ 2 h @ 20 %  /  ≈ 30–40 h @ 1 % |
 | **Thermal Regulation** | Active buck control; case gets hot under sustained high |
 
 ---

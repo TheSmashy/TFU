@@ -1,91 +1,122 @@
-# TFU-E2 — *Boathouse Spec* (Personal Build)
+# **TFU-E2 Classic+ — *Flagship Spec (Personal / Halo Build)***
 
-**Serial:** **TFU-E2-WM-01**  
-**Owner:** Yours truely  
-**Purpose:** Personal EDC/field light tuned for **high-CRI utility** and **calm thermals**. Keep it bombproof, not brochure.
-
----
-
-## Summary (at a glance)
-- **Host:** Sterile Grey **S2+** (Kai)  
-- **Engine:** **Triple Nichia 519A 4500K (R9080)** on 20 mm MCPCB  
-- **Optic:** **Carclo 10511**  
-- **Driver/UI:** **17 mm 5 A buck**, Group 10 = **1 / 10 / 35 / 100%**, **memory OFF**  
-- **Cell:** **Molicel M35A** (3.5 Ah)  
-- **Build hardening:** S2+ **triple copper spacer**, **spring bypasses (head & tail)**, MX-4 under MCPCB, Loctite 242 on rings, CS109 on driver, thermal stack   
-- **LVP:** Warn ≈ **3.0 V** (3 flashes), cutoff ≈ **2.8 V**
+**Serial:** **TFU-E2-WM-01+**  
+**Owner:** WM (personal flagship carry)  
+**Purpose:** High-output, high-CRI **519A triple** tuned for **maximum punch**, **copper-heavy thermal mass**, and **zero compromises.**  
+This is the *halo variant* of the E2 line — built to show what an S2-geometry triple can really do.
 
 ---
 
-## Bill of Materials
-- **Host:** S2+ sterile (Kai) w/ AR glass & retaining rings  
-- **LED/MCPCB:** Nichia **519A 4500K** (R9080), triple on **20 mm** (Kai)  
-- **Optic:** Carclo **10511** (alt: 10508/10509 for softer edges)  
-- **Spacer:** **S2+ triple copper spacer**   
-- **Driver:** **5 A regulated buck, 17 mm** (Convoy)  
-- **Wiring:** 20–22 AWG silicone leads; head & tail **spring bypass** (22 AWG)  
-- **Consumables:** MX-4 (MCPCB), **Loctite 242** (rings/clip screws), **CS109** (driver potting, thermal stack), fresh o-rings  
-- **Cell:** **Molicel M35A** (primary); Samsung 30Q acceptable
+## **Summary (at a glance)**
+- **Host:** Black **Convoy S2**  
+- **Engine:** **Triple Nichia 519A 4500K (CRI90)** on 20 mm MCPCB  
+- **Optic:** **Carclo 10508**  
+- **Driver/UI:** **17 mm 8 A buck** (regulated), **Group 10** (1/10/35/100%), **memory OFF**  
+- **Cell:** **Samsung 30Q** or **Molicel P28A**  
+- **Thermal Core:** Full **S2 copper triple spacer**, resurfaced and leveled  
+- **Hardening:** Spring bypasses, MX-4, CS109, Loctite 242, black lens o-ring  
+- **Style:** Murder-out aesthetic, premium beam quality, ultra-tight hotspot
 
 ---
 
-## Performance (realistic, OTF estimates)
-| Mode | Output | Tail Current | Est. Runtime (M35A) | Notes |
+## **Bill of Materials (Classic+ Variant)**
+- **Host:** Convoy **S2** (black), AR lens  
+- **MCPCB:** Triple Nichia **519A 4500K**, 20 mm (Kai)  
+- **Optic:** Carclo **10508**  
+- **Spacer:** **S2 copper triple spacer**, flattened + prepped  
+- **Driver:** **8 A buck**, regulated, 17 mm  
+- **Wiring:** 22 AWG silicone, **bypasses both springs**  
+- **Consumables:**  
+  - MX-4 under MCPCB  
+  - CS109 (driver thermal potting & stack contact)  
+  - Loctite 242 (retaining rings + clip screws)  
+- **Cells:**  
+  - **Samsung 30Q** (ideal)  
+  - **Molicel P28A**  
+  - M35A acceptable but not ideal for 8 A discharge
+
+---
+
+## **Performance (realistic OTF behavior)**
+
+| Mode | Output | Tail Current | Runtime (30Q) | Notes |
 |---|---:|---:|---:|---|
-| **100%** | ~1100–1400 lm (burst) | ~4–5 A | ~20–30 min at top (≈42 min theoretical) | Will heat-soak; expect step/settle |
-| **35%** | ~400–500 lm | ~1.5–1.8 A | ~2 h | Practical “do work” level |
-| **10%** | ~120–150 lm | ~0.4–0.6 A | ~7 h | Walk/indoor tasking |
-| **1%** | ~10–15 lm | ~0.05 A | ~70 h | Admin/dark-adapted use |
+| **100%** | **1600–2000 lm** | ~7.5–8.1 A | short bursts, ~3–5 min to 60–65 °C | flagship punch |
+| **35%** | 550–700 lm | ~2.4–2.8 A | 1.3–1.6 h | sustainable work mode |
+| **10%** | 150–180 lm | ~0.6 A | 6–7 h | task level |
+| **1%** | 10–15 lm | ~0.05 A | ~70 h | admin use |
 
-**Thermals:** Still air, 100% reaches ~**55–65 °C** head in ~3–5 min on S2+ mass. Copper spacer and buck regulation keep behavior sane.
+**Beam:**  
+519A + 10508 + clear o-ring = **smooth, cohesive hotspot**, zero “holey” artifacts, creamy edges, perfect indoor/outdoor beam.
 
-**Tint/CRI:** 519A 4500K = **creamy neutral-warm**, excellent R9. May show slight green at very low currents; a thin **DC-Fix** disk can smooth artifacts without killing output.
-
----
-
-## UI & Power
-- **Mode Group:** **10** → **1% / 10% / 35% / 100%**  
-- **Memory:** **OFF** by default (always starts low).  
-- **LVP:** ~**3.0 V** warn (3 blinks) / **2.8 V** cutoff.  
-- **Cell policy:** Run **M35A** for endurance/thermal composure. Store spares ~**3.7–3.8 V**; quarterly check.
+**Thermals:**  
+The S2 copper core stabilizes early; expect predictable ~60–65 °C head temps on 100%.
 
 ---
 
-## Assembly Notes (S2+ stack)
-1. **Dry-fit**: Spacer → MCPCB → optic → lens. Optic should **lightly kiss** the glass (no rattle/bowing). Removing the lens is fine too if the geometry lines up.  
-2. **Thermal seat**: MX-4 under MCPCB; torque even so the board is truly flat.  
-3. **Driver**: Set Group 10 on bench, verify LVP blink. Ensure **full ground-ring contact**; retaining ring snug. Dot of CS109 if you want it permanent and improve thermal transfer.  
-4. **Bypasses**: Tail and head spring bypass (22 AWG).  
-5. **Thread-lock**: Blue **242** on retaining rings (and clip screws). Fresh o-rings; lens clean.
+## **UI & Power**
+- **UI Group:** **10** → 1% / 10% / 35% / 100%  
+- **Memory:** **OFF**  
+- **LVP:** Warn ~3.0 V / cutoff ~2.8 V  
+- **Cell Guidance:**  
+  - Use **30Q**/**P28A** for full 8 A behavior  
+  - Store spares @ **3.7–3.8 V**  
+  - Rotate quarterly  
 
 ---
 
-## QA / Sanity Checklist (10–20 min)
-- **Mode order & memory** verified.  
-- **Tail current** measured at 1/10/35/100.  
-- **Thermal run**: 100% for 15 min; log DS18B20 head temp + lux (Pi rig). Note time-to-settle and steady-state temp.  
-- **Beam check**: White-wall @ all modes; confirm no tilt or optic pinch. Add **DC-Fix** if edges need taming.  
-- **LVP**: Warn & cutoff confirmed.  
-- **Rattle test**: Light tap/drop onto mat; re-check mode stability and stack compression.
-- **1 Meter**:  Just drop your new light on the concrete.  It'll be okay, but prove you did it right.    
+## **Assembly Notes (Classic+ stack)**
+1. **Spacer Prep:** Copper spacer resurfaced flat; deburred; cleaned.  
+2. **MCPCB Seat:** MX-4 thin layer; torque even; verify no tilt under optic.  
+3. **Driver Install:**  
+   - Program Group 10 + test LVP  
+   - Confirm ground-ring continuity  
+   - Add **CS109** between driver + pill  
+4. **Springs:** 22 AWG bypass (head + tail)  
+5. **Optic Fit:** 10508 should lightly touch the lens; clear ring improves beam quality.  
+6. **Thread-Lock:** Loctite 242 on rings and clip screws.  
+7. **Stack Tightness:** No optic pinch, no MCPCB float, no spacer rock.
 
 ---
 
-## Maintenance
-- **Threads**: Periodic clean/re-lube; check ring torque.  
-- **Optic/Lens**: Keep a spare 10511 and DC-Fix disk in the kit.  
-- **Cell care**: M35A primary; rotate and storage-charge as per policy.  
-- **Quarterly**: Quick current check and o-ring condition.
+## **QA Checklist (Classic+ Acceptance)**
+- Tail current confirmed on all modes with 30Q  
+- Thermal run:  
+  - 100% for 10–15 min  
+  - DS18B20 temp + lux logged  
+  - Expect ~60–65 °C max  
+- Beamshot verification:  
+  - White wall + 10–20 m outdoor  
+  - Look for Classic+ signature beam  
+- LVP warn + cutoff verified  
+- Rattle test: light taps onto concrete  
+- UI sanity: always starts at 1% (memory off)
 
 ---
 
-## Marking
-- **Internal tube label:** `TFU-E2-WM-01 (519A/4500K • 5A Buck • M35A)`  
-- **External:** *Boathouse Spec* note in log only. (We know what color it is.)
+## **Maintenance**
+- Re-lube o-rings + threads every few months  
+- Keep spare 10508 optic + gasket  
+- Quarterly:  
+  - Current check  
+  - Ring torque  
+  - MCPCB seat re-check  
 
 ---
 
-## Change Log
-- **2025-09-24** — Initial build spec drafted; designated **Boathouse Spec** personal E2. Components confirmed on hand (519A triple, S2+ sterile host, 5 A buck, M35A). Group 10, memory OFF, LVP 3.0/2.8 V.
+## **Marking**
+- **Internal label:**  
+  `TFU-E2-WM-01+ (519A/4500K • 8A Buck • 30Q)`  
+- **External:**  
+  *Classic+ — Flagship Spec* (logbook only)
 
-*Personal build. Not for sale. Tune for reliability over max lumens.*
+---
+
+## **Change Log**
+- **2025-11-xx** — Classic+ spec drafted (8 A version).  
+- **2025-11-xx** — Optic finalized (10508).  
+- **2025-11-xx** — Build pending driver arrival.
+
+---
+
+*Classic+ is the E2 at full send — proof-of-concept, halo-tier execution.*  

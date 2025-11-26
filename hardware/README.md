@@ -56,7 +56,9 @@ Tuned for reliability, simplicity, and durability under recoil for weapon-mounte
   Runs on 18350 cell. Lightweight, durable, and optimized for urban/CQB use.
 
 ## Shop Standards  
-[Standard TFU Shop Standards.](ShopStandards.md)
+[Standard TFU Shop Standards.](ShopStandards.md)   
+
+[TFU QC Checklist](QC-CheckList.md)
 
 Questions, suggestions, or want to collaborate?  
 Open an issue or [contact support](mailto:TFU-Lights@wmode.anonaddy.com).

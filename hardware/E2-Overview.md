@@ -18,10 +18,10 @@ This page documents all current E2 variants.
 ---
 
 # **E2 Model Lineup**
-- **TFU-E2 (Standard)**  
+- [**TFU-E2 (Standard)**](TFU-E2.md)  
 - **TFU-E2 Urban**  
-- **TFU-E2 Classic**  
-- **TFU-E2 Classic+**
+- [**TFU-E2 Classic**](TFU-E2-Classic.md)  
+- [**TFU-E2 Classic+**](TFU-E2-Classic-Plus.md)  
 
 ---
 

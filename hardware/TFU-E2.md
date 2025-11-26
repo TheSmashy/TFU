@@ -1,7 +1,7 @@
-# TFU-E2 — Triple 219BT EDC
+# TFU-E2  
 
 **Series:** E (Everyday / EDC)  
-**Host:** Convoy S2+ (including sterile hosts from early builds)  
+**Host:** Convoy S2+ (sterile hosts)  
 **Colorway:** Black  
 **Status:** Production  
 **Revision:** 1.0  

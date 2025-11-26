@@ -75,7 +75,7 @@ Unscrew the tailcap ¼ turn for safe carry.
 - Clean regulation down to ~3.0 V  
 - No PWM  
 - Bypassed leads for reduced resistance
-- Low Voltage Protection (LVP): Three slow flashes when cell is at 3 V
+- Low Voltage Protection (LVP): Three slow flashes when cell is at 3.0 V
 
 ### Spring / Bypass Work
 - **Tail spring bypassed** (22 AWG)  

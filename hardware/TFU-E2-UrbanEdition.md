@@ -143,5 +143,5 @@ No reflector, no glass, no extra optics—clean and tight.
 
 ## Serial Format
 
-**TFU-E2-UE-###**  
-(UE = Urban Edition)
+**TFU-E2-U-###**  
+(U = Urban)

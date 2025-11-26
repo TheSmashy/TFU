@@ -21,12 +21,11 @@ This variant removes the front glass for maximum optical efficiency and uses byp
 ## At a Glance
 
 - **Emitter:** Nichia 519A 3500K R9080  
-- **Optic:** 15° bead TIR (Convoy)  
+- **Optic:** 15° bead TIR  
 - **Driver:** 5 A buck, bypassed  
 - **Tail Spring:** Bypassed  
-- **Lens:** *None* (open-optic architecture)  
-- **Clip:** Low-profile TFU tail clip  
-- **Recommended Cell:** Samsung 30Q  
+- **Clip:** Low-profile black tail clip  
+- **Recommended Cell:** Samsung 30Q or Molicel M35A  
 - **Memory:** **Off**
 
 ### Estimated Output and Runtime
@@ -47,7 +46,7 @@ This variant removes the front glass for maximum optical efficiency and uses byp
 - **Driver:** 5 A buck (17 mm), bypassed  
 - **Mode Group:** 10 (1 → 10 → 35 → 100 %)  
 - **Memory:** **Off**  
-- **Switch:** Reverse clicky (full press ON/OFF, half-tap to cycle)
+- **Switch:** Reverse clicky (full press ON/OFF, half-tap to advance)
 
 **Quick Start:**  
 From OFF — full press to ON; half-tap to advance modes; full press to OFF.
@@ -66,7 +65,7 @@ Unscrew the tailcap ¼ turn for safe carry.
 - Excellent indoor color rendering
 
 ### Optic
-- Convoy 15° bead TIR  
+- 15° bead TIR  
 - Smooth, soft flood with a crisp usable core  
 - Zero rings or artifacts  
 - Ideal for interior tasks and close-range work
@@ -76,9 +75,10 @@ Unscrew the tailcap ¼ turn for safe carry.
 - Clean regulation down to ~3.0 V  
 - No PWM  
 - Bypassed leads for reduced resistance
+- Low Voltage Protection (LVP): Three slow flashes when cell is at 3 V
 
 ### Spring / Bypass Work
-- **Tail spring bypassed** (braided copper)  
+- **Tail spring bypassed** (22 AWG)  
 - **Driver bypass applied**  
 - Lower resistance, better stability, faster mode-change recovery
 
@@ -105,13 +105,13 @@ Unscrew the tailcap ¼ turn for safe carry.
 
 - **Host:** Convoy S2 (18650)  
 - **Emitter:** Nichia 519A 3500K R9080  
-- **Optic:** Convoy 15° bead TIR  
+- **Optic:** 15° bead TIR  
 - **Lens:** None  
 - **Driver:** 17 mm 5 A buck (Group 10), bypassed  
 - **Switch:** Reverse clicky / brass retainer  
 - **Tail Spring:** Bypassed  
 - **Clip:** TFU low-profile steel clip  
-- **Recommended Cell:** Samsung 30Q  
+- **Recommended Cell:** Samsung 30Q or Molicel M35A  
 
 ---
 

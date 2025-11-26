@@ -1,7 +1,7 @@
-# TFU-E1 Urban Edition
+# TFU-E2 Urban Edition
 
 **Series:** E (Everyday / EDC)  
-**Model:** TFU-E1 Urban Edition  
+**Model:** TFU-E2 Urban Edition  
 **Role:** Compact, sterile-profile urban EDC light  
 **Host:** Convoy S2+ (sterile build)  
 **Cell:** 18650 primary (18350 compatible)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-The TFU-E1 Urban Edition is a compact, no-nonsense EDC flashlight tuned specifically for city environments.  
+The TFU-E2 Urban Edition is a compact, no-nonsense EDC flashlight tuned specifically for city environments.  
 A warm, high-CRI emitter paired with a 15° bead TIR delivers a controlled, comfortable beam ideal for hallways, stairwells, vehicles, apartments, and urban night movement.
 
 No reflector build. No branding. No glass. Urban stealth.
@@ -143,5 +143,5 @@ No reflector, no glass, no extra optics—clean and tight.
 
 ## Serial Format
 
-**TFU-E1-UE-###**  
+**TFU-E2-UE-###**  
 (UE = Urban Edition)

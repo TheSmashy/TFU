@@ -103,7 +103,7 @@ Unscrew the tailcap ¼ turn for safe carry.
 
 ## Bill of Materials (BOM)
 
-- **Host:** Convoy S2 (18650)  
+- **Host:** Convoy S2+ (Sterile or logo)  
 - **Emitter:** Nichia 519A 3500K R9080  
 - **Optic:** 15° bead TIR  
 - **Lens:** None  

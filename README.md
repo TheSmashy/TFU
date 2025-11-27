@@ -18,6 +18,10 @@ TFU combines premium materials with craftsmanship to produce flashlights that st
 
 ---
 
+Please visit the [Etsy Store.](https://tfulights.etsy.com)
+
+---
+
 ## TFU Build Creed  
 
 TFU lights are not hobby builds. They are field tools — hardened, trusted, and ready to deploy.  

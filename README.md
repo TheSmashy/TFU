@@ -127,5 +127,5 @@ For questions or custom orders:
 📧 **[TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com)**  
 🐙 Or open an Issue on this repo.
 
-> **TFU: Real gear. Real hands. Real-world ready.**
-> A [TFU HEAVY INDUSTRIES® company.](ops/TFUHEAVYIND.md)
+> **TFU: Real gear. Real hands. Real-world ready.**   
+> A [TFU HEAVY INDUSTRIES® company.](ops/TFUHEAVYIND.md)   

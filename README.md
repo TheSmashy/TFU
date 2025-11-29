@@ -128,4 +128,4 @@ For questions or custom orders:
 🐙 Or open an Issue on this repo.
 
 > **TFU: Real gear. Real hands. Real-world ready.**   
-> A [TFU HEAVY INDUSTRIES® company.](ops/TFUHEAVYIND.md)   
+> A [TFU HEAVY INDUSTRIES®](ops/TFUHEAVYIND.md) company.   

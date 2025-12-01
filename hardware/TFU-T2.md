@@ -22,10 +22,10 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 | **Host** | Sterile T2 (black) |
 | **Emitter** | Nichia 519A 5000 K CRI90 on T3 MCPCB |
 | **Optics** | T3 AR-coated glass lens, factory gasket |
-| **Driver** | Convoy 5 A buck driver (programmed to Mode Group 8) |
+| **Driver** | Convoy 5 A buck driver (12-group, programmed to Mode Group 8 for shipping) |
 | **Mode Group (Shipping)** | **Group 8 — 1 % / 20 % / 50 %**, Memory ON |
 | **Power Source (Recommended)** | **Vapcell F12 (1250 mAh / 3 A CDR)** or **Vapcell F15 (1500 mAh / 3 A CDR)** |
-| **Alternate (High-Drain Mode)** | **Group 10 (20 % / 100 %)** — requires **Vapcell H10 (≈1000 mAh / 10 A CDR)** |
+| **Alternate (High-Drain Mode)** | **Group 5 — 1 % / 20 % / 100 %** with **Vapcell H10 (≈1000 mAh / 10 A CDR)** |
 | **Bypass** | 22 AWG silicone wire tail-spring bypass |
 | **Thermal Path** | MX-4 on MCPCB, CS109 bonded driver seat |
 | **Securing** | Loctite 242 on rings — 24 h cure |
@@ -34,16 +34,33 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 ---
 
-## Performance (Shipping — Mode Group 8)
+## Performance (Shipping — Mode Group 8, F12 1250 mAh)
 
 | Parameter | Estimate |
 |------------|-----------|
-| **High (50 %)** | ≈  650–750 lm at turn-on (@ ~2.45 A tail draw) |
-| **Medium (20 %)** | ≈ 230-270 lm optimized for runtime |
-| **Low (1 %)** | ~12–20 lm — mmap reading, close work, not “covert” |
+| **High (50 %)** | ≈ 650–750 lm at turn-on (@ ~2.45 A tail draw) |
+| **Medium (20 %)** | ≈ 230–270 lm optimized for runtime |
+| **Low (1 %)** | ~12–20 lm — map reading / close work, not “covert” |
 | **CCT / CRI** | 5000 K neutral white / CRI 90+ |
-| **Runtime (F12 1250 mAh)** | ≈ 30 – 32 min @ 50 %  /  ≈ 2 h @ 20 %  /  ≈ 30–40 h @ 1 % |
+| **Runtime (F12 1250 mAh)** | ≈ 30–32 min @ 50 %  /  ≈ 2 h @ 20 %  /  ≈ 30–40 h @ 1 % |
 | **Thermal Regulation** | Active buck control; case gets hot under sustained high |
+
+---
+
+## Performance (Group 5 — 1 / 20 / 100 %, Vapcell H10)
+
+Configured for maximum violence of action with a true high-drain cell.
+
+| Parameter | Estimate |
+|------------|-----------|
+| **High (100 %)** | ≈ 1100–1300 lm burst at turn-on (@ ~4.8–5.0 A tail draw, fresh H10) |
+| **Medium (20 %)** | ≈ 230–270 lm, similar output to Group 8 medium |
+| **Low (1 %)** | ~12–20 lm — navigation / admin light |
+| **Runtime (H10 ≈1000 mAh)** | ≈ 10–12 min @ 100 % (to significant step-down / sag)  /  ≈ 50–60 min @ 20 %  /  ≈ 15–20 h @ 1 % |
+| **Thermal Behavior** | Body becomes very hot in under a minute at 100 %; treat as a controlled-burst mode only |
+
+> **Group 5 Use Case:**  
+> H10 + Group 5 is a “pocket flash-bang” profile — short, decisive bursts at 100 % with 20 % as a sustainable work level and 1 % for navigation.
 
 ---
 
@@ -78,9 +95,14 @@ Shipping in **Mode Group 8 (1 / 20 / 50 %)** intentionally limits peak output to
 - **20 %** — admin tasks, map work, and close-range problem-solving  
 - **50 %** — rapid escalation for target ID and short, high-output bursts    
 
-**Group 10 support** remains for advanced users, but requires a high-drain cell (H10) and acceptance of shortened runtime and higher thermal load.
+For users who understand the trade-offs, **Group 5 (1 / 20 / 100 %)** with an **H10** unlocks full driver output:
 
-**Thermal Guidance:** even at 50 % the aluminum chassis will get hot within ≈ 60–90 s. Limit continuous high to ≤ 45 s followed by ≥ 90 s cool-down for emitter longevity.
+- **1 %** — same low floor as Group 8  
+- **20 %** — general work and search level  
+- **100 %** — maximum punch; treat as a 10–15 s burst mode with enforced cool-down
+
+**Thermal Guidance (Group 5 / H10):**  
+At 100 % the aluminum chassis will reach “too hot to hold” quickly. Keep continuous full-power bursts to ≈ 10–15 s followed by ≥ 90 s cool-down. This preserves emitter life and keeps the cell out of abuse territory.
 
 > *Low signature. Immediate escalation. Absolute control.*
 
@@ -98,9 +120,14 @@ Shipping in **Mode Group 8 (1 / 20 / 50 %)** intentionally limits peak output to
 
 ---
 
+### Changelog — 2025-12-01
+
+- Added **Group 5 (1 / 20 / 100 %)** performance profile for **Vapcell H10**.  
+- Clarified driver group usage and high-drain doctrine for T-series deployment.  
+
 ### Changelog — 2025-11-11
 
 - Shipping mode changed to **Group 8 (1 / 20 / 50 %)**.  
 - Added battery compatibility for **Vapcell F12 / F15** (3 A CDR).  
-- Clarified **Group 10 (20 / 100 %)** requires **Vapcell H10 (10 A CDR)**.  
+- Clarified high-drain operation requires **Vapcell H10 (10 A CDR)**.  
 - Updated runtime and beamshot captions to match measured 2.45 A tail current.  

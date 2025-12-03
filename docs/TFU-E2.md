@@ -98,7 +98,7 @@ For full documentation, warranty, and updates, visit:
 ---
 
 **Tip:**  
-Record your serial and build date for quicker support. Enjoy your TFU‑E1—use it hard and let me know your story.
+Record your serial and build date for quicker support. Enjoy your TFU‑E2—use it hard and let me know your story.
 
 ---
 

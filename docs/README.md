@@ -7,11 +7,12 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 
 ---
 
-## 🔦 Product Guides
+## Product Guides
 
 | File | Model | Description |
 |:------|:-------|:-------------|
 | [`TFU-E1.md`](./TFU-E1.md) | **E1** | Compact EDC light designed for everyday reliability. Includes operation, runtimes, and care instructions. |
+| [`TFU-E2.md`](./TFU-E2.md) | **E2** | Compact, high-output, high-CRI EDC platform built around a triple Nichia array and a 5 A regulated buck driver. |
 | [`TFU-E3.md`](./TFU-E3.md) | **E3** | Enhanced EDC model with higher output and advanced driver tuning. |
 | [`TFU-F1.md`](./TFU-F1.md) | **F1** | Field light built for task work and general-purpose use. Includes runtime data and configuration notes. |
 | [`TFU-F2.md`](./TFU-F2.md) | **F2** | Extended-runtime field light optimized for balanced beam and durability. |
@@ -19,7 +20,7 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 
 ---
 
-## ⚙️ Configuration Guides
+## Configuration Guides
 
 | File | Applies To | Description |
 |:------|:-------------|:-------------|
@@ -41,7 +42,7 @@ Each configuration guide explains:
 
 ---
 
-## 💡 About TFU Lights
+## About TFU Lights
 
 **TFU (Tactical Field Use)** flashlights are hand-built, tested, and field-verified for reliability and performance.  
 Each model is designed around three principles:
@@ -52,7 +53,7 @@ Each model is designed around three principles:
 
 ---
 
-### 📄 Notes
+### Notes
 
 - All TFU lights are compatible with **high-quality lithium-ion cells only** (Samsung, Molicel, Vapcell).  
 - Always follow the battery recommendations in your specific product guide.  

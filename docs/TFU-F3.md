@@ -82,7 +82,7 @@ The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 ---
 ### Configuration & Mode Guide  
 Full documentation is available here:  
-**[Config Guide](docs/config_guide.md)**  
+**[Config Guide](../docs/config_guide.md)**  
 
 ---
 

@@ -56,6 +56,11 @@ Lockout: unscrew tailcap ¼ turn for safe carry.
 - Hand-assembled, hand-tuned, waterproof, drop-tested—built in the USA
 
 ---
+### Configuration & Mode Guide  
+Full documentation is available here:  
+**[Config Guide](docs/config_guide.md)**  
+
+---
 
 ## Bill of Materials (BOM)
 
@@ -69,7 +74,7 @@ Lockout: unscrew tailcap ¼ turn for safe carry.
 ---
 
 **Version:** TFU‑E1 Mk I/II  
-**Last Updated:** 2025‑08‑03
+**Last Updated:** 2025‑12‑11
 
 ---
 

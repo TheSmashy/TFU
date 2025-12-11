@@ -102,7 +102,7 @@ Unscrew the tailcap ¼ turn for safe carry.
 ---
 ### Configuration & Mode Guide  
 Full documentation is available here:  
-**[Config Guide](docs/config_guide.md)**  
+**[Config Guide](../docs/config_guide.md)**  
 
 ---
 ## Bill of Materials (BOM)

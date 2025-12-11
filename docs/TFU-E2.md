@@ -74,7 +74,11 @@ This is not a hobby build — it’s a field tool.
 - Store at ~3.7–3.8 V when not in active rotation.
 
 ---
+### Configuration & Mode Guide  
+Full documentation is available here:  
+**[Config Guide](docs/config_guide.md)**  
 
+---
 ## Battery Recommendations
 
 - **Samsung 30Q** – High output  

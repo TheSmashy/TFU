@@ -100,7 +100,11 @@ Unscrew the tailcap ¼ turn for safe carry.
 - Built and tested in Illinois, U.S.A.
 
 ---
+### Configuration & Mode Guide  
+Full documentation is available here:  
+**[Config Guide](docs/config_guide.md)**  
 
+---
 ## Bill of Materials (BOM)
 
 - **Host:** Convoy S2+ (Sterile or logo)  
@@ -126,7 +130,7 @@ Unscrew the tailcap ¼ turn for safe carry.
 ---
 
 ## Version: TFU-E2 Urban Mk I  
-**Last Updated:** 2025-11-26  
+**Last Updated:** 2025-12-11    
 
 ---
 

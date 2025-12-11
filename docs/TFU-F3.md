@@ -79,10 +79,14 @@ The TFU-F3 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 - Loctite 242 on all hardware, MX-4 and CS109 on MCPCB/driver
 - Waterproof and drop-tested
 - Hand-assembled and tuned in the U.S.A.
+---
+### Configuration & Mode Guide  
+Full documentation is available here:  
+**[Config Guide](docs/config_guide.md)**  
 
 ---
 
 [Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
 
 ---
-Built by hand in the U.S.A. | Last updated: 2025-08-29
+Built by hand in the U.S.A. | Last updated: 2025-12-11  

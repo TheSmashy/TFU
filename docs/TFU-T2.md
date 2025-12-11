@@ -106,7 +106,18 @@ Includes:
 
 ---
 
-## Support
+## Warranty & Support
 
-TFU lights are hand-built and field-tested.  
-If your light ever fails under normal use, TFU will make it right.
+TFU lights are built for real-world use.  
+If a defect or workmanship issue arises, the Boathouse will make it right.
+
+Built by hand in the U.S.A.  
+For full documentation, warranty, and updates, visit:  
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+**Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) \| Reddit: u/thesmashy
+
+---
+
+**Tip:**  
+Record your serial and build date for quicker support. Enjoy your TFU‑E2—use it hard and let me know your story.

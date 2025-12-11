@@ -34,11 +34,17 @@ Each configuration guide explains:
 
 ---
 
-## 🧰 Maintenance & Hardening
+## Maintenance & Hardening
 
 | File | Description |
 |:------|:-------------|
 | [`HardeningService.md`](./HardeningService.md) | TFU Hardening Services, performed at the boathouse on your light. |
+
+---
+## Approved Cells
+| File | Description |
+|:------|:-------------|
+| [`approved_cells.md`](./approved_cells.md) | TFU approved cell guide, what cells are tested and approved for which lights. |
 
 ---
 

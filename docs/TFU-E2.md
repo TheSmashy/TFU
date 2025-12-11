@@ -76,7 +76,7 @@ This is not a hobby build — it’s a field tool.
 ---
 ### Configuration & Mode Guide  
 Full documentation is available here:  
-**[Config Guide](docs/config_guide.md)**  
+**[Config Guide](../docs/config_guide.md)**  
 
 ---
 ## Battery Recommendations

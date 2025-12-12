@@ -22,6 +22,9 @@ Please visit the [TFU Etsy Store.](https://tfulights.etsy.com)
 
 ---
 
+[TFU User Documentation](docs/README.md)
+
+---
 ## TFU Build Creed
 
 TFU lights are not hobby builds. They are field tools — hardened, trusted, and ready.

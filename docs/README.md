@@ -50,7 +50,7 @@ Each configuration guide explains:
 ## WARRANTY  
 | File | Description |
 |:------|:-------------|
-| [`WARRANTY.md`](./ops/WARRANTY.md) | TFU Warranty and guarantee.  |  
+| [`WARRANTY.md`](../ops/WARRANTY.md) | TFU Warranty and guarantee.  |  
 
 ---
 ## About TFU Lights

@@ -22,9 +22,9 @@ Single-emitter B35AM build optimized for high-CRI, neutral-white utility. Balanc
 ## At a Glance
 
 - **Emitter:** Nichia B35AM, 5000K, high CRI  
-- **Driver:** 6V 2A boost, Mode Group 10 (1–10–35–100%)  
+- **Driver:** 6V 2.4A boost, Mode Group 10 (1–10–35–100%)  
 - **Switch:** Forward clicky with mode memory  
-- **Cell:** 18650 (recommend Molicel M35A)  
+- **Cell:** 21700 (recommend Molicel P45B)  
 - **Optic:** OP reflector, glass lens  
 
 | Mode  | % Output | Lumens | Runtime (est., M35A) |
@@ -71,7 +71,7 @@ The TFU-F2 driver includes built-in **Low Voltage Protection (LVP)** to prevent 
 
 ---
 
-[Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+[Full Documentation](https://github.com/TheSmashy/TFU)  
 
 ---
 

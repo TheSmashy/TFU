@@ -47,7 +47,12 @@ Each configuration guide explains:
 | [`approved_cells.md`](./approved_cells.md) | TFU approved cell guide, what cells are tested and approved for which lights. |
 
 ---
+## WARRANTY  
+| File | Description |
+|:------|:-------------|
+| [`WARRANTY.md`](./ops/WARRANTY.md) | TFU Warranty and guarantee.  |  
 
+---
 ## About TFU Lights
 
 **TFU (Tactical Field Use)** flashlights are hand-built, tested, and field-verified for reliability and performance.  

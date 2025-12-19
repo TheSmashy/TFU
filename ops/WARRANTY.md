@@ -9,7 +9,8 @@ Your TFU light is covered for life (original owner) against defects in **workman
 ## What’s Not Covered
 - Normal wear and tear  
 - Cosmetic blemishes  
-- Damage from gross abuse or unauthorized mods  
+- Damage from gross abuse or unauthorized mods
+- Battery use (cells are consumables)  
 
 ---
 

@@ -31,7 +31,8 @@
 - **Beam Test:** white wall at 2 m.  
 - **Lux Check:** phone app baseline acceptable.  
 - **Thermal Check:** 60 s runtime at max mode.  Give her a smell.  
-- **Visual Inspection:** no beam artifacts, wires tucked, threads clean.  
+- **Visual Inspection:** no beam artifacts, wires tucked, threads clean.
+- **QC Checklist**  Please see the [TFU QC Checklist](QC-CheckList.md)  
 
 ---
 

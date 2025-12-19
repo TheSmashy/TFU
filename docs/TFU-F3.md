@@ -86,7 +86,7 @@ Full documentation is available here:
 
 ---
 
-[Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/WARRANTY.md)
+[Full Documentation](https://github.com/TheSmashy/TFU) | [Warranty](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)
 
 ---
-Built by hand in the U.S.A. | Last updated: 2025-12-11  
+Built by hand in the U.S.A. | Last updated: 2025-12-19  

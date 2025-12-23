@@ -26,9 +26,9 @@ _Primary mission:_ Deliver clean, regulated output with high color fidelity in a
   - **AA NiMH** (safe, reliable fallback)  
   - **AA alkaline** (emergency only; low output + leak risk)
 - **Default Mode Group:** **Group 8 — 1% / 10% / 50%**  
-  Tuned for use with **Vapcell F12** to keep thermals under control.
+  Tuned for use with **Vapcell F12/F15** to keep thermals under control.
 - **Optional High-Output Mode Group:** **Group 5 — 1% / 20% / 100%**  
-  Designed for **Vapcell H10**, with strict time limits (see below).
+  Designed for **Vapcell H10/K10**, with strict time limits (see below).
 
 ---
 
@@ -42,8 +42,8 @@ _Primary mission:_ Deliver clean, regulated output with high color fidelity in a
 
 ### 14500 Li-ion (Full performance)
 Best cells:
-- **Vapcell F12** — optimal for Group 8  
-- **Vapcell H10** — maximum output for Group 5; see warnings
+- **Vapcell F12/F15** — optimal for Group 8  
+- **Vapcell H10/K10** — maximum output for Group 5; see warnings
 
 ### Alkaline
 - **Not recommended**  
@@ -57,13 +57,13 @@ Best cells:
 
 The T2 is a compact light — physics applies.
 
-### Using Group 8 (F12 recommended)
+### Using Group 8 (F12/F15 recommended)
 1% / 10% / 50%  
 - Excellent for field use  
 - Stable thermals  
 - No strict time limits
 
-### Using Group 5 (H10 only)
+### Using Group 5 (H10/K10 only)
 1% / 20% / 100%  
 - **100% is extremely high output for a T2-class host**  
 - Expect rapid heat rise  
@@ -82,12 +82,13 @@ If it feels too hot to hold, stop.
 - **Momentary (half-press):** cycle modes  
 - **Full click:** on/off  
 - Mode programming follows the standard TFU 14500 pattern.
+- **PLEASE NOTE** The threads at the head end have been treated with thermal paste.  Please open, install, and remove the battery from the **switch end**.  
 
 ---
 
 ## Programming & Configuration
 
-👉 **[TFU 14500 Configuration Guide](../docs/config_guide_14500.md)**
+**[TFU 14500 Configuration Guide](../docs/config_guide_14500.md)**
 
 Includes:
 - All mode groups  

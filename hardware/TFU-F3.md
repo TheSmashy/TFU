@@ -80,10 +80,8 @@ Heavy thermal mass + oversized drivers + tuned emitters
 - **Cell format:** 21700  
 - **Recommended cell:** Molicel P45B  
 - **Standard emitter:** Quad Nichia 519A 5000 K (90 CRI)  
-- **Optional variant:** Quad Nichia 219B SW45K 4500 K (95 CRI)  
 - **Driver options:**  
-  - 6 V 5 A Boost (Alpha)  
-  - 6 V 3 A Buck (Bravo)  
+  - 6 V 5 A Boost  
 - **UI:** Mode Group 10 (1 % → 10 % → 35 % → 100 %), memory off  
 - **Optic:** None (directed mule)  
 - **Runtime:** High sustained output; minimal thermal throttling (see runtime charts)  
@@ -141,11 +139,6 @@ The TFU-F3 is purpose-built for:
 
 Not intended for stealth or tactical operations.
 
-### F3 Variants
-
-- **F3 (519A 5000 K)** – Standard production; daylight-neutral.  
-- **F3 Bravo (219B 4500 K)** – Warm/rosy high-CRI variant.
-
 ---
 
 ## Runtime & Thermal Performance
@@ -163,9 +156,8 @@ Custom CCT, emitters, and firmware available upon request for kit integration.
 
 ---
 
-### CCT Standardization Note — October 2025
+### CCT Standardization Note — December 2025
 
 Current TFU-F3 production is standardized to:
 
 - **Nichia 519A 5000 K (90 CRI)** as the default  
-- **219B SW45K 4500 K (95 CRI)** for the Bravo variant

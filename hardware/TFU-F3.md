@@ -6,6 +6,11 @@
 
 The **TFU-F3** is a high-output field/work light built on the Convoy S16 platform and configured as a *directed mule* for maximum flood and situational awareness. High-CRI output, wide coverage, and rugged construction make it a dependable tool for real field environments — not a desk piece. Built and tested in the U.S.
 
+# LEDs and CCT  
+
+Current TFU-F3 builds use a Nichia 519A 5000K emitter with a 6 V 5 A boost driver.
+Earlier F3 configurations using different emitters or drive levels are archived as legacy builds and are no longer produced.
+
 # TFU-F3 Platform — Directed Mule Lights
 
 The F3 platform uses a **2S2P 21700 architecture** to drive quad-emitter MCPCBs at high current without optics. This creates a controlled, high-angle flood ideal for field tasks, troubleshooting, workspace lighting, and enclosed environments where beam discipline is not required.
@@ -24,7 +29,7 @@ Heavy thermal mass + oversized drivers + tuned emitters
 
 ---
 
-## TFU-F3 Alpha (Active)
+## TFU-F3 
 
 - **Emitters:** Quad Nichia 519A 5000 K (2S2P)  
 - **Driver:** 6 V 5 A boost  
@@ -33,12 +38,12 @@ Heavy thermal mass + oversized drivers + tuned emitters
 
 ---
 
-## TFU-F3 Bravo (Active)
+## TFU-F3 Bravo (Discontinued)
 
 - **Emitters:** Quad Nichia 219B SW45K 4500 K (2S2P)  
 - **Driver:** 6 V 3 A buck  
 - **Beam:** Cinematic tint, ultra-high CRI, warm and immersive.  
-- **Status:** [**Available**](TFU-F3-Bravo.md)
+- **Status:** [**Discontinued**](TFU-F3-Bravo.md)
 
 ---
 

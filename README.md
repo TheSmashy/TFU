@@ -62,7 +62,7 @@ These are tools you trust next to an IFAK, not next to a desk toy.
 | [TFU-E3](hardware/TFU-E3.md) | EDC Light | ✅ Complete |
 | [TFU-F1](hardware/TFU-F1.md) | Field Series | ✅ Complete |
 | [TFU-F2](hardware/TFU-F2.md) | Field Series | Development |
-| [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete — New models in dev |
+| [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 | [TFU-T1](hardware/TFU-T1.md) | Tactical | Development |
 | [TFU-T2](hardware/TFU-T2.md) | Tactical | ✅ Complete |
 

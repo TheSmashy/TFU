@@ -7,6 +7,8 @@
 | **TFU-E2-003** | Prod     | 4500 K | Nichia 219BT ×3 | 5 A Buck        | Production build; Kai S2+ host | 2025-10-21 |
 | **TFU-E2-004** | Prod     | 4500 K | Nichia 219BT ×3 | 5 A Buck        | Production build; Kai S2+ host | 2025-10-26 |
 | **TFU-E2-005** | Prod     | 5000 K | Nichia 219F ×3 | 5 A Buck        | Production build; Kai S2+ host | 2025-11-14 |
-| **TFU-E2-E-001** | Prod     | 3500 K | Nichia 519A | 5 A Buck        | Production validation build; Convoy S2+ host; successful runtime and thermal performance | 2025-11-14 |
-| **TFU-E2-E-002** | QC-4     | 3500 K | Nichia 519A | 5 A Buck        | Production build; Kai S2+ host; successful runtime and thermal performance | 2025-11-26 |
+| **TFU-E2-U-001** | Prod     | 3500 K | Nichia 519A | 5 A Buck        | Production validation build; Convoy S2+ host; successful runtime and thermal performance | 2025-11-14 |
+| **TFU-E2-U-002** | QC-4     | 3500 K | Nichia 519A | 5 A Buck        | Production build; Kai S2+ host; successful runtime and thermal performance | 2025-11-26 |
+| **TFU-E2-U-003** | Prod     | 3500 K | Nichia 519A | 5 A Buck        | Production build; Kai S2+ host; successful runtime and thermal performance | 2025-12-15 |
+| **TFU-E2-006** | Prod     | 5000 K | Nichia 219F ×3 | 5 A Buck        | Production build; Kai S2+ host | 2026-01-01 |
 

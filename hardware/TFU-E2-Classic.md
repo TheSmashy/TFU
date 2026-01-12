@@ -12,9 +12,9 @@ Classic = *practical output, polite thermals, zero drama.*
 - **Optic:** **Carclo 10508** (clean hotspot, soft edges)  
 - **Driver:** **5 A buck**, Group 10 (1 / 10 / 35 / 100), **memory OFF**  
 - **Battery:** Samsung **30Q** or Molicel **M35A**  
-- **Thermal Core:** **Aluminum S2 triple spacer** (production choice)  
+- **Thermal Core:** **Copper S2 triple spacer** (production choice)  
 - **Hardening:** Spring bypasses, MX-4, CS109, Loctite 242  
-- **Aesthetic:** Black lens o-ring, low-profile clip
+- **Aesthetic:** Black lens o-ring, TFU clip
 
 ---
 
@@ -42,7 +42,7 @@ Classic = *practical output, polite thermals, zero drama.*
 519A + 10508 + black o-ring → **smooth neutral hotspot**, no artifacts, perfect EDC beam.
 
 **Thermals:**  
-Al spacer keeps cost sane and performance consistent; no runaway heat, predictable plateau.
+Cu spacer keeps performance consistent; no runaway heat, predictable plateau.
 
 ---
 
@@ -101,6 +101,7 @@ Al spacer keeps cost sane and performance consistent; no runaway heat, predictab
 - **2025-11-xx** — Classic production spec finalized.  
 - **2025-11-xx** — Optic set to 10508 for signature beam.  
 - **2025-11-xx** — Spacer standardized to aluminum for production consistency.
+- **2026-01-12** — Spacer standardized to copper for thermal consistency.
 
 ---
 

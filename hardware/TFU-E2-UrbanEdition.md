@@ -7,7 +7,7 @@
 **Cell:** 18650 primary (18350 compatible)
 
 ---
-![E2 Urban Hero](../Assets/E2-Urban-Hero.jpg)
+![E2 Urban Hero](../Assets/TFU-E2-Urban-Hero.jpg)
 ---
 ## Overview
 

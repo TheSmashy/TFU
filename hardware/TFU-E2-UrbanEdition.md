@@ -54,7 +54,8 @@ No reflector build. No branding. No glass. Urban stealth.
 | Beam Profile | Soft center, wide spill, artifact-free |
 
 Beam is optimized for tight, human-scale environments and indoor tasks.
-
+---
+![E2 U Beam](../Assets/TFU-E2-Urban-519A-3500K-5m-Garage.jpg)
 ---
 
 ## Driver / UI

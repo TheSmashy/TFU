@@ -7,7 +7,8 @@
 **Cell:** 18650 primary (18350 compatible)
 
 ---
-
+![E2 Urban Hero](../Assets/E2-Urban-Hero.jpg)
+---
 ## Overview
 
 The TFU-E2 Urban Edition is a compact, no-nonsense EDC flashlight tuned specifically for city environments.  

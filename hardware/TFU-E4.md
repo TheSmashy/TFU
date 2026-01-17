@@ -51,7 +51,7 @@ This page is the canonical reference for **specs, build method, QC checks, and r
 ## Default Mode Configuration
 
 - **Mode set:** 1% → 10% → 35% → 100%
-- **Memory:** of)
+- **Memory:** off
 - **Strobe/SOS:** disabled
 
 ---

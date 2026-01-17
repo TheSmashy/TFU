@@ -9,7 +9,11 @@
 
 ## Overview
 
-The **TFU-E4** is a compact, no-nonsense EDC light tuned for real-world use: clean UI, high CRI, and a beam profile that’s useful indoors, on a map, and at arm’s length—without feeling like a toy.
+The TFU-E4 is a compact, no-nonsense inspection and task light built on the Convoy S3 platform in an 18350 configuration.
+
+It’s designed for real work: clean beam, predictable output, and hardware that doesn’t fight the user. The S3 host adds thermal stability and durability, pushing the E4 into “almost field-grade” territory while keeping true EDC size and weight.
+
+This is a tool first, a pocket light second.
 
 This page is the canonical reference for **specs, build method, QC checks, and revisions**.
 

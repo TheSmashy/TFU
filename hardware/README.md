@@ -21,6 +21,7 @@ Compact everyday carry lights built for reliability and convenience.
 - [TFU-E1](TFU-E1.md) – Compact Convoy S2+ based EDC model. [Hardening notes.](TFU-E1-Hardening-List.md) 
 - [TFU-E2](E2-Overview.md) – The TFU-E2 platform is TFU’s compact, high-CRI, high-output utility light system based on the S2-class host. [Hardening notes.](TFU-E2-Hardening-List.md)
 - [TFU-E3](TFU-E3.md) - Triple 519A T6 build, compact light with full sized power, 5A buck and triple 519As with a 14500 cell.
+- [TFU-E4](TFU-E4.md) - Compact Convoy S3 based EDC / task light.  Optimized beam with OP relector and AR glass.
 
 ## F Series – Field
 Lights designed for field work with extended runtime, high durability, and mission-grade output.

@@ -21,7 +21,6 @@ This page documents all current E2 variants.
 - [**TFU-E2 (Standard)**](TFU-E2.md)  
 - [**TFU-E2 Urban**](TFU-E2-UrbanEdition.md)  
 - [**TFU-E2 Classic**](TFU-E2-Classic.md)  
-- [**TFU-E2 Classic+**](TFU-E2-Classic-Plus.md)  
 
 ---
 
@@ -71,7 +70,7 @@ This page documents all current E2 variants.
 
 ### **Hardware Profile**
 - **Host:** Convoy S2  
-- **Emitters:** **Triple Nichia 519A 4500K** on 20mm MCPCB  
+- **Emitters:** **Triple Nichia 519A 5000K** on 20mm MCPCB  
 - **Optic:** Carclo **10508** TIR (wide flood, soft center)  
 - **Driver:** **5A Buck**  
 - **Battery:** Molicel M35A / Samsung 30Q  
@@ -90,30 +89,6 @@ This page documents all current E2 variants.
 - Close and mid-range task light  
 - Anyone who wants a wide, uniform beam
 
----
-
-# TFU-E2 Classic+
-*The Classic on performance steroids.*
-
-### **Hardware Profile**
-- **Host:** S2  
-- **Emitters:** **Triple Nichia 519A 4500K**  
-- **Optic:** Carclo **10508** TIR  
-- **Driver:** **8A Buck**  
-- **Thermal Stack:** Upgraded paste + improved assembly torque + optional spring bypass  
-- **Battery:** 30Q or P28A  
-- **Clip:** Low-profile TFU clip  
-
-### **Beam Character**
-- Same perfect Classic wall-of-light beam  
-- More horsepower  
-- Better sustained brightness  
-- Faster heat rise, but smoother regulation  
-
-### **Role**
-- Premium field/general-purpose  
-- High-output indoor/outdoor  
-- “TFU Classic, but unmistakably stronger”
 
 ---
 
@@ -121,10 +96,9 @@ This page documents all current E2 variants.
 
 | Model | Emitters | Optic | Driver | Beam Style | Role |
 |-------|----------|--------|---------|-------------|--------|
-| **E2 Standard** | 219BT 4500K OR 219F 5000K | 10511 TIR | 5A Buck | Balanced floody/throw | General purpose |
+| **E2 Standard** | Triple 219BT 4500K OR 219F 5000K | 10511 TIR | 5A Buck | Balanced floody/throw | General purpose |
 | **E2 Urban** | 519A 3500K | 15° bead TIR | 5A Buck | Warm, artifact-free indoor flood | Urban/interior |
-| **E2 Classic** | **Triple 519A 4500K** | **10508** | 5A Buck | Soft, wide flood | Indoor/utility |
-| **E2 Classic+** | **Triple 519A 4500K** | **10508** | 8A Buck | Classic flood + high output | Premium general purpose |
+| **E2 Classic** | **Triple 519A 5000K** | **10508** | 5A Buck | Soft, wide flood | Indoor/utility |
 
 ---
 
@@ -141,5 +115,5 @@ This page documents all current E2 variants.
 
 | Version | Date | Changes |
 |---------|--------|----------|
-| v1.2 | 2025-11-26 | Updated Classic/Classic+ to triple 519A + 10508 |
+| v1.3 | 2026-01-19 | Updated Classic to 5000K |
 

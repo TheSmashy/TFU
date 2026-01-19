@@ -55,7 +55,7 @@ This page documents all current E2 variants.
 - **Optic:** Convoy **15° bead TIR**  
 - **Driver:** 5A Buck
 - **Clip:** Low profile black steel clip
-- **Battery:** 30Q  
+- **Battery:** 18650 (M35A) or 18350 (M11v2)    
 - **Mode Group:** 1–10–35–100  
 
 ### **Beam Character**
@@ -73,7 +73,7 @@ This page documents all current E2 variants.
 - **Emitters:** **Triple Nichia 519A 5000K** on 20mm MCPCB  
 - **Optic:** Carclo **10508** TIR (wide flood, soft center)  
 - **Driver:** **5A Buck**  
-- **Battery:** Molicel M35A / Samsung 30Q  
+- **Battery:** 18650 (30Q / M35A) or 18350 (M11v2)  
 - **Clip:** Low-profile TFU clip  
 
 ### **Beam Character**
@@ -115,5 +115,5 @@ This page documents all current E2 variants.
 
 | Version | Date | Changes |
 |---------|--------|----------|
-| v1.3 | 2026-01-19 | Updated Classic to 5000K |
+| v1.3 | 2026-01-19 | Updated Classic to 5000K / added 18350 options |
 

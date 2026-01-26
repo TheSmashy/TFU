@@ -16,7 +16,7 @@ Built on the Convoy S21G platform with a regulated 5 A buck driver and a 15° TI
 ## At a Glance
 
 - **Host:** Convoy S21G (21700 format)  
-- **Emitter:** Nichia 519A 4500K – neutral white, high CRI, excellent color rendering  
+- **Emitter:** Nichia 519A 5000K – neutral white, high CRI, excellent color rendering  
 - **Optic:** 15° TIR – balanced spot/flood beam for task work  
 - **Driver:** 5 A buck (regulated)  
 - **Switch:** Reverse clicky tailcap  
@@ -51,7 +51,7 @@ Lockout: unscrew tailcap ¼ turn for safe carry.
 ## Custom/Boutique Features
 
 - Black stainless steel tail clip with custom hardware  
-- Nichia 519A 4500K high-CRI emitter behind a 15° TIR optic  
+- Nichia 519A 5000K high-CRI emitter behind a 15° TIR optic  
 - Tail spring bypass: instant response and full current delivery  
 - Loctite 242, MX-4, and CS109 at all critical joints for durability  
 - Hand-assembled, hand-tuned, waterproof, drop-tested—built in the USA
@@ -61,7 +61,7 @@ Lockout: unscrew tailcap ¼ turn for safe carry.
 ## Bill of Materials (BOM)
 
 - **Host:** Convoy S21G (21700)  
-- **Emitter:** Nichia 519A 4500K, high CRI  
+- **Emitter:** Nichia 519A 5000K, high CRI  
 - **Optic:** 15° TIR  
 - **Driver:** 5 A buck (Mode Group 10)  
 - **Switch:** Reverse clicky tailcap  

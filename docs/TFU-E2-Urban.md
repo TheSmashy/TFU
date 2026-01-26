@@ -25,7 +25,8 @@ This variant removes the front glass for maximum optical efficiency and uses byp
 - **Driver:** 5 A buck, bypassed  
 - **Tail Spring:** Bypassed  
 - **Clip:** Low-profile black tail clip  
-- **Recommended Cell:** Samsung 30Q or Molicel M35A  
+- **Recommended Cell:** Molicel M35A or Samsung 30Q
+- **Recommended Cell w/ 18350 tube** Vapcell M11v2  
 - **Memory:** **Off**
 
 ### Estimated Output and Runtime

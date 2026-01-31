@@ -7,7 +7,10 @@
 ---
 
 **Model:** **TFU-F3** (Field / Flood Utility)  
-**Serial:** **[TFU-F3-###]**  
+
+> ✅ Current Production Model  
+> This document reflects the current TFU-F3 configuration and specifications.   
+> Updated: 2026-01-30   
 
 **Contact Support:**  
 [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) | Reddit DM: u/thesmashy  
@@ -114,7 +117,7 @@ Full configuration documentation:
 ---
 
 [Full Documentation](https://github.com/TheSmashy/TFU) |  
-[Warranty](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)
+[Warranty](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)   
 
 ---
 

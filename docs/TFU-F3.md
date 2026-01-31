@@ -47,13 +47,13 @@ It is a **wall-of-light** tool built to illuminate everything in front of you—
 
 | Mode  | % Output | Lumens (est.) | Runtime (est.) |
 |------:|---------:|--------------:|---------------:|
-| Low   | 1%       | ~40 lm        | 150–180 h      |
-| Med1  | 10%      | ~400 lm       | 15–18 h        |
-| Med2  | 35%      | ~1400 lm      | 4.5–6 h        |
+| Low   | 1%       | ~40 lm        | ~45–55 h       |
+| Med1  | 10%      | ~400 lm       | ~4–6 h         |
+| Med2  | 35%      | ~1400 lm      | ~1.1–1.7 h     |
 | High  | 100%     | ~3800–4200 lm | 35–45 min      |
 
 *Estimates assume a healthy P45B at room temperature.*  
-*High mode is thermally limited — step-down is normal and expected.*
+*Engineering note: 100% is a ~30W class load; expect heat stepdown and aggressive battery draw (~8–10A class from the cell).*  
 
 ---
 

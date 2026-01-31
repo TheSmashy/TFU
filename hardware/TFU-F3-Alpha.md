@@ -1,19 +1,19 @@
-# TFU-F3 “Alpha” — Directed Mule Flood Light (519A / 5000 K)
+# TFU-F3 — Directed Mule Flood Light (519A / 5000 K)
 
-**Model:** TFU-F3A  
+**Model:** TFU-F3  
 **Series:** F-Series (Field / Flood)  
 **Host:** Convoy S16 (21700 platform)  
 **Type:** High-CRI Directed Mule / Field Work Light  
-**Release:** Production Model — October 2025  
+**Release:** Production Model — January 2026  
 
 ---
 
 ## Overview
 
-The **TFU-F3 Alpha** is the next-generation evolution of the original F3 platform:  
+The **TFU-F3** is the next-generation evolution of the original F3 platform:  
 a 2S2P quad-emitter mule built around **Nichia 519A 5000 K (90 CRI)** and powered by a **6 V 5 A boost driver** for stable, efficient, real-world field use.
 
-Replacing the earlier 6 V 8 A buck system, the Alpha’s upgraded boost regulator delivers a *sane*, optimized power curve:  
+Replacing the earlier 6 V 8 A buck system, the TFU-F3’s upgraded boost regulator delivers a *sane*, optimized power curve:  
 better efficiency, longer sustained output, and dramatically improved runtime without sacrificing the F3’s trademark wide, directed flood.
 
 This is the **daylight-neutral** F3 — the clean white, high-CRI workhorse of the Field series.
@@ -58,9 +58,9 @@ This is the **daylight-neutral** F3 — the clean white, high-CRI workhorse of t
 
 ## Character & Purpose
 
-> **“Alpha is the field light you trust when you’re not chasing numbers — you’re doing work.”**
+> **“TFU-F3 is the field light you trust when you’re not chasing numbers — you’re doing work.”**
 
-The TFU-F3 Alpha takes the lessons of the original F3 legacy platform and refines them into a balanced, daylight-neutral flood tool:
+The TFU-F3 takes the lessons of the original F3 legacy platform and refines them into a balanced, daylight-neutral flood tool:
 
 - Bright without being wasteful  
 - Color-accurate without being warm  
@@ -91,7 +91,7 @@ Low-power field mode (10%) is intended for extended task work, navigation, and g
 - **Ambient:** ~22 °C (stable)
 
 ### Interpretation
-At 10%, the Alpha provides **predictable, regulated output** suitable for long-duration use:
+At 10%, the TFU-F3 provides **predictable, regulated output** suitable for long-duration use:
 
 - No throttling  
 - No flicker  
@@ -103,7 +103,7 @@ This is the **“finish-the-job” mode** — consistent, neutral-white flood li
 ### Operational Notes
 - Expect **multi-hour runtime** with P45B/P42A.  
 - Ideal for **inspection, bench work, indoor/outdoor navigation**, and low-stress field tasks.  
-- Serves as the Alpha’s baseline stability reference for higher-mode behavior.
+- Serves as the TFU-F3’s baseline stability reference for higher-mode behavior.
 
 ## 100% Output – 10 Minute Thermal & Lux Test
 
@@ -125,7 +125,7 @@ This is the **“finish-the-job” mode** — consistent, neutral-white flood li
 - Peak recorded: **~1312 lux**, settling around **~600+ lux** during sustained operation.
 
 ### Summary
-The TFU-F3 Alpha demonstrates **excellent thermal manners** and **stable regulated output** at full power.  
+The TFU-F3 demonstrates **excellent thermal manners** and **stable regulated output** at full power.  
 This confirms the intended mission profile: a dependable, hard-use 5 A work light with predictable behavior and no surprises under load.
 
 

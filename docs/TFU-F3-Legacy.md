@@ -13,6 +13,10 @@
 
 ---
 
+> ⚠️ Legacy Documentation  
+> This document applies to earlier TFU-F3 configurations and is retained for reference.
+> For the current production TFU-F3, see: [TFU-F3.md](./TFU-F3.md)
+
 ## Overview
 
 Quad-emitter mule configuration for maximum flood and situational awareness. Designed for sustained high-CRI output in work areas. Not for covert/tactical—this is a wall-of-light tool!

@@ -14,11 +14,12 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 | [`TFU-E1.md`](./TFU-E1.md) | **E1** | Compact EDC light designed for everyday reliability. Includes operation, runtimes, and care instructions. |
 | [`TFU-E2.md`](./TFU-E2.md) | **E2** | Compact, high-output, high-CRI EDC platform built around a triple Nichia array and a 5 A regulated buck driver. |
 | [`TFU-E3.md`](./TFU-E3.md) | **E3** | Enhanced EDC model with higher output, triple 519A, and advanced driver tuning in a 14500 platform. |
+| [`TFU-E4.md`](./TFU-E4.md) | **E4** | Compact, high-output, high-CRI EDC light with signle 519A 5000K and a 5 A regulated buck driver. |
 | [`TFU-F1.md`](./TFU-F1.md) | **F1** | Field light built for task work and general-purpose use. Includes runtime data and configuration notes. |
 | [`TFU-F2.md`](./TFU-F2.md) | **F2** | Extended-runtime field light optimized for balanced beam and durability. |
 | [`TFU-F3-Legacy.md`](./TFU-F3-Legacy.md) | **F3** | Legacy performance-tuned mule with driver and CCT that has been retired. |
 | [`TFU-F3.md`](./TFU-F3.md) | **F3** | Performance-tuned mule in standard driver and 5000K CCT. Includes advanced mode details. |
-| [`TFU-t2.md`](./TFU-T2.md) | **T2** | Pocket 14500 high CRI tactical light.  519A 5000K 5A Buck in small form factor. Includes advanced mode details. |
+| [`TFU-t2.md`](./TFU-T2.md) | **T2** | Pocket 14500 high CRI tactical light.  519A 5000K 5 A Buck in small form factor. Includes advanced mode details. |
 
 ---
 

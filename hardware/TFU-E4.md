@@ -13,7 +13,7 @@ The **TFU-E4** is a compact EDC / task light built on the **Convoy S3** platform
 
 Using the S3’s integrated internal shelf and steel bezel, the E4 is designed as a durable, refined beam tool rather than a novelty pocket light. The combination of a **Nichia 519A 5000 K**, ring gasket, **OP reflector**, black lens O-ring, and **AR glass** produces a smooth, consistent hotspot with very even flood and no distracting artifacts.
 
-A **5 A buck driver**, secured with a **Loctite-treated brass retaining ring**, provides stable regulation and predictable output. Both the tail spring and driver springs are bypassed with **22 AWG silicone-insulated wire** for reduced resistance and improved reliability.
+A **5 A buck driver**, secured with a **Loctite-treated brass retaining ring**, provides stable regulation and predictable output. The driver springs is bypassed with **22 AWG silicone-insulated wire** for reduced resistance and improved reliability.
 
 The result is a compact light that heats quickly, sheds heat efficiently, and can reasonably be considered **field-grade** while remaining true EDC size.
 
@@ -80,7 +80,7 @@ This is not a shelf-queen build — it is intended to be carried, used, and trus
 ## Electrical & Mechanical Build Notes
 
 - **Driver retention:** Brass retaining ring secured with **Loctite 242**  
-- **Spring bypasses:** Tail and driver springs bypassed with **22 AWG silicone wire**  
+- **Spring bypasses:** Driver spring bypassed with **22 AWG silicone wire**  
 - **Switch:** Reverse clicky for predictable mode changes  
 - **Bezel:** Steel, protects lens during hard use  
 - **Clip:** Low-profile, deep-carry, stonewashed hardware

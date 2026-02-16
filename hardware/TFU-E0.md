@@ -1,78 +1,103 @@
-
-# TFU-E0 Pocket Series (Concept Hardware Sheet)
+# TFU-E0 Instrument Series (Hardware Specification)
 
 ## Overview
-The **TFU-E0** is the smallest entry in the TFU Everyday Carry (E-series) lineup. Built on the Convoy T5 host, it is designed as a compact, reliable, and gift-ready EDC light that balances everyday practicality with TFU’s hardened ethos. 
 
-A “gateway” light into the TFU brand: small enough to pocket, simple enough for anyone to use, and tough enough to carry TFU’s seal of reliability.
+The **TFU-E0** is a 14500-format instrument light built for precision tasks and light EDC.
+
+Compact, regulated, and intentionally simple, the E0 delivers high-fidelity neutral light in a minimal form factor. It is not a novelty piece and not a tactical light — it is a calibrated pocket instrument.
+
+Small enough to disappear. Serious enough to trust.
 
 ---
 
 ## Host & Form Factor
-- **Base:** Convoy T5 host
-- **Cell:** 14500, USB-C rechargeable (Acebeam protected recommended)
-- **Form:** Slim pocket EDC, one-hand operation
-- **UI:** Tail clicky, simple mode set
+
+- **Base:** Convoy T5 host  
+- **Material:** Anodized aluminum  
+- **Cell:** 14500 (included)  
+- **Switch:** Tail clicky, mechanical  
+- **Carry Profile:** Slim, low-mass pocket instrument  
+
+The T5 platform keeps geometry tight and neutral. No aggressive styling. No ornamentation. Just controlled proportions.
 
 ---
 
-## Optics & Output
-- **Optic:** Upgraded 17 mm TIR, **30° bead** (default)
-- **Output (estimates):** 600–800 lm peak depending on emitter choice
-- **Beam Profile:** Defined hotspot with usable spill (no “room flood” effect)
+## Optical System
+
+- **Emitter:** Nichia 519A 5000K (CRI90+)  
+- **Optic:** 30° bead TIR  
+- **Beam Character:** Neutral, defined center with smooth spill  
+- **Color Tone:** Industrial daylight (5000K)  
+
+The 519A at 5000K reinforces the E0’s instrument role — accurate rendering, no tint drama, no warmth bias. The 30° bead optic produces a clean inspection beam suitable for technical work, reading, diagnostics, and close-field navigation.
+
+This is beam fidelity over theatrics.
 
 ---
 
-## Emitter Options
-1. **Nichia 519A 4500K CRI90**
-   - High-CRI, balanced tint for everyday utility
-   - Works cleanly with 30° bead TIR
+## Driver & Regulation
 
-2. **Luminus SST-20-DR 660nm (Deep Red)**
-   - Specialized for signaling, preserving night vision
-   - Small die pairs well with 30° bead TIR
+- **Driver:** 1.5A regulated buck  
+- **Mode Spacing:** 1% – 20% – 100%  
+- **Output Profile:** Stable, predictable, thermally sane  
 
----
+The 1.5A buck driver prioritizes efficiency, thermal stability, and long-term reliability. Output is intentionally restrained to preserve regulation and maintain safe sustained operation.
 
-## Electronics & Hardening
-- **Driver:** Stock driver or tuned linear (TBD)
-- **Spring:** Tail spring bypass for efficiency and reliability
-- **Thermal:** Hardened with MX-4 and seating improvements
-- **QC:** Each light tested for beam profile, thermal path, and runtime
+### Mode Roles
+
+- **1%** – Night-safe, close inspection, map reading  
+- **20%** – General task / bench / panel work  
+- **100%** – Full output for short, high-clarity tasks  
+
+No hidden strobes. No gimmicks. No overdriven turbo.
 
 ---
 
 ## Power System
-- **Cells:** Acebeam USB-C rechargeable 14500 (bulk-sourced)
-- **Charging:** USB-C direct, safe, standardized
-- **Runtime:** Optimized for practical EDC cycles (multi-hour low, strong high)
+
+- **Included Cell:** Vapcell F15 14500  
+- **Discharge Capability:** Fully compatible with 1.5A regulation  
+- **Runtime:** Optimized for multi-hour practical use  
+
+The Vapcell F15 provides a stable voltage curve appropriate for regulated output in a compact form factor. Cell inclusion ensures consistency and predictable performance.
 
 ---
 
-## Mission Fit
-- **Everyday Carry:** Pocketable, reliable, no external charger needed
-- **Gift-Ready:** Turnkey package with cell included, USB-C charging
-- **Entry-Level TFU:** Smallest, simplest TFU light — proof of ethos in miniature
+## Thermal & Assembly Standards
+
+- MX-4 thermal interface compound  
+- Proper emitter seating and alignment  
+- Tail spring bypass as required for electrical efficiency  
+- Switch seating verified for tactile consistency  
+- Full beam and runtime QC before shipment  
+
+Each E0 is built as a long-term tool, not a novelty object.
 
 ---
 
-## Concept Tagline
-**TFU-E0 — The smallest hard-use light. Everyday toughness, pocket size.**
+## Mission Profile
+
+- Technical inspection  
+- Bench diagnostics  
+- Field-adjacent EDC  
+- Travel-friendly precision light  
+- Minimalist daily carry  
+
+The E0 exists for users who want accurate light in the smallest TFU footprint.
+
+It is not the brightest in the lineup.  
+It is not the most aggressive.  
+It is the most precise.
 
 ---
 
-## Next Steps (Build & Test)
-- Source bulk Acebeam cells → validate compatibility
-- Test TIR upgrades (30° bead confirmed, matte variant TBD)
-- Run emitter swaps (519A 4500K, SST-20-DR 660nm)
-- Spring bypass prototype
-- Capture runtime/thermal data
-- Finalize UI and mode groups
+## Product Identity
+
+**TFU-E0 — Instrument grade light. Pocket scale.**
 
 ---
 
-*This document is a living concept sheet. Specs, options, and design may change as testing and hardening progress.*
+## Version
 
->Version 0.1A
->11-09-2025
-```
+**Hardware Specification v1.0**  
+Updated: 02-16-2026

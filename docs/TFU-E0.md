@@ -63,6 +63,18 @@ Heat rise is moderate and appropriate for the host size.
 
 If the light becomes uncomfortable to hold, power down and allow cooling.
 
+## Estimated Runtime (Vapcell F15, 1.5A Buck)
+
+| Mode | Output Level | Estimated Current Draw | Estimated Runtime* | Thermal Behavior |
+|------|---------------|-----------------------|--------------------|------------------|
+| 1%   | Low           | ~0.02–0.03A           | 40–60+ hours       | Cool, no rise    |
+| 20%  | Task          | ~0.30A                | 4–5 hours          | Mild warmth      |
+| 100% | Full Output   | 1.5A (regulated)      | ~50–65 minutes     | Warm, controlled |
+
+\*Runtime estimates assume a healthy Vapcell F15 (~1500mAh) at room temperature.  
+Actual runtime will vary based on cell age, ambient temperature, and airflow.
+
+
 ---
 
 ## Optical Profile

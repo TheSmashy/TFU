@@ -50,8 +50,9 @@ The E4 is tuned for **clean task lighting**, not exaggerated throw or flood.
 - **Artifacts:** None visible in normal use  
 - **Character:** Neutral, practical, inspection-friendly
 
-The **519A 5000 K** is intentionally selected for **PID, technical inspection, and equipment work**, where neutral color rendering and clarity matter more than warmth or tint character.
+The **519A 5000 K** is intentionally selected for **PID, technical inspection, and equipment work**, where neutral color rendering and clarity matter more than warmth or tint character.   
 
+![E4 5m Garage](../Assets/TFU-E4-5000K-5M-Garage.jpg)  
 ---
 
 ## Mode Behavior (Group 10)

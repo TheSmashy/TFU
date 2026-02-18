@@ -17,7 +17,7 @@ This section contains technical notes, hardening lists, and supporting documents
 ## E Series – Everyday Carry (EDC)
 Compact everyday carry lights built for reliability and convenience.
 
-- [TFU-E0](TFU-E0.md) - 14500 Sized EDC light, easy carry, duel fuel.  Available with 519A or SST-20-DR.
+- [TFU-E0](TFU-E0.md) - 14500 Sized EDC light, instrument grade 519A 5000K beam with TIR.
 - [TFU-E1](TFU-E1.md) – Compact Convoy S2+ based EDC model. [Hardening notes.](TFU-E1-Hardening-List.md) 
 - [TFU-E2](E2-Overview.md) – The TFU-E2 platform is TFU’s compact, high-CRI, high-output utility light system based on the S2-class host. [Hardening notes.](TFU-E2-Hardening-List.md)
 - [TFU-E3](TFU-E3.md) - Triple 519A T6 build, compact light with full sized power, 5A buck and triple 519As with a 14500 cell.
@@ -37,6 +37,7 @@ Mission-focused lights with features for field/tactical use.
 
 - [TFU-T1](TFU-T1.md) – Convoy M2-based tactical light.
 - [TFU-T2](TFU-T2.md) - Convoy T2-based 519A 5A buck 14500 tactical light.
+- [TFU-T3](TFU-T3.md) - Convoy S6-based SFT40 8A buck tactiacl light.  Forward clicky, 100% always first, optimized beam.
 
 ## B Series - Signal Series
 Distress and signaling lights designed for maximum visibility and runtime.

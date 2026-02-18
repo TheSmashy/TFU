@@ -17,7 +17,9 @@ A **5 A buck driver**, secured with a **Loctite-treated brass retaining ring**, 
 
 The result is a compact light that heats quickly, sheds heat efficiently, and can reasonably be considered **field-grade** while remaining true EDC size.
 
-Colorway is **black / sterile** with a **stonewashed low-profile deep-carry clip** and no external branding.
+Colorway is **black / sterile** with a **stonewashed low-profile deep-carry clip** and no external branding.   
+
+![TFU-E4 Hero](../Assets/TFU-E4-Hero.jpg)  
 
 ---
 

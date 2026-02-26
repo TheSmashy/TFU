@@ -26,8 +26,7 @@ Every unit is hand-assembled, thermally tuned, electrically verified, and QC’d
 - **Carclo 10508 optic** (defined hotspot, smooth spill)
 - **5A regulated buck driver**
 - **Aluminum thermal spacer** for consistent, repeatable heat behavior
-- Sterile S2 host with AR glass
-- TFU clip and black lens o-ring refinement
+- TFU clip and clear lens o-ring refinement
 
 The Classic is not experimental.  
 It is standardized, repeatable, and production-stable.
@@ -41,7 +40,7 @@ It is standardized, repeatable, and production-stable.
 - **Driver:** 5A regulated buck
 - **Mode Group:** 1% → 10% → 35% → 100%
 - **Memory:** OFF
-- **Host:** Convoy S2 (black, AR glass)
+- **Host:** Convoy S2 (black)
 - **Battery:** 18650
 - **Beam:** Neutral hotspot, soft spill, no artifacts
 - **Thermals:** Controlled rise, stable regulation
@@ -65,7 +64,9 @@ This light is tuned to behave — not surprise you.
 ## Battery Recommendations
 
 - **Samsung 30Q** – Peak output bias  
-- **Molicel M35A** – Runtime bias  
+- **Molicel M35A** – Runtime bias
+- **Keeppower 1600mAh** - 18350 runtime choice
+- **Vapcell M11v2** - 18350 peak power choice  
 
 Store cells at **3.7–3.8 V** when not in rotation.  
 Use only quality cells from trusted vendors.

@@ -82,7 +82,7 @@ If it feels too hot to hold, stop.
 - **Momentary (half-press):** cycle modes  
 - **Full click:** on/off  
 - Mode programming follows the standard TFU 14500 pattern.
-- **PLEASE NOTE** The threads at the head end have been treated with thermal paste.  Please open, install, and remove the battery from the **switch end**.  
+- **PLEASE NOTE** The head threads have been treated with thermal compound. Please install and remove the battery from the **switch (tail) end** only.  
 
 ---
 

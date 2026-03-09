@@ -62,6 +62,10 @@ Provides the most consistent output and regulation.
 
 Works reliably but the P30B is preferred.
 
+## Battery Install Notice
+
+Please pull the TFU clip off the body to remove the tailcap and install battery.  Optionally, you may unscrew the head and install or replace batteries that way.  
+
 ---
 
 ## Thermal & Output Notes

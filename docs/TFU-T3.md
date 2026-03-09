@@ -64,7 +64,9 @@ Works reliably but the P30B is preferred.
 
 ## Battery Install Notice
 
-Please pull the TFU clip off the body to remove the tailcap and install battery.  Optionally, you may unscrew the head and install or replace batteries that way.  
+Slide the TFU clip off the body to remove the tailcap and install the battery.  
+
+The head may also be unscrewed for front battery installation.  
 
 ---
 

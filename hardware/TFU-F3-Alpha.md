@@ -84,7 +84,9 @@ Low-power field mode (10%) is intended for extended task work, navigation, and g
 ### Observations
 - **Temperature:** ~23 °C → ~28 °C over ~12 minutes  
   - Gentle rise, no oscillation  
-  - Driver maintains high efficiency  
+  - Driver maintains high efficiency
+- **Thermal delta:** ~5 °C over 12 min
+  - Thermal rise rate: ~0.4 °C per minute  
 - **Lux stability:**  
   - Flat plateau with no visible droop  
   - No voltage-sag artifacts or stepping  

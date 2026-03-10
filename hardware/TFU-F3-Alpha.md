@@ -69,7 +69,11 @@ The TFU-F3 takes the lessons of the original F3 legacy platform and refines them
 
 It is the **primary F3 production model** for technicians, inspectors, field operators, and anyone who needs a dependable work flood with real runtime.
 
-![5m Beamshot](../Assets/TFU-F3-Alpha-5m-Garage.jpg)
+![5m Beamshot](../Assets/TFU-F3-Alpha-5m-Garage.jpg)  
+>Standard TFU Boathouse Garage 5m test shot
+
+![Acres de Joli](../Assets/TFU-F3-5000K-Acres-de-Joli-Night-WM.jpg)  
+>Boathouse Test Range, Les Acres de Joli.  Making friends with other early rising boaters.  
 
 ---
 

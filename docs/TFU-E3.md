@@ -63,6 +63,14 @@ From OFF – full press to ON (1 %); half-tap to advance modes; full press to OF
 
 ---
 
+## Thermal Behavior  
+
+The TFU-E3 concentrates heat in the head due to the compact form factor.  
+Even moderate modes may warm the head during extended operation.  
+This is normal and does not affect reliability.  
+
+---
+
 ## Custom / Boutique Features
 
 - Machined aluminum host with custom spacer and triple Carclo 10511 optic  

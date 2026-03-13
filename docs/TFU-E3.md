@@ -94,8 +94,14 @@ This is normal and does not affect reliability.
 
 ---
 
+>The E3 starts life as a small pile of expensive parts. After several hours of careful assembly, alignment, testing, and occasional profanity, those parts become a properly tuned 519A triple.  
+>  
+>Precision takes time. That’s why it costs what it does.  
+
+---
+
 **Version:** TFU-E3 Mk I  
-**Last Updated:** 2025-10-14  
+**Last Updated:** 2026-03-13  
 
 ---
 

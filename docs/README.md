@@ -20,8 +20,9 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 | [`TFU-F2.md`](./TFU-F2.md) | **F2** | Extended-runtime field light optimized for balanced beam and durability. |
 | [`TFU-F3-Legacy.md`](./TFU-F3-Legacy.md) | **F3** | Legacy performance-tuned mule with driver and CCT that has been retired. |
 | [`TFU-F3.md`](./TFU-F3.md) | **F3** | Performance-tuned mule in standard driver and 5000K CCT. Includes advanced mode details. |
-| [`TFU-T2.md`](./TFU-T2.md) | **T2** | Pocket 14500 high CRI tactical light.  519A 5000K 5 A Buck in small form factor. Includes advanced mode details. |
-| [`TFU-T3.md`](./TFU-T3.md) | **T3** | Compact Tactical Thrower.  SFT40 6500K 8A buck, throw reflector, forward clicky switch.  Maximum brightness in a small light. |
+| [`TFU-T1.md`](./TFU-T1.md) | **T1** | Hardened tactical light. Designed for longer-range positive identification (PID) and dependable field use. |
+| [`TFU-T2.md`](./TFU-T2.md) | **T2** | Pocket 14500 high CRI tactical light. 519A 5000K 5 A Buck in small form factor. Includes advanced mode details. |
+| [`TFU-T3.md`](./TFU-T3.md) | **T3** | Compact Tactical Thrower. SFT40 6500K 8A buck, throw reflector, forward clicky switch.  Maximum brightness in a small light. |
 
 ---
 

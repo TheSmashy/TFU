@@ -108,6 +108,18 @@ If you only have one TFU light, this is a strong candidate.
 
 ---
 
+## Programming & Configuration
+
+**[TFU 14500 Configuration Guide](../docs/config_guide_14500.md)**
+
+Includes:
+- All mode groups  
+- Memory on/off  
+- Thermal behavior  
+- Reset procedure  
+
+---
+
 ## Warranty & Support
 
 TFU lights are built for real-world use.  

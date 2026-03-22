@@ -64,9 +64,12 @@ These are tools you trust next to an IFAK, not next to a desk toy.
 | [TFU-F1](hardware/TFU-F1.md) | Field Series | ✅ Complete |
 | [TFU-F2](hardware/TFU-F2.md) | Field Series | Development |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
+| [TFU-F4](hardware/TFU-F4.md) | Field Series | Development |
 | [TFU-T1](hardware/TFU-T1.md) | Tactical | ✅ Complete |
 | [TFU-T2](hardware/TFU-T2.md) | Tactical | ✅ Complete |
 | [TFU-T3](hardware/TFU-T3.md) | Tactical | ✅ Complete |
+| [TFU-T4](hardware/TFU-T4.md) | Tactical | Development |
+| [TFU-T4A](hardware/TFU-T4A.md) | Tactical | Development |
 
 See the [Hardware README](hardware/README.md) for more in-development and planned builds.
 

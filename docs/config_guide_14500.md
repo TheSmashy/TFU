@@ -29,10 +29,10 @@ If no action is taken, the flashlight will automatically proceed to **Option 2**
 | **1.2** | 2 flashes | Group 2 | 1 % → 10 % → 35 % → 100 % → Strobe → Biking → Battery Check |
 | **1.3** | 3 flashes | Group 3 | 100 % → 35 % → 10 % → 1 % |
 | **1.4** | 4 flashes | Group 4 | 1 % → 20 % → 100 % → Strobe → Biking → Battery Check |
-| **1.5** | 5 flashes | **Group 5** | 1 % → 20 % → 100 % |
+| **1.5** | **5 flashes** | **Group 5** | **1 % → 20 % → 100 %** |
 | **1.6** | 6 flashes | Group 6 | 100 % → 20 % → 1 % |
 | **1.7** | 7 flashes | Group 7 | 1 % → 10 % → 50 % → Strobe → Biking → Battery Check |
-| **1.8** | 8 flashes | **Group 8** | 1 % → 10 % → 50 % |
+| **1.8** | **8 flashes** | **Group 8** | **1 % → 10 % → 50 %** |
 | **1.9** | 9 flashes | Group 9 | 50 % → 10 % → 1 % |
 | **1.10** | 10 flashes | Group 10 | 20 % → 100 % |
 | **1.11** | 11 flashes | Group 11 | 100 % → 20 % → Strobe |

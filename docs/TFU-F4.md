@@ -104,4 +104,22 @@ The **TFU-F4** is the baseline for the TFU T8 platform:
 
 > Clean beam. Stable output. No drama.
 
-If you only have one TFU light, this is a strong candidate.
+If you only have one TFU light, this is a strong candidate.   
+
+---
+
+## Warranty & Support
+
+TFU lights are built for real-world use.  
+If a defect or workmanship issue arises, the Boathouse will make it right.
+
+Built by hand in the U.S.A.  
+For full documentation, warranty, and updates, visit:  
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+**Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) \| Reddit: u/thesmashy
+
+---
+
+**Tip:**  
+Record your serial and build date for quicker support. Enjoy your TFU‑F4—use it hard and let me know your story.

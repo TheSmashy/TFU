@@ -96,6 +96,18 @@ Recommended:
 
 ---
 
+## Programming & Configuration
+
+**[TFU 14500 Configuration Guide](../docs/config_guide_14500.md)**
+
+Includes:
+- All mode groups  
+- Memory on/off  
+- Thermal behavior  
+- Reset procedure  
+
+---
+
 ## Summary
 
 The **TFU-T4** is the performance tier of the T8 platform:

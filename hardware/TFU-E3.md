@@ -9,6 +9,8 @@
 
 ## Design Philosophy
 
+>TFU-E3 specifications were delivered on a RITE-IN-THE-RAIN sheet, slipped under the Boathouse door by an operator who did not trigger perimeter security. The note read: “A T6, but with triple 519As?” We proceeded accordingly.
+
 The **TFU-E3** is a *compact, high-CRI pocket light* designed around a single 14500 cell.  
 It delivers regulated 5-amp performance from a **triple Nichia 519A 4500 K** array, producing a bright, neutral, and accurate beam in a body small enough for daily carry.
 

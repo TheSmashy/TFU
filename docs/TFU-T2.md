@@ -21,6 +21,7 @@ _Primary mission:_ Deliver clean, regulated output with high color fidelity in a
 - **Emitter:** Nichia 519A 
 - **CCT:** 5000K, High-CRI
 - **Driver:** TFU 14500/AA 12-group buck driver
+- AR-coated glass
 - **Battery Support:**  
   - **14500 Li-ion** (full performance)  
   - **AA NiMH** (safe, reliable fallback)  

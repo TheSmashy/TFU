@@ -121,7 +121,7 @@ At 100 % the aluminum chassis will reach “too hot to hold” quickly. Keep con
 ---
 
 > This configuration prioritizes intensity and throw. Expect a highly focused beam with minimal spill and significant reach for a light of this size.
-
+>
 > Designed for situations requiring answers at distance.  
 
 ---
@@ -155,6 +155,18 @@ Configured for maximum intensity with a high-drain cell.
 
 > **Group 5 Use Case:**  
 > H10 + Group 5 is a compact high-intensity profile — short, decisive bursts at 100 % with 20 % providing usable distance and 1 % for navigation.
+
+---
+## Beamshots
+![Garage](../Assets/TFU-T2-NM1-5M-Garage.jpg)
+> **Beamshot — TFU-T2 @ 5 m (High / 50 %)**  
+> Captured using fixed exposure and white balance for accurate color rendering.  
+> The NM1 6500 K emitter delivers a tight hotspot and weak spill for a punchy beam.  
+
+![50m Acres de Joli](../Assets/TFU-T2-NM1-K10-50M-Acres_de_joli-1-WM.jpg)
+>**Beamshot - TFU-T2 @ 50 m (High / 100 %)**
+> Captured using fixed exposure and white balance for accurate color rendering.  
+>Dock lit up by pocket thrower beam, showing punchy beam and PID capabilities at range.  
 
 ---
 

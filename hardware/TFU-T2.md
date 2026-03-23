@@ -160,11 +160,11 @@ Configured for maximum intensity with a high-drain cell.
 ## Beamshots
 ![Garage](../Assets/TFU-T2-NM1-5M-Garage.jpg)
 > **Beamshot — TFU-T2 @ 5 m (High / 50 %)**  
-> Captured using fixed exposure and white balance for accurate color rendering.  
+> Captured using fixed exposure and white balance for accurate color rendering.    
 > The NM1 6500 K emitter delivers a tight hotspot and weak spill for a punchy beam.  
 
 ![50m Acres de Joli](../Assets/TFU-T2-NM1-K10-50M-Acres_de_joli-1-WM.jpg)
->**Beamshot - TFU-T2 @ 50 m (High / 100 %)**
+>**Beamshot - TFU-T2 @ 50 m (High / 100 %)**  
 > Captured using fixed exposure and white balance for accurate color rendering.  
 >Dock lit up by pocket thrower beam, showing punchy beam and PID capabilities at range.  
 

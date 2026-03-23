@@ -15,6 +15,8 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 
 ---
 
+# T2 — 519A (Standard)  
+
 ## Build Specifications
 
 | Component | Detail |
@@ -75,18 +77,6 @@ Configured for maximum violence of action with a true high-drain cell.
 
 ---
 
-## TFU Assembly Notes
-
-- MCPCB seated with razor-thin MX-4 film; leads tinned, centered, and Kapton-isolated.  
-- Driver anchored with four CS109 points; Loctite 242 on retainer ring.  
-- Tail spring bypassed with 22 AWG silicone; zero flux residue.  
-- Pill threads lightly wetted with CS109 to improve conduction.  
-- Lens and bezel threads lubed with Super Lube PTFE.  
-- 24 h minimum cure before testing.  
-- Passed 1 m drop and rain-spray validation.
-
----
-
 ## Tactical Mode Doctrine
 
 Shipping in **Group 8 (1 / 10 / 50 %)** intentionally limits peak output to a safer, more practical envelope while retaining decisive escalation.
@@ -108,6 +98,78 @@ At 100 % the aluminum chassis will reach “too hot to hold” quickly. Keep con
 
 ---
 
+# T2 — NM1 (Throw Variant)  
+
+## Build Specifications — T2 (NM1 Throw Variant)
+
+| Component | Detail |
+|------------|--------|
+| **Host** | Sterile T2 (black) |
+| **Emitter** | Osram KW CSLNM1.TG (NM1) 6500 K on 3030 MCPCB |
+| **Optics** | T2 SMO reflector, AR-coated glass lens, 3030 gasket |
+| **Driver** | Convoy 5 A buck driver (12-group, programmed to Mode Group 8 for shipping) |
+| **Mode Group (Shipping)** | **Group 8 — 1 % / 10 % / 50 %**, Memory ON |
+| **Alternate (High-Output Mode)** | **Group 5 — 1 % / 20 % / 100 %** (recommended sparingly) |
+| **Power Source (Recommended)** | **Vapcell F12 (1250 mAh / 3 A CDR)** or **Vapcell F15 (1500 mAh / 3 A CDR)** |
+| **Alternate (High-Drain Mode)** | **Vapcell H10 (≈1000 mAh / 10 A CDR)** for sustained 100% use |
+| **Bypass** | 22 AWG silicone wire tail-spring bypass |
+| **Thermal Path** | MX-4 on MCPCB, CS109 bonded driver seat |
+| **Securing** | Loctite 242 on rings — 24 h cure |
+| **Switch** | Reverse clicky, shaved boot for low profile |
+| **Finish** | Sterile — no external markings or branding |
+
+---
+
+> This configuration prioritizes intensity and throw. Expect a highly focused beam with minimal spill and significant reach for a light of this size.
+
+> Designed for situations requiring answers at distance.  
+
+---
+
+## Performance (Shipping — Group 8, F12 1250 mAh)
+
+| Parameter | Estimate |
+|------------|-----------|
+| **High (50 %)** | ≈ 300–400 lm at turn-on (@ ~2.45 A tail draw) — high-intensity hotspot with significant throw |
+| **Medium (10 %)** | ≈ 60–90 lm — useful reach with extended runtime |
+| **Low (1 %)** | ~6–12 lm — navigation / admin light, still focused |
+| **CCT / CRI** | 6500 K cool white / low CRI (throw-optimized) |
+| **Runtime (F12 1250 mAh)** | ≈ 30–32 min @ 50 %  /  ≈ 3.5–4 h @ 10 %  /  ≈ 30–40 h @ 1 % |
+| **Beam Profile** | Very tight hotspot, minimal spill — “pocket thrower” behavior |
+| **Thermal Regulation** | Active buck control; case warms under sustained high |
+
+---
+
+## Performance (Group 5 — 1 / 20 / 100 %, Vapcell H10)
+
+Configured for maximum intensity with a high-drain cell.
+
+| Parameter | Estimate |
+|------------|-----------|
+| **High (100 %)** | ≈ 600–800 lm burst at turn-on (@ ~4.8–5.0 A tail draw, fresh H10) — extremely high candela for size |
+| **Medium (20 %)** | ≈ 120–160 lm — strong throw with manageable thermals |
+| **Low (1 %)** | ~6–12 lm — navigation / admin light |
+| **Runtime (H10 ≈1000 mAh)** | ≈ 10–12 min @ 100 % (to step-down / sag)  /  ≈ 50–60 min @ 20 %  /  ≈ 15–20 h @ 1 % |
+| **Beam Profile** | Pencil beam with long reach; limited peripheral illumination |
+| **Thermal Behavior** | Body heats quickly at 100 %; treat as controlled-burst mode |
+
+> **Group 5 Use Case:**  
+> H10 + Group 5 is a compact high-intensity profile — short, decisive bursts at 100 % with 20 % providing usable distance and 1 % for navigation.
+
+---
+
+## TFU Assembly Notes
+
+- MCPCB seated with razor-thin MX-4 film; leads tinned, centered, and Kapton-isolated.  
+- Driver anchored with four CS109 points; Loctite 242 on retainer ring.  
+- Tail spring bypassed with 22 AWG silicone; zero flux residue.  
+- Pill threads lightly wetted with CS109 to improve conduction.  
+- Lens and bezel threads lubed with Super Lube PTFE.  
+- 24 h minimum cure before testing.  
+- Passed 1 m drop and rain-spray validation.
+
+---
+
 ## TFU Evaluation
 
 > *A pocket-sized E1 with an anger problem.*  
@@ -119,6 +181,11 @@ At 100 % the aluminum chassis will reach “too hot to hold” quickly. Keep con
 **TFU — Real Gear for Hard Use.**
 
 ---
+
+### Changelog - 2026-03-23
+
+- Added NM1 variant
+- Fixed hero photo to reflect black lens o-ring
 
 ### Changelog — 2025-12-01
 

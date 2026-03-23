@@ -60,6 +60,7 @@ This makes it ideal for:
 
 ## Build Features
 
+- AR-coated glass
 - MX-4 thermal interface under MCPCB  
 - Loctite-secured retaining rings  
 - Tail spring bypass (reduced resistance, improved performance)  

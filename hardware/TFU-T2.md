@@ -5,7 +5,7 @@
 
 ---
 
-![TFU-T2 Hero](../Assets/TFU-T2-Hero.jpg)
+![TFU-T2 Hero](../Assets/TFU-T2-Hero-2.jpg)
 
 ## Mission Profile
 

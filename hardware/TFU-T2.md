@@ -184,12 +184,10 @@ Configured for maximum intensity with a high-drain cell.
 
 ## TFU Evaluation
 
-> T2 519A *A pocket-sized E1 with an anger problem.*
+> T2 519A *A pocket-sized E1 with an anger problem.*  
 > T2 NM1 *A pocket thrower that answers questions you didn’t ask.*  
 > Tiny footprint, surgical color rendering or laser throw, and enough punch to clear a room.  
-> Built for those who don’t ask their gear — they command it.
-
----
+> Built for those who don’t ask their gear — they command it.  
 
 **TFU — Real Gear for Hard Use.**
 

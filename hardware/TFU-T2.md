@@ -11,7 +11,7 @@
 
 Ultra-compact 14500 tactical light engineered for high-output, low-signature operation.  
 Purpose-built for controlled environments, admin pouches, or EDC deployment where reliability and lumen density outweigh runtime.  
-Neutral-white accuracy, field-ready hardening, and no wasted grams — this is TFU minimalism taken to the edge.
+High-output emitters, field-ready hardening, and no wasted grams — this is TFU minimalism taken to the edge.
 
 ---
 
@@ -27,7 +27,7 @@ Neutral-white accuracy, field-ready hardening, and no wasted grams — this is T
 | **Driver** | Convoy 5 A buck driver (12-group, programmed to Mode Group 8 for shipping) |
 | **Mode Group (Shipping)** | **Group 8 — 1 % / 10 % / 50 %**, Memory ON |
 | **Power Source (Recommended)** | **Vapcell F12 (1250 mAh / 3 A CDR)** or **Vapcell F15 (1500 mAh / 3 A CDR)** |
-| **Alternate (High-Drain Mode)** | **Group 5 — 1 % / 20 % / 100 %** with **Vapcell H10 (≈1000 mAh / 10 A CDR)** |
+| **Alternate (High-Output Mode)** | **Group 5 — 1 % / 20 % / 100 %** with **Vapcell H10 (≈1000 mAh / 10 A CDR)** |
 | **Bypass** | 22 AWG silicone wire tail-spring bypass |
 | **Thermal Path** | MX-4 on MCPCB, CS109 bonded driver seat |
 | **Securing** | Loctite 242 on rings — 24 h cure |
@@ -73,7 +73,7 @@ Configured for maximum violence of action with a true high-drain cell.
 > **Beamshot — TFU-T2 @ 5 m (High / 100 %)**  
 > Captured using fixed exposure and white balance for accurate color rendering.  
 > The 519A 5000 K emitter delivers a tight, neutral hotspot with smooth spill and true-to-life color fidelity.  
-> Balanced peripheral illumination makes the T2 useful for both pinpoint ID and short-range tasks.
+> Balanced peripheral illumination makes the T2 useful for both pinpoint identification and short-range tasks.  
 
 ---
 
@@ -111,7 +111,7 @@ At 100 % the aluminum chassis will reach “too hot to hold” quickly. Keep con
 | **Mode Group (Shipping)** | **Group 8 — 1 % / 10 % / 50 %**, Memory ON |
 | **Alternate (High-Output Mode)** | **Group 5 — 1 % / 20 % / 100 %** (recommended sparingly) |
 | **Power Source (Recommended)** | **Vapcell F12 (1250 mAh / 3 A CDR)** or **Vapcell F15 (1500 mAh / 3 A CDR)** |
-| **Alternate (High-Drain Mode)** | **Vapcell H10 (≈1000 mAh / 10 A CDR)** for sustained 100% use |
+| **Alternate (High-Output Mode)** | **Vapcell H10 (≈1000 mAh / 10 A CDR)** for sustained 100% use |
 | **Bypass** | 22 AWG silicone wire tail-spring bypass |
 | **Thermal Path** | MX-4 on MCPCB, CS109 bonded driver seat |
 | **Securing** | Loctite 242 on rings — 24 h cure |
@@ -164,9 +164,9 @@ Configured for maximum intensity with a high-drain cell.
 > The NM1 6500 K emitter delivers a tight hotspot and weak spill for a punchy beam.  
 
 ![50m Acres de Joli](../Assets/TFU-T2-NM1-K10-50M-Acres_de_joli-1-WM.jpg)
->**Beamshot - TFU-T2 @ 50 m (High / 100 %)**  
+> **Beamshot - TFU-T2 @ 50 m (High / 100 %)**  
 > Captured using fixed exposure and white balance for accurate color rendering.  
->Dock lit up by pocket thrower beam, showing punchy beam and PID capabilities at range.  
+> Dock illuminated by a pocket thrower beam, demonstrating strong PID capability at distance.  
 
 ---
 
@@ -184,8 +184,9 @@ Configured for maximum intensity with a high-drain cell.
 
 ## TFU Evaluation
 
-> *A pocket-sized E1 with an anger problem.*  
-> Tiny footprint, surgical color rendering, and enough punch to clear a room.  
+> T2 519A *A pocket-sized E1 with an anger problem.*
+> T2 NM1 *A pocket thrower that answers questions you didn’t ask.*  
+> Tiny footprint, surgical color rendering or laser throw, and enough punch to clear a room.  
 > Built for those who don’t ask their gear — they command it.
 
 ---

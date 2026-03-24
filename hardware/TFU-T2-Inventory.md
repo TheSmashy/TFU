@@ -6,3 +6,5 @@
 | TFU-T2-002        | 5000K   | Nichia 519A | 3V 5A Buck   | Pocket light, dual purpose, high CRI, hardened build   | 2025-11-23 |
 | TFU-T2-003        | 5000K   | Nichia 519A | 3V 5A Buck   | Pocket light, dual purpose, high CRI, hardened build   | 2025-12-03 |
 | TFU-T2-004        | 5000K   | Nichia 519A | 3V 5A Buck   | Pocket light, dual purpose, high CRI, hardened build, QC2 fail   | 2025-12-13 |
+| TFU-T2-005        | 6500K   | Osram NM1 | 3V 5A Buck   | Pocket thrower, high output, hardened build.   | 2026-03-14 |
+| TFU-T2-006        | 6500K   | Osram NM1 | 3V 5A Buck   | Pocket thrower, high output, hardened build.   | 2025-03-14 |

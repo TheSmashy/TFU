@@ -1,10 +1,9 @@
 # TFU‑E1
 
-**Series:** E (Everyday/ EDC)
-
-**Host:** Convoy S2+
-
-**Colorway:** Tan and black
+**Series:** E (Everyday/ EDC)  
+**Host:** Convoy S2+  
+**Colorway:** Tan and black  
+**Revison:** Q226  
 
 The TFU‑E1 is a compact EDC flashlight built from the rugged Convoy S2+ host and hand‑tuned for serious users who need dependable light.  Built and tested in the U.S., it’s offered in two versions to suit different color temperature preferences:
 - **Mk I (3500 K):** Uses a warm-white emitter for natural color rendering and comfortable low-light use.
@@ -48,11 +47,11 @@ ISO 100 · 1/10 s · WB 5000 K · identical setup for accurate comparison.*
 - **Optic:** 20‑degree bead
 - **Weight:** 66 g (dry)
 - **Dimensions:** 86 mm length × 24.1 mm diameter
-- **Clip:** Black steel tail clip
+- **Clip:** Black DLC titanium clip
 - **Hardening:** Loctite 242, CS109 thermal adhesive
 - **Water protection:** [IPX8](../Assets/TFU-E1-Dunk-Test.jpg)
 - **Impact resistance:** 1 m drop tested
-- **Electrical mod:** Tail spring bypass (22 AWG)
+- **Electrical mod:** Tail spring bypass (26 AWG)
 
 ### Tuning and Options
 
@@ -68,7 +67,22 @@ Each TFU‑E1 is hand tuned.  Output levels, beam characteristics, and firmware 
 
 ![TFU-E1-Thermal-04.jpg](../Assets/TFU-E1-Thermal-04.jpg)
 *TFU-E1 Mk I — 15-min @ 100%: peak 36.8 °C; ambient ~18.5 °C.*
+---
+
+Q226 Revison: Update clip from black stainless to black DLC titanium and tail spring bypass to 26 AWG.
+
+---
 
 [TFU-E1 Inventory](TFU-E1-Inventory.md)  
 
+---
+
+Last update: 2026-03-25
+
+---
+
+Built by hand in the U.S.A.  
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+**Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) | Reddit: u/thesmashy
 

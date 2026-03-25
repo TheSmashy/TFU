@@ -16,11 +16,7 @@ Both versions share the same high‑quality components and are assembled with at
 
 ![TFU-E1 hero shot](../Assets/Hero-Shot-01.jpg)
 
-
-
-![TFU-E1](../Assets/TFU-E1-Product-Shot.jpg)  
-
-*TFU-E1 shown with black stainless clip. Built on a Convoy S2+ host with Nichia B35AM emitter.*  
+*TFU-E1 shown with black DLC titanium clip. Built on a Convoy S2+ host with Nichia B35AM emitter.*  
 
 ![TFU-E1 Custom Hardware](../Assets/Custom-Hardware.jpg)  
 

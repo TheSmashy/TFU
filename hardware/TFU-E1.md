@@ -68,3 +68,7 @@ Each TFU‑E1 is hand tuned.  Output levels, beam characteristics, and firmware 
 
 ![TFU-E1-Thermal-04.jpg](../Assets/TFU-E1-Thermal-04.jpg)
 *TFU-E1 Mk I — 15-min @ 100%: peak 36.8 °C; ambient ~18.5 °C.*
+
+[TFU-E1 Inventory](TFU-E1-Inventory.md)  
+
+

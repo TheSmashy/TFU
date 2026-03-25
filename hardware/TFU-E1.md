@@ -14,7 +14,7 @@ The TFU‑E1 is a compact EDC flashlight built from the rugged Convoy S2+ host 
 
 Both versions share the same high‑quality components and are assembled with attention to reliability, function and field use.
 
-![TFU-E1 hero shot](../Assets/Hero-Shot-01.jpg)
+![TFU-E1 hero shot](../Assets/TFU-E1-Ti-Hero.jpg)
 
 *TFU-E1 shown with black DLC titanium clip. Built on a Convoy S2+ host with Nichia B35AM emitter.*  
 

@@ -69,33 +69,45 @@ It is a **wall-of-light** tool built to illuminate everything in front of you—
 
 ## Low Voltage Protection (LVP) — TFU-F3
 
-This TFU-F3 uses a **true MCU-managed Low Voltage Protection system** built into the 6 V boost driver.  
-Behavior is **progressive and intentional**, not a fault.
+MCU-managed LVP is built into the 6V boost driver.  
+Behavior is **intentional** and **progressive**.
 
-### Verified LVP Behavior
+---
 
-- **~3.2 V under load**
-  - Attempting **100%** causes **one blink → automatic fallback to 35%**
-  - Turbo is gated to protect the cell
+### Behavior (Under Load)
 
-- **Below ~3.2 V**
-  - **35%** becomes unstable or refuses
-  - **10%** remains usable
+**~3.2 V**
+- 100% → *blink* → returns to 35%  
+- Turbo is locked out
 
-- **~3.0 V under load**
-  - **10%** drops out or becomes unreliable  
-  - **Discontinue use and recharge**
+**Below ~3.2 V**
+- 35% becomes unstable or unavailable  
+- 10% remains usable
 
-*Cell voltage may rebound higher at rest. Use under-load behavior as your guide.*
+**~3.0 V**
+- 10% drops out or becomes unreliable  
+- **Stop use and recharge**
+
+*Cell voltage will read higher at rest. Trust behavior under load.*
+
+---
 
 ### Operator Guidance
 
-- **Blink → fallback to 35% = SWAP SOON**
-- Drop to **10%** to finish the task safely
-- Use **1%** for map work or egress only
-- Do **not** deep-discharge — remove the cell once **10% drops out**
+- Blink → 35% = **SWAP SOON**  
+- Use 10% to finish the task  
+- Use 1% for minimal light only  
+- If 10% fails → **STOP and recharge**  
+- Do not repeatedly force 100% after stepdown  
 
-**Status:** Field-verified Convoy boost LVP (3.2 V gate, ~3.0 V dropout)
+> **If it steps you down, it’s time.**
+
+---
+
+### Status
+
+Field-verified LVP  
+(~3.2 V turbo gate, ~3.0 V dropout)  
 
 ---
 

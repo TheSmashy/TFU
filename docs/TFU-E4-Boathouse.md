@@ -22,6 +22,7 @@ This is how the light is actually carried and used.
 _Primary mission:_ A rugged, high-CRI EDC configured for immediate, predictable output with no mode hunting.  
 
 **Note:** The TFU-E4 Boathouse Spec *includes* two Vapcell M11v2 cells, because one is none.  
+**Tip:**  Install cells by unscrewing the head with LED, not the tail.  Much easier with the titanium clip.  
 
 ---
 

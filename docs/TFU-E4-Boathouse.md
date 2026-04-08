@@ -22,7 +22,7 @@ This is how the light is actually carried and used.
 _Primary mission:_ A rugged, high-CRI EDC configured for immediate, predictable output with no mode hunting.  
 
 **Note:** The TFU-E4 Boathouse Spec *includes* two Vapcell M11v2 cells, because one is none.  
-**Tip:**  Install cells by unscrewing the head with LED, not the tail.  Much easier with the titanium clip.  
+**Tip:**  Install cells by unscrewing the head (LED side), not the tail.  
 
 ---
 
@@ -69,7 +69,7 @@ This configuration is typically **parked at 10% output**.
 Unscrew the tailcap ¼ turn for safe pocket or bag carry.  
 
 **Low Voltage Protection (LVP):**  
-At 3.0V LVP will flash the light three times slowly.  This is a signal you should swap batteries and rechange the 3.0V battery.  You can run the light longer, but it will cut off at 2.8V which is hard on the battery.  
+At 3.0V LVP will flash the light three times slowly.  This is a signal you should swap batteries and recharge the 3.0V battery.  You can continue using the light, but it will cut off at 2.8V. Avoid this — it is hard on the battery.  
 >Three slow flashes means swap the battery.
 
 ---

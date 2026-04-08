@@ -65,7 +65,11 @@ This configuration is typically **parked at 10% output**.
 - Consistent, repeatable behavior  
 
 **Lockout:**  
-Unscrew the tailcap ¼ turn for safe pocket or bag carry.
+Unscrew the tailcap ¼ turn for safe pocket or bag carry.  
+
+**Low Voltage Protection (LVP):**  
+At 3.0V LVP will flash the light three times slowly.  This is a signal you should swap batteries and rechange the 3.0V battery.  You can run the light longer, but it will cut off at 2.8V which is hard on the battery.  
+>Three slow flashes means swap the battery.
 
 ---
 

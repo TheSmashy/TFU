@@ -9,7 +9,7 @@
 
 ## Overview
 
-The **TFU-F4** is a high-CRI field light built for real-world use.  The profile is lightweight fild light; small, easy to carry, but effective at spotting out to 75m.
+The **TFU-F4** is a high-CRI field light built for real-world use.  The profile is lightweight field light; small, easy to carry, but effective at spotting out to 75m.
 
 Based on the Convoy T8 platform and powered by a regulated 5A buck driver, the F4 delivers stable, efficient output with a clean, usable beam profile.
 

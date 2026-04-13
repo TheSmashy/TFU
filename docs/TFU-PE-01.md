@@ -25,6 +25,16 @@ This is a light meant to be *used daily* and *trusted without thought*.
 
 ---
 
+## One of One
+
+This specific **TFU-PE 01** is a **one-of-one build**.
+
+- It will **not be reproduced**  
+- It represents a complete execution of the PE concept at this moment in time  
+- What you have is *the* unit — not a production run, not a batch  
+
+---
+
 ## At a Glance
 
 - **Emitter:** Nichia 519A (R9080)  
@@ -96,6 +106,23 @@ This light is assembled with attention to both performance and longevity:
 - Clean electrical paths and consistent solder work  
 
 Nothing excessive. Nothing missing.
+
+---
+
+## Included Kit
+
+Your PE-01 arrives as a complete, ready-to-carry system:
+
+- **Custom padded EVA case**  
+- **(2) Vapcell A11 18350 cells**  
+  - 1100mAh capacity  
+  - 10A continuous discharge  
+  - Comparable to M11v2, with improved high-temperature tolerance  
+- **KIC wipes** (cleaning)  
+- **CAIG DeoxIT wipe** (contact maintenance)  
+- **Lint-free cloth**  
+
+This is everything needed to maintain the light properly from day one.
 
 ---
 

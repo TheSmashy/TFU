@@ -8,6 +8,8 @@ Compact, regulated, and intentionally simple, the E0 delivers high-fidelity neut
 
 Small enough to disappear. Serious enough to trust.
 
+![TFU-E0 hero shot](../Assets/TFU-E0-Hero.jpg)
+
 ---
 
 ## Host & Form Factor

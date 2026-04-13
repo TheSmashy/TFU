@@ -4,7 +4,7 @@
 **Position:** Flagship personal carry  
 **Theme:** Precision. Restraint. Excellence.
 
-![TFU-PE hero placeholder](../Assets/TFU-PE-Hero.jpg)
+![TFU-PE hero placeholder](../Assets/TFU-PE-01-Hero.jpg)
 
 ---
 

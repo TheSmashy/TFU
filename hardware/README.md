@@ -31,6 +31,7 @@ Lights designed for field work with extended runtime, high durability, and missi
 - [TFU-F3 Legacy](TFU-F3.md#f3-legacy) – Discontinued quad-emitter prototype (S16 host, 6V 8A buck).  
 - [TFU-F3](TFU-F3-Alpha.md) – Quad 519A 5000K Directed Mule Flood (2S2P, 6V 5A boost).  
 - [TFU-F3 Bravo](TFU-F3-Bravo.md) – Discontinued Quad 219B SW45K Directed Mule Flood (2S2P, 6V 3A buck).
+- [TFU-F4](TFU-F4.md) - 14500 ultralight field light.  High CRI spot out to 75m using Vapcell K10s.  
 
 ## T Series – Tactical
 Mission-focused lights with features for field/tactical use.

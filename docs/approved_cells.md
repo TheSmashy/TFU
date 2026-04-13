@@ -31,7 +31,7 @@ TFU lights are tested using the recommended cells below.
 - **Primary F-series cell**
 
 ### **Alternates**
-**Molicel P45A** — fully approved
+**Molicel P42A** — fully approved
 
 ### **Allowed (Not Preferred)**
 **Samsung 40T** — acceptable, but heavier sag

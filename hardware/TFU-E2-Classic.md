@@ -5,6 +5,8 @@ Built on the Convoy S2 host with premium **Nichia 519A** emitters, the E2 Classi
 
 *Classic* means **practical output, polite thermals, and zero drama**.
 
+![TFU-E2C hero shot](../Assets/TFU-E2C-Hero.jpg)
+
 ---
 
 ## **Identity**

@@ -155,7 +155,8 @@ It is built to perform everywhere else.
 
 The **TFU-PE 01** represents a simple idea executed correctly:
 
-> A small light, built properly, with nothing out of place.
+> A small light, built properly, with nothing out of place.  
+> There will **never be another one like it**.  
 
 Carry it. Use it. Trust it.
 

@@ -3,109 +3,152 @@
 ![TFU Logo](../TFU-LOGO.png)
 
 **TFU — Real Gear for Hard Use**  
-**TFU-F4 — Field / Work Light**
+**TFU-F4 — Ultralight Field Light**
 
 ---
 
 ## Overview
 
-The **TFU-F4** is a high-CRI field light built for real-world use.  The profile is lightweight field light; small, easy to carry, but effective at spotting out to 75m.
+The **TFU-F4** is an **ultralight field tool** built for one specific job:
 
-Based on the Convoy T8 platform and powered by a regulated 5A buck driver, the F4 delivers stable, efficient output with a clean, usable beam profile.
+> Deliver a clean, high-CRI spot at distance — with minimal weight and bulk.
 
-This is the light you reach for when you just need good light — no surprises, no gimmicks.
+This is not a general-purpose flood light and not an endurance-first platform.  
+The F4 exists for **target identification, inspection at distance, and controlled illumination in the field**.
+
+Built on the **Convoy T8 platform** with a regulated **5A buck driver**, it provides stable output and a tight, usable beam in a compact 14500 form factor.
 
 ---
 
 ## At a Glance
 
 - **Emitter:** Nichia 519A  
-- **CCT:** 5000K, high-CRI  
+- **CCT:** 5000K (high CRI)  
 - **Driver:** 5A buck (regulated)  
 - **Battery:** 14500 Li-ion  
-- **Modes (default):** 1% → 10% → 50%  
-- **Optional Mode Group:** 1% → 20% → 100%  
+- **Standard Mode Group:** 1% → 20% → 100%  
+- **Optional Endurance Mode:** 1% → 10% → 50%  
+- **Effective Reach:** ~75 meters  
+
+---
+
+## Use Case
+
+The F4 is designed for:
+
+- Field inspection at distance  
+- Spotting and identification  
+- Lightweight carry when space and weight matter  
+
+This is the light you carry when:
+
+- You already have general lighting covered  
+- You need **reach with color accuracy**  
+- You want **minimal loadout weight**
+
+---
+
+## Mode Philosophy
+
+### Standard Mode (Group 5) (Default): 1% → 20% → 100%
+
+Optimized for use with a **Vapcell K10**
+
+- **1%** — admin / close work  
+- **20%** — primary working mode (usable throw, efficient)  
+- **100%** — maximum reach (~75m), short-duration use  
+
+This is the intended configuration for most users.
+
+---
+
+### Endurance Mode (Group 8) (Optional): 1% → 10% → 50%
+
+Optimized for use with **Vapcell F12 / F15**
+
+- **1%** — extended runtime tasks  
+- **10%** — general use  
+- **50%** — sustained output with reduced thermal load  
+
+Use this mode when:
+
+- Spare cells are limited  
+- You are deploying for longer durations  
+- Heat and runtime matter more than peak output  
 
 ---
 
 ## Beam Profile
 
-The F4 is tuned for **usable light**, not maximum intensity.
+The F4 is tuned for **controlled throw with high color fidelity**:
 
-- Smooth, even hotspot  
-- Wide, practical spill  
-- Excellent color rendering  
+- Defined hotspot for distance work  
+- Practical spill for situational awareness  
+- Excellent CRI for accurate identification  
 
-This makes it ideal for:
+At all levels:
 
-- Indoor work  
-- Outdoor utility  
-- Inspection and task lighting  
+- **20%** — strong, usable throw  
+- **50%** — sustained field output with reach  
+- **100%** — maximum intensity, short bursts  
 
 ---
 
 ## Performance Notes
 
-- The 5A buck driver provides **stable output and good efficiency**
-- Excellent pairing with **Vapcell F12 / F15** for runtime-focused use
-- 50% mode provides strong, sustained output without excessive heat
+- Regulated output — no rapid drop-off  
+- Predictable thermal behavior  
+- Designed for **intentional use**, not continuous max output  
 
-100% mode (if enabled):
-
-- Significantly brighter
-- Higher thermal load
-- Intended for short-duration use
+This is a **precision tool**, not a flooder.
 
 ---
 
 ## Build Features
 
-- AR-coated glass
+- AR-coated glass  
 - MX-4 thermal interface under MCPCB  
 - Loctite-secured retaining rings  
-- Tail spring bypass (reduced resistance, improved performance)  
-- Black deep-carry clip  
-
----
-
-## Use Philosophy
-
-The F4 is designed to be:
-
-- Predictable  
-- Reliable  
-- Easy to use  
-
-It is not a “hot rod” — it is a **tool**.
+- Tail spring bypass (reduced resistance)  
+- Deep-carry clip  
 
 ---
 
 ## Battery Guidance
 
-Recommended:
+**Performance setup:**
+- Vapcell K10 (recommended default)
 
-- Vapcell F12 (balanced performance)  
-- Vapcell F15 (extended runtime)
+**Endurance setup:**
+- Vapcell F12  
+- Vapcell F15  
 
-High-discharge cells are not required for this platform.
-
----
-
-## Care and Handling
-
-- Avoid prolonged use on high in enclosed spaces  
-- Allow the light to cool between extended high-output use  
-- Store cells at proper voltage when not in use  
+High-discharge cells are not required.
 
 ---
 
-## Summary
+## Finish Options
 
-The **TFU-F4** is the baseline for the TFU T8 platform:
+- **Standard:** Black  
+- **Optional:** Tan  
+- **Optional:** Recon Green Camo  
 
-> Clean beam. Stable output. No drama.
+---
 
-If you only have one TFU light, this is a strong candidate.   
+## Use Philosophy
+
+The F4 is built around a simple idea:
+
+> Carry less. Do more — when it counts.
+
+It is:
+
+- Lightweight  
+- Purpose-built  
+- Predictable  
+
+Not a hot rod. Not a generalist.  
+A **field instrument**.
 
 ---
 
@@ -114,8 +157,8 @@ If you only have one TFU light, this is a strong candidate.
 **[TFU 14500 Configuration Guide](../docs/config_guide_14500.md)**
 
 Includes:
-- All mode groups  
-- Memory on/off  
+- Mode groups  
+- Memory configuration  
 - Thermal behavior  
 - Reset procedure  
 
@@ -124,15 +167,19 @@ Includes:
 ## Warranty & Support
 
 TFU lights are built for real-world use.  
-If a defect or workmanship issue arises, the Boathouse will make it right.
+If something fails due to workmanship, the Boathouse will make it right.
 
 Built by hand in the U.S.A.  
-For full documentation, warranty, and updates, visit:  
+
 🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
 🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
-**Contact:** [TFU-Lights@wmode.anonaddy.com](mailto:TFU-Lights@wmode.anonaddy.com) \| Reddit: u/thesmashy
+
+**Contact:** TFU-Lights@wmode.anonaddy.com  
+Reddit: u/thesmashy  
 
 ---
 
 **Tip:**  
-Record your serial and build date for quicker support. Enjoy your TFU‑F4—use it hard and let me know your story.
+Record your serial and build date for faster support.  
+
+Use it hard.

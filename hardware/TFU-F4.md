@@ -76,7 +76,9 @@ The F4 is designed for **intentional use**, not continuous high-output operation
 ---
 ## Beamshots  
 ![5m Garage](../Assets/TFU-F4-519A-5000K-5m-Garage.jpg)  
->5m test shot at the indoor range.  
+>5m test shot at the indoor range.
+![50m Dock](../Assets/TFU-F4-5000K-K10-50m-Acres-Joli.jpg)
+>50m dock, high CRI spot.  Champ de tir des Acres du Joli.  
 
 ---
 

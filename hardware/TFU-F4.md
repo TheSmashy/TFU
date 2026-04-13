@@ -74,6 +74,11 @@ The final configuration defines the F4 as a **specialized field instrument**, no
 The F4 is designed for **intentional use**, not continuous high-output operation.
 
 ---
+## Beamshots  
+![5m Garage](../Assets/TFU-F4-519A-5000K-5m-Garage.jpg)  
+>5m test shot at the indoor range.  
+
+---
 
 ## Use Case
 

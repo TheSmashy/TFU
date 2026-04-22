@@ -1,81 +1,131 @@
-# TFU-F2 – Field Utility Light
+# TFU-F2 – Field Light
+
+![TFU Logo](../TFU-LOGO.png)
 
 **Series:** TFU-F (Field)  
 **Model:** TFU-F2  
-**Status:** Development Reference / Production Ready  
+**Status:** Production Baseline  
 **Mission Profile:**  
-Rugged field/duty flashlight with balanced flood output, excellent CRI, and sustained regulation. Designed for extended runtime, reliability, and performance under stress.
+Full-size field and outdoor duty light designed for sustained output, high CRI visibility, and reliable operation under real-world conditions.
 
 ---
 
-## Build Evolution
+## Overview
 
-The initial TFU-F2 prototype was constructed on a Convoy **M1** host with a Nichia B35AM emitter and 6 V 2 A boost driver. While electrically solid and highly usable, testing showed the M1’s 18650 form factor lacked the thermal mass, runtime, and ergonomics required for the TFU “Field” series.  
+The **TFU-F2** is the baseline light for the TFU Field series. Built on the **Convoy M21A (21700)** platform, it delivers the size, thermal mass, and runtime required for extended outdoor use.
 
-The platform has since transitioned to the **Convoy M21B (21700)** host, which delivers the proper size, mass, and endurance expected of a field-grade light. The M21B build now defines the baseline specification for all future F2 production lights.
+This is a **general-purpose field tool**: balanced beam profile, regulated output, and straightforward operation. No gimmicks, no unnecessary complexity.
 
----
-
-## Build Specifications
-
-| Component | Detail |
-|------------|---------|
-| **Host** | Convoy M21B (Black) – enhanced thermal path, deep fins |
-| **Emitter** | Nichia B35AM (5000 K) – high CRI, smooth flood, true-color rendering |
-| **Driver** | 6 V 2.4 A Boost Driver – efficient, regulated, optimized for B35AM |
-| **Switch** | Forward clicky – optimized for gloved use |
-| **Clip** | Stainless steel M21B clip – deep carry, durable |
-| **Bypass** | 22 AWG silicone wire tail spring bypass |
-| **Thermal** | MX-4 under MCPCB; CS109 thermal bond on driver |
-| **Securing** | Loctite 242 on driver and switch retaining rings |
+Primary use cases include:
+- Outdoor navigation and movement
+- General field work
+- Inspection at distance
+- Emergency and utility use
 
 ---
 
-## Power Source
+## At a Glance
 
-| Cell | Notes |
-|-------|--------|
-| **Molicel P45B** | 4500 mAh – high-drain 21700 cell, excellent sustainability |
-| **Samsung 40T** | 4000 mAh – slightly more punch, less runtime |
-
----
-
-## Output & User Interface
-
-| Parameter | Value |
-|------------|--------|
-| **Mode Group** | Group 10: 1 % → 10 % → 35 % → 100 % |
-| **Memory** | ON (forward clicky optimized) |
-| **UI Type** | Stepped modes, simple layout |
-| **Beam Profile** | Wide hotspot, smooth spill – balanced throw and flood |
+- **Emitter:** Nichia 519A  
+- **CCT:** 5000K (neutral white)  
+- **Driver:** 5A buck (regulated)  
+- **Battery:** 21700 (Molicel P42A recommended)  
+- **Optic:** OP reflector  
+- **Lens:** AR-coated glass  
+- **Switch:** Forward clicky (20mm)  
+- **UI:** Mode Group 10 (1% / 10% / 35% / 100%)  
+- **Memory:** ON  
 
 ---
 
-## Use Case
+## Hardware Configuration
 
-- Utility and duty carry  
-- Task and maintenance lighting  
-- Indoor / outdoor field use  
-- Sustained runtime in adverse conditions  
-- Reliable one-hand operation with gloves  
+### Platform
+- **Host:** Convoy M21A  
+- **Colorway:** Black  
+- **Form Factor:** 21700  
 
----
-
-## Testing Notes
-
-- Thermal curve logging via Pi test rig at 100 % output  
-- Runtime comparison between P45B and 40T cells  
-- Beamshot profiling (3 m / 10 m / 30 m distances)  
-- Drop and water tests for IPX8 validation  
-- Ergonomic evaluation in field kit and gloved operation  
+The M21A provides the thermal capacity and runtime expected of a field-grade light, with a form factor that remains manageable for extended carry.
 
 ---
 
-> **TFU – Real Gear for Hard Use**  
-> Designed, built, and field-tested by TFU Labs.
+### Emitter and Beam
+
+- **LED:** Nichia 519A  
+- **CCT:** 5000K  
+- **Reflector:** Orange Peel (OP)
+
+The OP reflector produces a **balanced beam**:
+- Defined hotspot for distance work  
+- Usable spill for situational awareness  
+
+This configuration avoids extremes and supports real-world usability.
 
 ---
 
-**Version:** v1.2  
-**Last Updated:** 2025-10-16  
-**[← Back to README](../README.md)**  
+### Driver and Output
+
+- **Driver:** 5A Buck (regulated)
+
+Provides:
+- Stable output across battery range  
+- Improved efficiency over linear drivers  
+- Predictable behavior under load  
+
+This is a **control-first configuration**, not a peak-output build.
+
+---
+
+### Switch and Interface
+
+- **Switch:** Forward clicky  
+- **Mode Group:** 10  
+- **Levels:** 1% / 10% / 35% / 100%  
+- **Memory:** Enabled  
+
+Forward clicky allows:
+- Momentary activation  
+- Immediate access to last-used mode  
+
+Memory is enabled to support consistent user-defined output.
+
+---
+
+## Battery Guidance
+
+- **Recommended Cell:** Molicel P42A  
+- **Type:** 21700 high-drain  
+
+The P42A supports:
+- Stable output at 5A  
+- Strong voltage under load  
+- Reliable performance across conditions  
+
+---
+
+## Lanyard (Optional)
+
+**TFU Boathouse Spec Lanyard**
+
+A functional wrist retention system designed to support:
+- Overhand grip with thumb access to the switch  
+- Secure handling under movement  
+- Loss prevention during field use  
+
+Not decorative. Built for use.
+
+---
+
+## Positioning
+
+The TFU-F2 is the **primary field light** in the TFU lineup.
+
+If only one light is carried, this is the correct choice.
+
+It balances:
+- Output  
+- runtime  
+- beam usability  
+- mechanical reliability  
+
+into a single, dependable tool.

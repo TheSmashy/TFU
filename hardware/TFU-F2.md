@@ -74,6 +74,17 @@ Provides:
 
 This is a **control-first configuration**, not a peak-output build.
 
+#### Runtime and Output
+
+**TFU-F2 519A 5000K 5A Buck and Molicel P42A (4200mAh)**
+| Mode  | Output (Lumens) | Runtime (Est.) | Behavior |
+|-------|-----------------|----------------|----------|
+| Low (1%)   | ~8–10 lm      | ~10–14 days    | True low, stable, negligible heat |
+| Med (10%)  | ~80–100 lm    | ~40–50 hrs     | Primary working mode, fully regulated |
+| High (35%) | ~300–350 lm   | ~12–16 hrs     | Sustained output, no thermal stepdown |
+| Turbo (100%) | ~900–1100 lm | ~1.5–2 hrs total* | ~1–3 min peak → steps down → stabilizes ~50–60% |  
+
+
 ---
 
 ### Switch and Interface

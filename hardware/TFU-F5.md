@@ -81,6 +81,18 @@ This is a **precision distance tool**, not a flood light.
 
 At 100%, the light will generate significant heat and should be used in **short, intentional bursts**.
 
+### Performace and Runtime
+
+**TFU-F5 SFT-25R 5000K 8A Buck and P42A (4200mAh)**
+| Mode  | Output (Lumens) | Runtime (Est.) | Behavior |
+|-------|-----------------|----------------|----------|
+| Low (1%)   | ~15–20 lm     | ~7–10 days     | True low, slightly brighter baseline due to emitter |
+| Med (10%)  | ~150–180 lm   | ~20–30 hrs     | Clean, fully regulated, good general use |
+| High (35%) | ~500–650 lm   | ~6–10 hrs      | Strong working mode, noticeable heat but sustainable |
+| Turbo (100%) | ~1400–1800 lm | ~1–1.5 hrs total* | ~30–90 sec peak → aggressive stepdown → stabilizes ~40–50% |  
+
+>“Designed for high-intensity output. Turbo provides maximum reach for short durations, stepping down quickly to a sustained working level. Lower modes remain fully regulated.”
+
 ---
 
 ## Use Case

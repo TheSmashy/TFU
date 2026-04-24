@@ -84,6 +84,7 @@ This is a **control-first configuration**, not a peak-output build.
 | High (35%) | ~300–350 lm   | ~12–16 hrs     | Sustained output, no thermal stepdown |
 | Turbo (100%) | ~900–1100 lm | ~1.5–2 hrs total* | ~1–3 min peak → steps down → stabilizes ~50–60% |  
 
+>“Designed for sustained output. Turbo provides a short burst of maximum light, then stabilizes at a usable working level. Lower modes are fully regulated for extended use.”  
 
 ---
 

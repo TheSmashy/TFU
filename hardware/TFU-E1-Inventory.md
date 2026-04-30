@@ -9,3 +9,4 @@
 | TFU-E1-005     | Mk II| 5000K   | Nichia B35AM  | 6V 2A Boost  | Neutral-white, technical work/clarity     | 2025-10-17 |
 | TFU-E1-006     | Mk II| 5000K   | Nichia B35AM  | 6V 2A Boost  | Neutral-white, technical work/clarity     | 2026-01-16 |
 | TFU-E1-007     | Mk II| 5000K   | Nichia B35AM  | 6V 2A Boost  | Neutral-white, technical work/clarity     | 2026-01-17 |
+| TFU-E1-008     | Mk II| 5000K   | Nichia B35AM  | 6V 2A Boost  | Neutral-white, technical work/clarity. Q226| 2026-02-14 |

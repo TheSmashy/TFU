@@ -29,9 +29,9 @@ This is a light meant to be *used daily* and *trusted without thought*.
 
 This specific **TFU-PE 01** is a **one-of-one build**.
 
-- It will **not be reproduced**  
-- It represents a complete execution of the PE concept at this moment in time  
+- It will **not be reproduced**
 - What you have is *the* unit — not a production run, not a batch  
+- It represents a complete execution of the PE concept at this moment in time  
 
 ---
 
@@ -114,10 +114,9 @@ Nothing excessive. Nothing missing.
 Your PE-01 arrives as a complete, ready-to-carry system:
 
 - **Custom padded EVA case**  
-- **(2) Vapcell A11 18350 cells**  
+- **(1) Vapcell A11 18350 cells**  
   - 1100mAh capacity  
   - 10A continuous discharge  
-  - Comparable to M11v2, with improved high-temperature tolerance  
 - **KIC wipes** (cleaning)  
 - **CAIG DeoxIT wipe** (contact maintenance)  
 - **Lint-free cloth**  
@@ -128,7 +127,7 @@ This is everything needed to maintain the light properly from day one.
 
 ## Operating Guidance
 
-- Use **35%** as your default working mode  
+- **35%** is the intended working level  
 - Use **100%** in short bursts — it is not intended as a sustained mode  
 - The light will warm under extended high output — this is normal  
 - Lockout via tailcap if carrying loose  

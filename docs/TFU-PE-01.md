@@ -163,4 +163,18 @@ Carry it. Use it. Trust it.
 
 > **TFU-PE 01**  
 > Precision where it matters.  
-> Quietly better in every way.
+> Quietly better in every way.  
+
+
+## Warranty & Support
+
+TFU lights are built to be used — not babied.
+
+If a defect or workmanship issue arises, the Boathouse will make it right.
+
+Built by hand in the U.S.A.  
+
+🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+
+**Contact:** TFU-Lights@wmode.anonaddy.com | Reddit: u/thesmashy

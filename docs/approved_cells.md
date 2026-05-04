@@ -24,14 +24,14 @@ TFU lights are tested using the recommended cells below.
 
 # **1. 21700 Class — F-Series (F1, F2, F3…)**
 
-### **TFU Standard Cell — Molicel P45B**
-- 4500 mAh, ~35A CDR  
+### **TFU Standard Cell — Molicel P42A**
+- 4200 mAh, ~35A CDR  
 - Best voltage stability at 5–8A  
 - Industry-leading thermal behavior  
 - **Primary F-series cell**
 
 ### **Alternates**
-**Molicel P42A** — fully approved
+**Molicel P45B** — fully approved, higher capacity and CDR
 
 ### **Allowed (Not Preferred)**
 **Samsung 40T** — acceptable, but heavier sag
@@ -55,19 +55,25 @@ TFU lights are tested using the recommended cells below.
 ---
 
 ## **High-Discharge Special Use**
-### **Samsung 25R**
-- 2500 mAh  
+### **Molicel P30B**
+- 3000 mAh  
 - Very high discharge  
 - **TFU-Approved only for:**  
-  - **T1 (M2 host, 8A buck)**
+  - **T1 (M2 host, 8A buck)**  
+  - **T3 (S6 host, 8A buck)**
+
+Also acceptable, but older chemistry:  
+### **Samsung 25R**  
+-2500 mAh  
+-Very high discharge  
 
 ---
 
 ## **Runtime Option**
 ### **Molicel M35A**
 - 3500 mAh  
-- Best for long low-medium tasks  
-- Not for high-drain (5A+) use
+- Best for low-medium tasks  
+- Not for high-drain (greater than 5A) use
 
 ---
 
@@ -80,12 +86,12 @@ TFU lights are tested using the recommended cells below.
 - E1 is tuned around this cell
 
 ### **Alternate — Vapcell M11v2**
-- Higher discharge  
-- Lower runtime
+- Higher discharge (10A CDR)  
+- Lower runtime - 1100 mAh
 
 ---
 
-## **E2 Shorty — 5A Buck**
+## **E2 Shorty, E4 — 5A Buck**
 ### **TFU Standard — Vapcell M11v2**
 - Best 18350 for 5A continuous
 
@@ -132,9 +138,9 @@ TFU lights are tested using the recommended cells below.
 
 | Model | Driver | Battery | Approved Cells | Notes |
 |-------|--------|---------|----------------|-------|
-| **F-Series** | 5A / 8A | 21700 | P45B (Std), P45A | TFU primary platform |
-| **T1 (M2)** | 8A Buck | 18650 | 30Q, 25R | 25R only recommended here |
-| **E2 (18650)** | 5A Buck | 18650 | 30Q (Std), M35A | 35A for runtime builds |
+| **F-Series** | 5A / 8A | 21700 | P42A (Std), P45B | TFU primary platform |
+| **T1 (M2)** | 8A Buck | 18650 | 30Q, P30B, 25R | P30B only recommended here |
+| **E2 (18650)** | 5A Buck | 18650 | 30Q (Std), M35A | M35A for runtime builds |
 | **E2 Shorty (18350)** | 5A Buck | 18350 | M11v2 (Std), H16 | M11v2 = output |
 | **E1 (18350)** | 6V Boost | 18350 | H16 (Std), M11v2 | E1 tuned for H16 |
 | **E3 (14500)** | 5A Buck | 14500 | H10/K10 (Std), F12/F15 | Triple emitter limits |
@@ -144,10 +150,10 @@ TFU lights are tested using the recommended cells below.
 
 # **6. Mode Guide Links**
 
-👉 **18650 / 18350 / 21700 Mode Guide**  
+➡️ **18650 / 18350 / 21700 Mode Guide**  
 [config_guide.md](../docs/config_guide.md)
 
-👉 **14500 Mode Guide**  
+➡️ **14500 Mode Guide**  
 [config_guide_14500.md](../docs/config_guide_14500.md)  
 
 ---

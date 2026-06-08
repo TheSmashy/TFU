@@ -32,7 +32,9 @@ It is not a sustained-output platform. It is a **mobility-first field tool**.
 - **Clip:** Black deep carry  
 - **Recommended Cell:** Vapcell K10 (14500)  
 - **Mode Group:** 1 (1% / 10% / 35% / 100%)  
-- **Memory:** ON  
+- **Memory:** ON
+- **Weight:** 55g (dry)  
+
 
 ---
 

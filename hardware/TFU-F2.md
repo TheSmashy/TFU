@@ -43,7 +43,8 @@ Primary use cases include:
 ### Platform
 - **Host:** Convoy M21A  
 - **Colorway:** Black  
-- **Form Factor:** 21700  
+- **Form Factor:** 21700
+- **Weight:** 170g (dry)  
 
 The M21A provides the thermal capacity and runtime expected of a field-grade light, with a form factor that remains manageable for extended carry.
 

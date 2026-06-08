@@ -40,6 +40,7 @@ The result is a light that excels at **spotting, scanning, and confirming**, rat
 | Switch | 20mm forward clicky |
 | Cell (Recommended) | Molicel P42A (21700) |
 | Included | TFU “Recon Spec” lanyard |
+| Weight | 170g dry |  
 
 ---
 

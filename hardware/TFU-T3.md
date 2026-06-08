@@ -46,6 +46,7 @@ Thermal behavior is typical of a compact high-output thrower: **100% is a burst 
 | Switch | **Forward clicky** |
 | Clip | **TFU deep-carry clip** |
 | Cell | **18650** |
+| Weight | 85g (dry) |  
 
 ---
 

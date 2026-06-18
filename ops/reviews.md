@@ -30,6 +30,8 @@
 
 > "I opened it up expecting jank, but the thermal stack was textbook. Copper, MX-4, even the optic gasket was clocked right. Whoever’s doing QC is an actual nerd." — Reddit DM
 
+> "Oh, also I freaking love this flashlight. I already had use for it tonight. Prevented me from eating it on a broken sidewalk."  
+
 ### TFU-F3
 > "Duuude! This mule is sick! Love the color temp and the way it lights up a dark room. Thanks so much for making one for me." — Reddit DM
 

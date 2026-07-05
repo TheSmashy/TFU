@@ -31,14 +31,14 @@ This specific **TFU-PE 01** is a **one-of-one build**.
 
 - It will **not be reproduced**
 - What you have is *the* unit — not a production run, not a batch  
-- It represents a complete execution of the PE concept at this moment in time  
+- It represents the PE concept as I believe it should be built  
 
 ---
 
 ## At a Glance
 
 - **Emitter:** Nichia 519A (R9080)  
-- **CCT:** 4500K (neutral-warm, slightly below BBL)  
+- **CCT:** 4500K (neutral-warm, giving the beam a subtle rosy character without appearing pink.)  
 - **Driver:** 3V 5A buck (regulated)  
 - **Optic:** 15° matte TIR  
 - **Host:** Convoy S2+ (MAO)  
@@ -97,6 +97,8 @@ No sharp edges. No gimmicks. No nonsense.
 ---
 
 ## Build Notes
+
+Every threaded interface, electrical contact, and thermal surface has been inspected and prepared during assembly.  
 
 This light is assembled with attention to both performance and longevity:
 
@@ -157,7 +159,9 @@ The **TFU-PE 01** represents a simple idea executed correctly:
 > A small light, built properly, with nothing out of place.  
 > There will **never be another one like it**.  
 
-Carry it. Use it. Trust it.
+Carry it.  
+Use it.  
+Forget it's there until you need it.  
 
 ---
 

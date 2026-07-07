@@ -16,6 +16,7 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 | [`TFU-E2.md`](./TFU-E2.md) | **E2** | Compact, high-output, high-CRI EDC platform built around a triple Nichia array and a 5 A regulated buck driver. |
 | [`TFU-E3.md`](./TFU-E3.md) | **E3** | Enhanced EDC model with higher output, triple 519A, and advanced driver tuning in a 14500 platform. |
 | [`TFU-E4.md`](./TFU-E4.md) | **E4** | Compact, high-output, high-CRI EDC light with signle 519A 5000K and a 5 A regulated buck driver. |
+| [`TFU-T2B.md`](./TFU-T2B.md) | **T2B** | Compact, brass high-CRI EDC light with signle 519A 4000K and in 14500. |
 | [`TFU-F1.md`](./TFU-F1.md) | **F1** | Field light built for task work and general-purpose use. Includes runtime data and configuration notes. |
 | [`TFU-F2.md`](./TFU-F2.md) | **F2** | Extended-runtime field light optimized for balanced beam and durability. |
 | [`TFU-F3-Legacy.md`](./TFU-F3-Legacy.md) | **F3** | Legacy performance-tuned mule with driver and CCT that has been retired. |

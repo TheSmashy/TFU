@@ -61,12 +61,13 @@ These are tools you trust next to an IFAK, not next to a desk toy.
 | [TFU-E2](hardware/E2-Overview.md) | EDC Light | ✅ Complete |
 | [TFU-E3](hardware/TFU-E3.md) | EDC Light | ✅ Complete |
 | [TFU-E4](hardware/TFU-E4.md) | EDC Light | ✅ Complete |
+| [TFU-T2B](hardware/TFU-T2B.md) | EDC Light | ✅ Complete |
 | [TFU-PE 01](hardware/TFU-PE-01.md) | Premium EDC | Development |
 | [TFU-F1](hardware/TFU-F1.md) | Field Series | ✅ Complete |
-| [TFU-F2](hardware/TFU-F2.md) | Field Series | Development |
+| [TFU-F2](hardware/TFU-F2.md) | Field Series | ✅ Complete |
 | [TFU-F3](hardware/TFU-F3.md) | Field / Mule | ✅ Complete |
 | [TFU-F4](hardware/TFU-F4.md) | Field Series | Development |
-| [TFU-F5](hardware/TFU-F5.md) | Field Series | Development |
+| [TFU-F5](hardware/TFU-F5.md) | Field Series | ✅ Complete |
 | [TFU-F6](hardware/TFU-F6.md) | Field Series | Development |
 | [TFU-T1](hardware/TFU-T1.md) | Tactical | ✅ Complete |
 | [TFU-T2](hardware/TFU-T2.md) | Tactical | ✅ Complete |

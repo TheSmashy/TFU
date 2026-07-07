@@ -8,6 +8,7 @@
 
 The TFU-T2B is built on the **Convoy Brass T3** platform and configured as a premium 14500 everyday-carry light with a warm high-CRI emitter, upgraded optics, improved contact treatment, and TFU final inspection.
 
+![Hand shot](../Assets/TFU-T2B-Hand.jpg)
 ---
 
 ## Core Hardware

@@ -11,7 +11,7 @@
 
 The **TFU-PE 02** is a high-output refinement of the Premium EDC concept.
 
-Where the PE-01 is controlled and minimal, the PE-02 introduces **multi-emitter density** while maintaining the same discipline in beam quality, regulation, and carry.
+The PE-02 introduces **multi-emitter density** while maintaining discipline in beam quality, regulation, and carry.
 
 This is a **triple done correctly**:
 
@@ -28,7 +28,7 @@ Just a compact light with **more presence**, executed cleanly.
 This specific **TFU-PE 02** is a **one-of-one build**.
 
 - It will **not be reproduced**  
-- The emitter behavior, thermal tuning, and beam profile are unique to this unit  
+- The beam, thermal characteristics, and final tint are unique to this individual light, shaped through careful assembly and runtime seasoning  
 - What you have is the result of **intentional setup and real use**, not a fresh-off-the-bench clone  
 
 ---
@@ -135,15 +135,12 @@ It is a **compact high-density tool**, not a flood monster.
 
 The **TFU-PE 02** takes the Premium EDC concept and adds weight where it matters:
 
-> More emitter. More beam. Same discipline.
+> Density without chaos.  
+> Output without compromise.
 
 Still controlled. Still refined. Still intentional.
 
----
-
-> **TFU-PE 02**  
-> Density without chaos.  
-> Output without compromise.
+---  
 
 ## Warranty & Support
 

@@ -37,7 +37,7 @@ The T2B is equally at home opening electrical panels, walking the dog, finding d
 - **Driver:** 1.5A regulated
 - **Mode Group:** 5
 - **Modes:** 1% → 20% → 100%
-- **Memory:** Off (always starts on Low)
+- **Memory:** On (resumes last mode)
 - **Switch:** Reverse clicky
 
 ### Quick Start

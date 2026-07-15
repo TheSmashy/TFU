@@ -9,7 +9,7 @@
 
 ## Overview
 
-The **TFU-T2B** is a premium everyday carry flashlight built on the Convoy Brass T3 platform.
+The **TFU-T2B** is a premium everyday carry flashlight built on the Brass T3 platform.
 
 Designed around a warm, high-CRI Nichia 519A emitter, the T2B emphasizes natural color rendition, simple operation, and dependable performance over maximum output. Its solid brass construction develops a unique patina with use, making every light one of a kind.
 

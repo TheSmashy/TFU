@@ -52,12 +52,11 @@ Each TFU-T2B receives the following work:
 ---
 
 ## Final Mode Configuration
-
-| Mode | Output |
-|---|---|
-| Low | 1% |
-| Medium | 20% |
-| High | 100% |
+| Mode   | Output | Lumens (est.) | Runtime (est.) |
+| ------ | -----: | ------------: | -------------: |
+| Low    |     1% |      **2 lm** |  **≈ 13 days** |
+| Medium |    20% |     **50 lm** |   **≈ 19 hrs** |
+| High   |   100% |    **240 lm** |    **≈ 4 hrs** |
 
 ---
 

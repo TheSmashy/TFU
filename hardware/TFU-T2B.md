@@ -1,12 +1,10 @@
 # TFU-T2B Hardware Specification
 
-## Model
+## Model **TFU-T2B**  
 
-**TFU-T2B**
+## Platform **E Series**  
 
-## Platform
-
-The TFU-T2B is built on the **Convoy Brass T3** platform and configured as a premium 14500 everyday-carry light with a warm high-CRI emitter, upgraded optics, improved contact treatment, and TFU final inspection.
+The TFU-T2B is built on the **Brass T3** platform and configured as a premium 14500 everyday-carry light with a warm high-CRI emitter, upgraded optics, improved contact treatment, and TFU final inspection.
 
 ![Hand shot](../Assets/TFU-T2B-Hand.jpg)
 ---
@@ -105,8 +103,8 @@ The TFU-T2B is tested and sold with a **Vapcell F15 14500 lithium-ion cell**.
 | Item | Price |
 |---|---:|
 | TFU-T2B | $69 |
-| Vapcell F15 14500 | $10 |
-| **Ready-to-run package** | **$79 + shipping** |
+| Vapcell F15 14500 | $0 |
+| **Ready-to-run package** | **$69 + shipping** |
 
 ---
 
@@ -114,4 +112,14 @@ The TFU-T2B is tested and sold with a **Vapcell F15 14500 lithium-ion cell**.
 
 **Production configuration finalized.**
 
-Current hardware specification reflects the standard TFU-T2B build.
+Current hardware specification reflects the standard TFU-T2B build.  
+
+---
+
+## Serial Format
+
+`TFU-T2B-XXX` First T2B is TFU-T2B-001, etc.  
+
+---
+
+Rev 1.1

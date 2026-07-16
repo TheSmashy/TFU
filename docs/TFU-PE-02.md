@@ -118,6 +118,22 @@ This light rewards **measured use**, not abuse.
 
 ---
 
+## Included Kit
+
+Your PE-02 arrives as a complete, ready-to-carry system:
+
+- **Custom padded EVA case**  
+- **(1) Vapcell A11 18350 cells**  
+  - 1100mAh capacity  
+  - 10A continuous discharge  
+- **KIC wipes** (cleaning)  
+- **CAIG DeoxIT wipe** (contact maintenance)  
+- **Lint-free cloth**  
+
+This is everything needed to maintain the light properly from day one.
+
+---
+
 ## Field Role
 
 The PE-02 excels at:

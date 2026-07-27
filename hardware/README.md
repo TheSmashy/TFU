@@ -22,12 +22,13 @@ Compact everyday carry lights built for reliability and convenience.
 - [TFU-E2](E2-Overview.md) – The TFU-E2 platform is TFU’s compact, high-CRI, high-output utility light system based on the S2-class host. [Hardening notes.](TFU-E2-Hardening-List.md)
 - [TFU-E3](TFU-E3.md) - Triple 519A T6 build, compact light with full sized power, 5A buck and triple 519As with a 14500 cell.
 - [TFU-E4](TFU-E4.md) - Compact Convoy S3 based EDC / task light.  Optimized beam with OP relector and AR glass.
+- [TFU-T2B](TFU-T2B.md) - Brass 14500 light.  Statement piece, gentileman's carry.  519A 4000K.
 
 ## F Series – Field
 Lights designed for field work with extended runtime, high durability, and mission-grade output.
 
 - [TFU-F1](TFU-F1.md) – 21700 field model with 519A + 15° bead TIR.  
-- [TFU-F2](TFU-F2.md) – Convoy M21B-based utility build with B35AM + 2A boost driver.  
+- [TFU-F2](TFU-F2.md) – Convoy M21A-based utility build with 519A + 5A buck driver.  
 - [TFU-F3 Legacy](TFU-F3.md#f3-legacy) – Discontinued quad-emitter prototype (S16 host, 6V 8A buck).  
 - [TFU-F3](TFU-F3-Alpha.md) – Quad 519A 5000K Directed Mule Flood (2S2P, 6V 5A boost).  
 - [TFU-F3 Bravo](TFU-F3-Bravo.md) – Discontinued Quad 219B SW45K Directed Mule Flood (2S2P, 6V 3A buck).

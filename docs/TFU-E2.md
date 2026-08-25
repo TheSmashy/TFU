@@ -86,6 +86,8 @@ Full documentation is available here:
 
 Avoid low-quality cells — triples pull honest current.
 
+If you need an inexpensive, quality charger, we recommend the [XTAR MC1](https://www.amazon.com/dp/B00WJGR1XM)  
+
 ---
 
 ## Warranty & Support

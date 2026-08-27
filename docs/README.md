@@ -34,6 +34,7 @@ Every guide here is written for **end users** — no soldering, coding, or engin
 |:------|:-------------|:-------------|
 | [`config_guide_14500.md`](./config_guide_14500.md) | 5 A 14500 Driver | Configuration instructions for 14500-based lights such as the **T-series** and select **E-series** models. |
 | [`config_guide.md`](./config_guide.md) | 18650 / 21700 Drivers | Configuration guide for larger-cell lights like the **E-series** and **F-series**. Includes all 12 mode groups and memory options. |
+| [`Ramping.md`](./Ramping.md) | Ramping Driver | Ramping driver instructions for side switch lights. |  
 
 Each configuration guide explains:
 - How to enter programming mode  

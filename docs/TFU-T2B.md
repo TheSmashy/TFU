@@ -60,7 +60,7 @@ For transport or long-term storage, loosen the tailcap approximately ¼ turn to 
 
 ### Battery Compatibility  
 
-The TFU-T2B ships with a rechargeable Vapcell F15 14500 lithium-ion battery for maximum performance.  
+The TFU-T2B ships with a rechargeable Vapcell F15 or USB-C 14500 lithium-ion battery for maximum performance.  
 
 The regulated buck-boost driver also supports standard AA batteries (alkaline, NiMH, or lithium primary) for emergency or field use, with reduced output compared to the included 14500 cell.  
 

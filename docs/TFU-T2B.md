@@ -22,21 +22,28 @@ The T2B is equally at home opening electrical panels, walking the dog, finding d
 - **Emitter:** Nichia 519A
 - **CCT:** 4000K High CRI
 - **Driver:** 1.5A regulated
-- **Battery:** Vapcell F15 14500, 1500 mAh
 
-| Mode   | Output | Lumens (est.) | Runtime (est.) |
-| ------ | -----: | ------------: | -------------: |
-| Low    |     1% |      **2 lm** |  **≈ 13 days** |
-| Medium |    20% |     **50 lm** |   **≈ 19 hrs** |
-| High   |   100% |    **240 lm** |    **≈ 4 hrs** |
+**Estimated Runtime (Vapcell F15, 1.5 A Driver)**
 
-- **Battery:** Vapcell P1409-C USB-C 14500, 950 mAh
+| Mode | Output Level | Estimated Current Draw | Estimated Runtime* | Thermal Behavior |
+|:----:|:-------------|-----------------------:|-------------------:|:-----------------|
+| 1% | Low | ~0.02–0.03 A | 40–60+ hours | Cool, no rise |
+| 20% | Med | ~0.30 A | 4–5 hours | Mild warmth |
+| 100% | Full Output | 1.5 A (regulated) | ~50–65 minutes | Warm, controlled |
 
-| Mode   | Output | Lumens (est.) | Runtime (est.) |
-| ------ | -----: | ------------: | -------------: |
-| Low    |     1% |      **2 lm** |   **≈ 8 days** |
-| Medium |    20% |     **50 lm** |   **≈ 12 hrs** |
-| High   |   100% |    **240 lm** |  **≈ 2.5 hrs** |
+*Runtime estimates assume a healthy Vapcell F15 (~1500 mAh) at room temperature.  
+
+**Estimated Runtime (Vapcell P1409-C USB-C 14500, 1.5 A Driver)**
+
+| Mode | Output Level | Estimated Current Draw | Estimated Runtime* | Thermal Behavior |
+|:----:|:-------------|-----------------------:|-------------------:|:-----------------|
+| 1% | Low | ~0.02–0.03 A | 25–40+ hours | Cool, no rise |
+| 20% | Med | ~0.30 A | 2.5–3 hours | Mild warmth |
+| 100% | Full Output | 1.5 A (regulated) | ~30–40 minutes | Warm, controlled |
+
+*Runtime estimates assume a healthy Vapcell P1409-C USB-C 14500 (~950 mAh) at room temperature.  
+
+*Actual runtimes will vary based on cell condition, ambient temperature, driver efficiency, and thermal conditions.*
 
 ---
 
@@ -107,6 +114,7 @@ Full documentation is available here:
 - **Pocket Clip:** Silver Convoy T6
 - **Bezel O-ring:** Black
 - **Battery:** Vapcell F15 or P1409-C 14500
+- **Spare Parts:** Body O-ring
 
 ---
 

@@ -22,13 +22,21 @@ The T2B is equally at home opening electrical panels, walking the dog, finding d
 - **Emitter:** Nichia 519A
 - **CCT:** 4000K High CRI
 - **Driver:** 1.5A regulated
-- **Battery:** Vapcell F15 14500 (included)
+- **Battery:** Vapcell F15 14500, 1500 mAh
 
 | Mode   | Output | Lumens (est.) | Runtime (est.) |
 | ------ | -----: | ------------: | -------------: |
 | Low    |     1% |      **2 lm** |  **≈ 13 days** |
 | Medium |    20% |     **50 lm** |   **≈ 19 hrs** |
 | High   |   100% |    **240 lm** |    **≈ 4 hrs** |
+
+- **Battery:** Vapcell P1409-C USB-C 14500, 950 mAh
+
+| Mode   | Output | Lumens (est.) | Runtime (est.) |
+| ------ | -----: | ------------: | -------------: |
+| Low    |     1% |      **2 lm** |   **≈ 8 days** |
+| Medium |    20% |     **50 lm** |   **≈ 12 hrs** |
+| High   |   100% |    **240 lm** |  **≈ 2.5 hrs** |
 
 ---
 
@@ -98,7 +106,7 @@ Full documentation is available here:
 - **Lens:** AR-coated glass
 - **Pocket Clip:** Silver Convoy T6
 - **Bezel O-ring:** Black
-- **Battery:** Vapcell F15 14500
+- **Battery:** Vapcell F15 or P1409-C 14500
 
 ---
 
@@ -112,8 +120,8 @@ If desired, the brass can be restored using a commercial brass polish and a soft
 
 ---
 
-**Version:** TFU-T2B Rev. A  
-**Last Updated:** 2026-07-07
+**Version:** TFU-T2B Rev. B  
+**Last Updated:** 2026-09-05
 
 ---
 

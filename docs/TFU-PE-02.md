@@ -9,15 +9,15 @@
 
 ## Overview
 
-The **TFU-PE 02** is a high-output refinement of the Premium EDC concept.
+The **TFU-PE 02** is a compact, high-output refinement of the Premium EDC concept.
 
-The PE-02 introduces **multi-emitter density** while maintaining discipline in beam quality, regulation, and carry.
+PE-02 adds **multi-emitter density** without giving up beam quality, regulation, or carryability.
 
 This is a **triple done correctly**:
 
-- No tint chaos  
-- No thermal nonsense  
-- No sloppy beam  
+- No tint chaos
+- No thermal nonsense
+- No sloppy beam
 
 Just a compact light with **more presence**, executed cleanly.
 
@@ -27,22 +27,27 @@ Just a compact light with **more presence**, executed cleanly.
 
 This specific **TFU-PE 02** is a **one-of-one build**.
 
-- It will **not be reproduced**  
-- The beam, thermal characteristics, and final tint are unique to this individual light, shaped through careful assembly and runtime seasoning  
-- What you have is the result of **intentional setup and real use**, not a fresh-off-the-bench clone  
+- It will **not be reproduced**
+- Its beam and final tint are unique to this individual light
+- The emitters began as nominal **4500K Nichia 519A R9080s** and were thermally treated as part of this build
+- Final CCT is estimated at **~4200K**; this is a visual/nominal estimate, not a laboratory measurement
+
+What you have is the result of intentional setup, tuning, and real runtime validation — not a fresh-off-the-bench clone.
 
 ---
 
 ## At a Glance
 
-- **Emitter:** Triple Nichia 519A (R9080)  
-- **CCT:** ~4200K effective (thermally seasoned from 4500K)  
-- **Driver:** 3V 5A buck (regulated)  
-- **Optic:** 10° flat TIR  
-- **Host:** Convoy S2+ (black)  
-- **Configuration:** 18350 titanium tube (polished)  
-- **Switch:** Black metal button (no LED)  
-- **Clip:** Black DLC titanium (tuned retention)  
+- **Emitter:** Triple Nichia 519A (R9080)
+- **CCT:** ~4200K effective (nominal 4500K before thermal treatment)
+- **Tint:** Rosy-neutral / below-BBL character
+- **Driver:** 3V 5A buck, regulated
+- **Optic:** 10° flat TIR
+- **Host:** Convoy S2+ (black)
+- **Configuration:** Polished titanium 18350 tube
+- **Switch:** Black metal button, no LED
+- **Clip:** Black DLC titanium, retention tuned
+- **Cell:** Vapcell A11 18350, included
 
 ---
 
@@ -50,45 +55,46 @@ This specific **TFU-PE 02** is a **one-of-one build**.
 
 The PE-02 is defined by its beam.
 
-This triple 519A setup has been **thermally run and stabilized**, settling into a **~4200K rosy-white output** that is:
+The triple 519A array produces a **warm-neutral, visibly rosy working beam** with:
 
-- Slightly warm with a noticeable **rosy DUV shift**  
-- Dense and full without looking muddy  
-- Clean through the center with controlled spill  
-- Visually “soft” but still highly usable  
+- Dense, full output without looking muddy
+- Clean center illumination
+- Smooth transition into practical spill
+- High color fidelity from Nichia R9080 emitters
+- A visually soft character without sacrificing utility
 
-The **10° flat TIR** gives:
+The **10° flat TIR** provides:
 
-- A defined, usable hotspot  
-- Smooth falloff into practical spill  
-- Enough structure for outdoor use without turning into a thrower  
+- A defined, usable hotspot
+- Smooth falloff into practical spill
+- Enough structure for outdoor use without turning the light into a thrower
 
-This is a **high-quality working beam with more body** than a single emitter.
+This is a **working beam with more body** than a comparable single-emitter light.
 
 ---
 
 ## Output & Modes
 
 **Mode Group:** 1% / 10% / 35% / 100%  
-**Memory:** Off  
+**Memory:** Off
 
-- **1%** — Night-safe, low-impact  
-- **10%** — Everyday indoor use  
-- **35%** — Primary working level  
-- **100%** — High-output burst  
+- **1%** — Low-impact navigation and close work
+- **10%** — Everyday indoor use
+- **35%** — Primary sustained working level
+- **100%** — Maximum output / short-duration use
 
-Compared to single-emitter builds, the PE-02 has **more output across all levels**, but remains controlled.
+The regulated buck driver keeps output behavior predictable as cell voltage falls.
 
 ---
 
 ## Carry & Ergonomics
 
-Despite the triple configuration, the PE-02 stays compact and deliberate.
+Despite the triple configuration, PE-02 stays compact and deliberate.
 
-- **18350 polished titanium tube** keeps size down and adds weight balance  
-- **DLC titanium clip** provides strong, reliable retention  
-- **Black S2+ host** keeps the profile understated  
-- **Metal switch** delivers consistent mechanical feedback  
+- **Polished titanium 18350 tube** keeps overall length down and gives the light substantial hand feel
+- **DLC titanium clip** provides strong, tuned retention
+- **Black S2+ head and tail** keep the profile understated
+- **Metal switch** provides positive mechanical feedback
 
 It carries like a small light — because it is one.
 
@@ -96,25 +102,28 @@ It carries like a small light — because it is one.
 
 ## Build Notes
 
-This build emphasizes stability and consistency:
+This build emphasizes stability, consistency, and serviceability:
 
-- Triple emitter board properly seated and aligned  
-- Thermal path tuned through real runtime use (“seasoned”)  
-- Regulated **5A buck driver** for consistent output  
-- Clean electrical work and controlled resistance paths  
+- Triple-emitter board seated and aligned
+- Thermal interfaces assembled for effective heat transfer
+- Beam and thermal behavior validated through runtime use
+- Regulated **5A buck driver** for predictable output
+- Electrical paths assembled and inspected for low-resistance operation
+- Clip retention tuned for this individual light
 
-No overdriving. No instability.
+No overdriving. No unstable hot-rod configuration.
 
 ---
 
 ## Operating Guidance
 
-- Use **35%** as your primary working level  
-- Expect increased heat at **100%** — this is normal for a triple in this form factor  
-- Best performance comes from short bursts at max, sustained work at mid levels  
-- Lock out via tailcap if pocket carrying loose  
+- **35%** is the recommended general working level
+- **100%** produces substantial heat; rapid warming is normal in a compact triple
+- Use maximum output when needed, then return to a lower mode for sustained work
+- Mechanical lockout is available by slightly loosening the tailcap
+- Keep the lens and electrical contact surfaces clean for best performance
 
-This light rewards **measured use**, not abuse.
+The included Vapcell A11 is matched to the electrical demands of the 5A buck configuration.
 
 ---
 
@@ -122,28 +131,39 @@ This light rewards **measured use**, not abuse.
 
 Your PE-02 arrives as a complete, ready-to-carry system:
 
-- **Custom padded EVA case**  
-- **(1) Vapcell A11 18350 cells**  
-  - 1100mAh capacity  
-  - 10A continuous discharge  
-- **KIC wipes** (cleaning)  
-- **CAIG DeoxIT wipe** (contact maintenance)  
-- **Lint-free cloth**  
+- **Custom padded EVA case**
+- **(1) new Vapcell A11 18350 cell**
+  - 1100mAh nominal capacity
+  - 10A continuous discharge rating
+- **KIC optical wipes**
+- **CAIG DeoxIT wipe** for electrical contact maintenance
+- **Lint-free cloth**
 
-This is everything needed to maintain the light properly from day one.
+The supplied cell is part of the intended configuration, not an afterthought.
 
 ---
 
 ## Field Role
 
-The PE-02 excels at:
+PE-02 excels at:
 
-- Close-to-mid range inspection  
-- General-purpose EDC with more output headroom  
-- Outdoor tasks where a single emitter feels thin  
-- Situations where beam quality still matters under higher output  
+- Close-to-mid-range inspection
+- General-purpose EDC with additional output headroom
+- Outdoor work where a single-emitter beam can feel thin
+- Tasks where color rendering and beam quality still matter at higher output
 
 It is a **compact high-density tool**, not a flood monster.
+
+---
+
+## Care & Maintenance
+
+- Wipe the lens with the supplied optical wipe or lint-free cloth; avoid grinding grit across the glass
+- Keep battery and light contact surfaces clean and dry
+- Use DeoxIT on electrical contacts only as needed; a light application is sufficient
+- Inspect the cell wrapper before use and replace the cell if the wrapper or insulator is damaged
+- Do not carry a loose 18350 cell with metal objects; use a protective battery case for spare cells
+- Observe cell polarity when reinstalling the battery
 
 ---
 
@@ -156,7 +176,7 @@ The **TFU-PE 02** takes the Premium EDC concept and adds weight where it matters
 
 Still controlled. Still refined. Still intentional.
 
----  
+---
 
 ## Warranty & Support
 
@@ -164,9 +184,9 @@ TFU lights are built to be used — not babied.
 
 If a defect or workmanship issue arises, the Boathouse will make it right.
 
-Built by hand in the U.S.A.  
+**Built and customized by hand in the U.S.A. from domestic and imported components.**
 
 🔗 [TFU Project on GitHub](https://github.com/TheSmashy/TFU)  
-🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)  
+🔹 [Warranty and Support](https://github.com/TheSmashy/TFU/blob/main/ops/WARRANTY.md)
 
-**Contact:** TFU-Lights@wmode.anonaddy.com | Reddit: u/thesmashy  
+**Contact:** TFU-Lights@wmode.anonaddy.com | Reddit: u/thesmashy

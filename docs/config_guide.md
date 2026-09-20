@@ -28,9 +28,6 @@
 Tap during this sequence to access the **mode-group sub-options**.  
 If no action is taken, the light automatically proceeds to **Option 2**.
 
-<details>
-<summary>📘 View Mode Groups (click to expand)</summary>
-
 | Sub-Option | Flash Pattern | Mode Group | Modes |
 |:-----------:|:--------------|:-----------|:-------|
 | **1.1** | 1 flash | Group 1 | 0.1 % → 1 % → 10 % → 35 % → 100 % → Strobe → Biking → Battery Check |

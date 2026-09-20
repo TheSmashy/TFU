@@ -20,9 +20,6 @@
 If selected, the light will step through **sub-options (1.1 – 1.12)**, each representing a mode group.  
 If no action is taken, the flashlight will automatically proceed to **Option 2**.
 
-<details>
-<summary>📘 View Mode Groups (click to expand)</summary>
-
 | Sub-Option | Flash Pattern | Mode Group | Modes |
 |:-----------:|:--------------|:-----------|:-------|
 | **1.1** | 1 flash | Group 1 | 1 % → 10 % → 30 % → 100 % |

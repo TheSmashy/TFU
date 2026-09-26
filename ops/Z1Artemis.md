@@ -2,6 +2,7 @@
 
 ## The Kind of Light Someone Who Makes Lights Carries
 
+![Z1 Hero](../Assets/20260913_054216.jpg)  
 I make and sell flashlights.
 
 I have a lot of flashlights. I have strong opinions about CRI, DUV, drivers, optics, clips, and whether a flashlight is actually good at being a flashlight. And when I want something specific, I usually just build it.
@@ -21,6 +22,8 @@ But I started digging into the Z1's specifications and reading reviews.
 And some things caught my attention.
 
 The Z1 is an **18650 light that's only 92 mm tall**. For perspective, a Convoy T3—a *14500* light—is about 93.3 mm tall.
+
+![T3 compare](../Assets/20260913_054035.jpg)  
 
 That's interesting.
 

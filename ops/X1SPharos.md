@@ -118,7 +118,7 @@ More importantly, Firefly letting you buy the parts and change the personality o
 
 The FFL5009D 5000K was a deliberate choice.
 
-My Z1 Artemis uses the FFL5009R 3700K Rosy, and that emitter is almost offensively pretty. It's warm, rosy, high CRI, and makes everything look good. It's exactly the kind of emitter that makes flashlight people shine lights at walls and then nod approvingly at them.
+My Z1 Artemis uses the FFL5009R 3500K Rosy, and that emitter is almost offensively pretty. It's warm, rosy, high CRI, and makes everything look good. It's exactly the kind of emitter that makes flashlight people shine lights at walls and then nod approvingly at them.
 
 The X1S is doing something different.
 

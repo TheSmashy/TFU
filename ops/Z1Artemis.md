@@ -61,6 +61,8 @@ That's probably the highest compliment I can give an optic.
 
 It just works.
 
+![Beamshot](../Assets/Z1-FFL5009R-3500K-5m-GARAGE.jpg)
+
 ## And Then I Started Liking the Weird Stuff
 
 I expected to tolerate Andúril.
@@ -106,6 +108,8 @@ It feels like somebody designed a flashlight.
 Fireflies doesn't exactly have a legendary reputation for pocket clips, but the Z1's clip is actually decent. It carries well, the light disappears surprisingly easily in a pocket for an 18650 platform, and I've never felt an immediate need to replace the clip.
 
 Again: high praise from someone who has replaced a lot of flashlight clips.
+
+![three forths](../Assets/20260913_054003.jpg)
 
 ## The Thing Fireflies Got Right
 
@@ -156,3 +160,8 @@ I'm impressed because it's a **fantastic flashlight that also happens to be a we
 And for someone who makes his own lights because commercial lights usually aren't quite what he wants?
 
 That's saying something.
+
+
+W. Mode AKA The Smashy  
+Owner of TFU Lights  
+27-09-2026  

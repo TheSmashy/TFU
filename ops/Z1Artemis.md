@@ -3,6 +3,9 @@
 ## The Kind of Light Someone Who Makes Lights Carries
 
 ![Z1 Hero](../Assets/20260913_054216.jpg)  
+
+[Z1 Artemis TIR at Firefly Outdoors](https://www.firefly-outdoor.com/products/z1-artemis)  
+
 I make and sell flashlights.
 
 I have a lot of flashlights. I have strong opinions about CRI, DUV, drivers, optics, clips, and whether a flashlight is actually good at being a flashlight. And when I want something specific, I usually just build it.

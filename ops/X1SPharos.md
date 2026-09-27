@@ -2,9 +2,9 @@
 
 **FFL5009D 5000K NW**
 
-[Fireflies X1S Pharos TIR](https://www.firefly-outdoor.com/products/fireflylite-x1s-pharos)  
+[Fireflies X1S Pharos TIR at Fireflies Outdoor](https://www.firefly-outdoor.com/products/fireflylite-x1s-pharos)  
 
-A few weeks ago I bought a Fireflies Lights Z1 Artemis with the FFL5009R 3700K Rosy emitter, and overall I've been incredibly impressed with it.
+A few weeks ago I bought a Fireflies Lights Z1 Artemis with the FFL5009R 3500K Rosy emitter, and overall I've been incredibly impressed with it.
 
 I've been a Nichia/high-CRI guy for a long time, and the emitter in the Z1 is painfully gorgeous. More importantly, despite being a full enthusiast Andúril light, Firefly absolutely nails the two things that matter underneath all the flashlight-nerd stuff:
 

@@ -128,7 +128,7 @@ The FFL5009D 5000K is a neutral-white, high-CRI emitter in a light that I intend
 
 And that's what I got.
 
-The beam is clean, neutral, and extremely usable. Colors look like colors. Browns, greens, reds, wiring, painted surfaces, dirt, vegetation—you aren't fighting an ugly green cast or having everything washed into the same low-CRI approximation of reality.
+The beam is clean, mostly neutral, and extremely usable.  The FFL5009R does have a slight rosy bias, but it is hard to notice. Colors look like colors. Browns, greens, reds, wiring, painted surfaces, dirt, vegetation—you aren't fighting an ugly green cast or having everything washed into the same low-CRI approximation of reality.
 
 At 5000K, it also feels appropriately *daylight* without becoming the cold blue-white that used to define high-output tactical lights.
 
@@ -190,7 +190,7 @@ Instead of the very controlled distribution of the TIRs, you get the familiar ho
 
 There's a lot more peripheral light here.
 
-That makes the reflector configuration extremely useful if you want the X1S to behave like a conventional high-performance general-purpose flashlight. You retain considerable reach, but the environment around the hotspot becomes much more visible.
+That makes the reflector configuration extremely useful if you want the X1S to behave like a conventional high-performance thrower. You retain considerable reach, but the environment around the hotspot becomes much more visible due to spill.
 
 Depending on what you're doing, that may actually be the most useful beam of the three.
 
@@ -208,7 +208,7 @@ They materially change the light.
 
 **LLC25R:** compact thrower.
 
-**OP reflector:** traditional hotspot-and-spill flashlight.
+**OP reflector:** hotspot-and-spill thrower.
 
 And all three work.
 
@@ -261,7 +261,7 @@ And, yes, it can still do candle mode.
 
 That's what keeps standing out to me about the X1S.
 
-There are a tremendous number of things going on here: Andúril, auxiliary LEDs, interchangeable optics, a high-CRI FFL emitter, a boost driver, USB-C charging, power-bank capability, configurable signaling modes, a 21700 cell.
+There are a tremendous number of things going on here: Andúril, auxiliary LEDs, interchangeable optics, a high-CRI FFL emitter, a boost driver, USB-C charging, configurable signaling modes, a 21700 cell.
 
 It would be very easy for this flashlight to become a pile of enthusiast features looking for a purpose.
 

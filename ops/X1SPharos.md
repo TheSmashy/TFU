@@ -281,7 +281,7 @@ The X1S feels like somebody started with the question, *"What should a modern ge
 
 So, Colonial Marine:
 
-Your illumination device has a high-CRI emitter, regulated driver, interchangeable optical system, onboard charging, power-bank capability, programmable visual signaling, battery-state indication, and enough runtime to make all of those things genuinely useful.
+Your illumination device has a high-CRI emitter, regulated driver, interchangeable optical system, onboard charging, programmable visual signaling, battery-state indication, and enough runtime to make all of those things genuinely useful.
 
 Dropship loads in ten mikes.
 

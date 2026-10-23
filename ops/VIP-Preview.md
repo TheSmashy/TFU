@@ -1,4 +1,6 @@
 
+# November BST VIP Preview
+
 # [WTS] CONUS — Customized Convoy Lights — $15–60 Shipped
 
 Cleaning out some customized Convoy builds. All tested and working; condition/issues noted individually. Prices include CONUS shipping.
@@ -15,8 +17,8 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 
 **Bundles:** $5 off each additional light. For example, two $25 lights for $45.
 
-**Timestamp:** [View Timestamp](https://imgur.com/BrrwslP)  
-**Gallery:** [View Full Gallery](https://imgur.com/a/TxuirpO)
+**Timestamp:** [View Timestamp](https://imgur.com/5GysBUr)  
+**Gallery:** [View Full Gallery](https://imgur.com/a/4EpNj46)
 
 ---
 
@@ -31,7 +33,7 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 - Tail spring bypass
 - Rugged clip
 
-**[View Image](https://imgur.com/De8a3ZK)**
+**[View Image](https://imgur.com/pBruPAI)**
 
 ---
 
@@ -45,7 +47,7 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 - Tan 18350 tube
 - Black deep-carry clip
 
-**[View Image](https://imgur.com/LxNfVXT)**
+**[View Image](https://imgur.com/RMLTD78)**
 
 ---
 
@@ -58,7 +60,7 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 - 18350 tube
 - Forward clicky
 
-**Image:** [Link Pending]
+**[View Image](https://imgur.com/DFK1upa)**
 
 ---
 
@@ -73,7 +75,7 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 - Forward clicky
 - Tail spring bypass
 
-**Image:** [Link Pending]
+**[View Image](https://imgur.com/lXTUJFD)**
 
 ---
 
@@ -89,7 +91,18 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 - Forward clicky
 - Tail spring bypass
 
-**Image:** [Link Pending]
+**[View Image](https://imgur.com/lyn5zuz)**
+
+---
+
+## Custom T5 519A 5000K — $18
+
+- Convoy T5
+- 519A 5000K
+- 1.5A buck 12-group driver
+- 30 Degree TIR
+- Mode Group 5: 1-10-100%
+**[View Image](https://imgur.com/02eK85g)**
 
 ---
 
@@ -107,7 +120,7 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 
 **[Reddit Build Post](https://www.reddit.com/r/flashlight/comments/1tbxuly/stonewashed_stainless_s6_toe_breaker_boathouse/)**
 
-**Image:** [Link Pending]
+**[View Image](https://imgur.com/bYI7W0B)**
 
 ---
 
@@ -126,4 +139,4 @@ Cleaning out some customized Convoy builds. All tested and working; condition/is
 
 **[Reddit Build Post](https://www.reddit.com/r/flashlight/comments/1sqoqew/nbd_brass_3000k_519a_triple/)**
 
-**Image:** [Link Pending]
+**[View Image](https://imgur.com/7Jnk277)**  
